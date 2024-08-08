@@ -1,0 +1,2741 @@
+18/07/22, 6:25 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+18/07/22, 6:25 pm - ✌️Trio Tech Akshaya😇: Hi Ram Anna, is the instance working? This Akshaya from hcm trio tech!
+18/07/22, 6:26 pm - Ram: Yes working
+18/07/22, 6:27 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+18/07/22, 6:27 pm - ✌️Trio Tech Akshaya😇: Okay tks anna
+18/07/22, 6:28 pm - Ram: You are from EBS background?
+18/07/22, 6:28 pm - ✌️Trio Tech Akshaya😇: No no from her recruitment background completely fresh to hcm
+18/07/22, 6:28 pm - ✌️Trio Tech Akshaya😇: How about you Anna?
+18/07/22, 6:29 pm - Ram: Can I call you
+18/07/22, 6:29 pm - ✌️Trio Tech Akshaya😇: *am from hr
+18/07/22, 6:29 pm - ✌️Trio Tech Akshaya😇: Yea sure
+18/07/22, 6:29 pm - ✌️Trio Tech Akshaya😇: 👍
+19/07/22, 9:56 am - Ram: Hi
+19/07/22, 9:57 am - Ram: No need to use from own user login
+19/07/22, 9:57 am - Ram: Common login itself you can start implementing
+19/07/22, 10:02 am - ✌️Trio Tech Akshaya😇: Hi Anna good morning🙂
+19/07/22, 10:02 am - ✌️Trio Tech Akshaya😇: Y Anna is there any change?
+19/07/22, 10:03 am - ✌️Trio Tech Akshaya😇: It's not getting implemented from our login?
+19/07/22, 10:06 am - Ram: Yeah we have to give the user name as Projection.session
+19/07/22, 10:07 am - ✌️Trio Tech Akshaya😇: Okay anna
+19/07/22, 10:07 am - ✌️Trio Tech Akshaya😇: I have already created one
+19/07/22, 10:07 am - ✌️Trio Tech Akshaya😇: So I can continue ryt anna
+19/07/22, 10:08 am - Ram: No issues keep it aside. Use from given login
+19/07/22, 10:58 am - Ram: Have you tried creating the Locations?
+19/07/22, 5:27 pm - Ram: Have you sorted out
+19/07/22, 5:27 pm - ✌️Trio Tech Akshaya😇: Hi Anna am setting it up but then it's not showing formed too!!🙁
+19/07/22, 5:28 pm - Ram: Send the msg to Kumar on the same
+19/07/22, 5:28 pm - Ram: Call and inform
+19/07/22, 5:28 pm - Ram: I also tried he not responding
+19/07/22, 5:28 pm - ✌️Trio Tech Akshaya😇: Sure Anna I will ask for him👍
+20/07/22, 6:03 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+20/07/22, 6:03 pm - Ram: Yes Akshaya
+20/07/22, 6:04 pm - ✌️Trio Tech Akshaya😇: I have a doubt! So can I call you?
+20/07/22, 6:05 pm - ✌️Trio Tech Akshaya😇: If you are free please ping me for the time to call.
+20/07/22, 6:36 pm - Ram: Call now
+23/07/22, 3:41 pm - Ram: Old instance is not working right?
+23/07/22, 3:41 pm - ✌️Trio Tech Akshaya😇: Nope Anna I didn't check yet
+23/07/22, 3:42 pm - Ram: Ok
+27/07/22, 9:54 am - Ram: Hi Akshaya
+27/07/22, 9:55 am - Ram: Last two days I'm not attended the class due to some emergency even tmrw also I can't. So if possible on Friday or Saturday can you teach me on DFFS, BU and Dept?
+27/07/22, 9:55 am - ✌️Trio Tech Akshaya😇: Sure anna👍😊
+27/07/22, 9:58 am - Ram: 🙏
+29/07/22, 6:35 pm - Ram: Hi Akshaya
+29/07/22, 6:37 pm - ✌️Trio Tech Akshaya😇: Hi anna🙂
+29/07/22, 6:42 pm - Ram: Are you free now
+29/07/22, 6:55 pm - ✌️Trio Tech Akshaya😇: No Anna child is not feeling well, can we connect tomorrow post lunch?👍
+29/07/22, 6:55 pm - Ram: Okay sure
+29/07/22, 6:55 pm - ✌️Trio Tech Akshaya😇: Sure anna👍
+29/07/22, 8:06 pm - Ram: <Media omitted>
+29/07/22, 8:30 pm - ✌️Trio Tech Akshaya😇: Legal employer must be created
+29/07/22, 8:30 pm - ✌️Trio Tech Akshaya😇: Anna
+29/07/22, 8:30 pm - ✌️Trio Tech Akshaya😇: Select in the drop down!
+29/07/22, 8:31 pm - ✌️Trio Tech Akshaya😇: We have first create legislative data group then we have to map to legal employer
+29/07/22, 8:31 pm - ✌️Trio Tech Akshaya😇: Where in ldg he didn't take that topic yet so as of now what is available you select and practice anna
+29/07/22, 8:32 pm - Ram: So we can't create our own Legal employer right
+29/07/22, 8:32 pm - Ram: Existing only we can use right?
+29/07/22, 8:33 pm - ✌️Trio Tech Akshaya😇: Yes Anna legal employer we created we didn't create legal data group which yet to be taught by sir!
+29/07/22, 8:33 pm - ✌️Trio Tech Akshaya😇: Yeah Anna 👍
+29/07/22, 8:33 pm - Ram: If I have Mahindra as a enterprise means for that I can't create LDG right new
+29/07/22, 8:34 pm - ✌️Trio Tech Akshaya😇: Yeah Anna if you know u create
+29/07/22, 8:34 pm - ✌️Trio Tech Akshaya😇: Else select the existing one
+29/07/22, 8:34 pm - Ram: You know to create?
+29/07/22, 8:35 pm - ✌️Trio Tech Akshaya😇: No Anna I dunno he didn't teach that topic ryt
+29/07/22, 8:35 pm - Ram: Ok
+29/07/22, 8:35 pm - ✌️Trio Tech Akshaya😇: So I'm not aware
+29/07/22, 8:35 pm - Ram: Fine
+29/07/22, 8:37 pm - ✌️Trio Tech Akshaya😇: Anna no
+29/07/22, 8:37 pm - ✌️Trio Tech Akshaya😇: Actually
+29/07/22, 8:37 pm - ✌️Trio Tech Akshaya😇: We have a video related to it
+29/07/22, 8:37 pm - ✌️Trio Tech Akshaya😇: Ldg psu something video I thing we have to do accordingly
+29/07/22, 8:37 pm - Ram: What topic
+29/07/22, 8:38 pm - ✌️Trio Tech Akshaya😇: Le psu, ldg he might have mentioned
+29/07/22, 8:38 pm - ✌️Trio Tech Akshaya😇: LE, PSU, LDG with these words
+29/07/22, 8:38 pm - ✌️Trio Tech Akshaya😇: One video is there
+29/07/22, 8:38 pm - Ram: Let me chk
+29/07/22, 8:39 pm - ✌️Trio Tech Akshaya😇: But to my knowledge, we have not been taught
+29/07/22, 8:39 pm - Ram: Yeah I also have the same doubt
+29/07/22, 8:40 pm - ✌️Trio Tech Akshaya😇: Yeah Anna tomorrow we will continue to connect and try finding out!
+29/07/22, 8:40 pm - Ram: Okay sure
+29/07/22, 8:40 pm - ✌️Trio Tech Akshaya😇: 👍
+29/07/22, 8:41 pm - Ram: These whole week I was not available
+29/07/22, 8:41 pm - Ram: Henceforth only have to see the videos
+29/07/22, 8:41 pm - Ram: From DFFS onwards
+29/07/22, 8:42 pm - ✌️Trio Tech Akshaya😇: Dff it's very easy
+29/07/22, 8:42 pm - ✌️Trio Tech Akshaya😇: Oops okay 😔
+29/07/22, 8:42 pm - ✌️Trio Tech Akshaya😇: We will discuss that tomorrow anna👍🙂
+29/07/22, 8:43 pm - Ram: Can you teach me from that
+29/07/22, 8:43 pm - ✌️Trio Tech Akshaya😇: Sure sure 👍
+29/07/22, 8:43 pm - Ram: 🙏
+29/07/22, 8:45 pm - ✌️Trio Tech Akshaya😇: 👍
+30/07/22, 6:54 pm - Ram: Hi Akshaya
+30/07/22, 7:45 pm - Ram: Are you free now
+30/07/22, 7:46 pm - ✌️Trio Tech Akshaya😇: Hi Anna nope it's dinner time now I have to prepare dinner shall we have our session tomorrow evening ?
+30/07/22, 7:46 pm - Ram: Okay
+30/07/22, 7:47 pm - ✌️Trio Tech Akshaya😇: Anna, I will be free from 2:00-5:00 pm so at that time we will do our practice!
+30/07/22, 7:48 pm - Ram: What Abt 5 to 7?
+30/07/22, 7:50 pm - ✌️Trio Tech Akshaya😇: 5 - 7 weekends are okay but weeks days kids home work I have to start so it will be quite difficult.
+30/07/22, 7:50 pm - ✌️Trio Tech Akshaya😇: 😔
+30/07/22, 7:50 pm - Ram: I said for tmrw only
+30/07/22, 7:50 pm - Ram: Weekdays 2 to 5 is fine
+30/07/22, 7:51 pm - ✌️Trio Tech Akshaya😇: Yea sure tomorrow 5:30 -7 we can  anna
+30/07/22, 7:51 pm - ✌️Trio Tech Akshaya😇: 👍Sure
+30/07/22, 7:51 pm - Ram: Okay fine
+30/07/22, 7:51 pm - ✌️Trio Tech Akshaya😇: 👍
+31/07/22, 6:26 pm - Ram: Hi Akshaya
+31/07/22, 6:38 pm - ✌️Trio Tech Akshaya😇: Hi anna
+31/07/22, 6:45 pm - ✌️Trio Tech Akshaya😇: Can we connect?
+31/07/22, 6:47 pm - Ram: Yes
+31/07/22, 6:49 pm - Ram: I sent you the invite
+31/07/22, 6:52 pm - ✌️Trio Tech Akshaya😇: Checking anna
+31/07/22, 6:52 pm - Ram: Ok
+31/07/22, 6:52 pm - ✌️Trio Tech Akshaya😇: Joined
+01/08/22, 2:07 pm - ✌️Trio Tech Akshaya😇: Hello Anna
+01/08/22, 2:52 pm - Ram: Hi Akshaya
+01/08/22, 2:57 pm - ✌️Trio Tech Akshaya😇: Hi
+02/08/22, 11:19 am - Ram: Hi Akshaya
+02/08/22, 11:36 am - ✌️Trio Tech Akshaya😇: Hey hi anna
+02/08/22, 11:36 am - ✌️Trio Tech Akshaya😇: Let's connect
+02/08/22, 11:44 am - Ram: Connect on the same link
+02/08/22, 11:44 am - ✌️Trio Tech Akshaya😇: Sure
+02/08/22, 1:58 pm - ✌️Trio Tech Akshaya😇: Hello anna
+02/08/22, 1:59 pm - Ram: Join
+02/08/22, 2:00 pm - ✌️Trio Tech Akshaya😇: Joined
+02/08/22, 2:00 pm - ✌️Trio Tech Akshaya😇: Anna
+02/08/22, 5:15 pm - Ram: Hi Akshaya
+02/08/22, 5:15 pm - Ram: Can we connect at 5.45?
+02/08/22, 5:18 pm - ✌️Trio Tech Akshaya😇: Okay anna
+02/08/22, 5:25 pm - ✌️Trio Tech Akshaya😇: Anna
+02/08/22, 5:25 pm - ✌️Trio Tech Akshaya😇: We will connect by 6:15
+02/08/22, 5:25 pm - Ram: Ok
+02/08/22, 6:11 pm - ✌️Trio Tech Akshaya😇: Anna
+02/08/22, 6:11 pm - ✌️Trio Tech Akshaya😇: Joined
+02/08/22, 6:11 pm - Ram: 5 mins
+02/08/22, 6:22 pm - Ram: Join now
+03/08/22, 4:32 pm - ✌️Trio Tech Akshaya😇: Hello
+03/08/22, 4:32 pm - ✌️Trio Tech Akshaya😇: Anna
+03/08/22, 4:33 pm - ✌️Trio Tech Akshaya😇: Did you form the tree is your company is visible under search?
+03/08/22, 4:41 pm - Ram: Hi Akshaya not done, you completed?
+03/08/22, 4:43 pm - ✌️Trio Tech Akshaya😇: Nooo Anna 🙁
+03/08/22, 4:44 pm - ✌️Trio Tech Akshaya😇: It' not s not showing
+03/08/22, 4:44 pm - ✌️Trio Tech Akshaya😇: Actual
+03/08/22, 4:44 pm - ✌️Trio Tech Akshaya😇: Even your!
+03/08/22, 4:59 pm - ✌️Trio Tech Akshaya😇: Anna
+03/08/22, 5:00 pm - ✌️Trio Tech Akshaya😇: Is your tree visible
+03/08/22, 5:00 pm - Ram: No
+03/08/22, 5:01 pm - ✌️Trio Tech Akshaya😇: Nooo??
+03/08/22, 5:01 pm - ✌️Trio Tech Akshaya😇: Mahindra or tech manhindra
+03/08/22, 5:18 pm - Ram: Yeah yes
+03/08/22, 6:30 pm - Ram: We have to create one US or Kuwait legal entities
+03/08/22, 6:30 pm - Ram: Then only we can understand the process
+03/08/22, 6:30 pm - ✌️Trio Tech Akshaya😇: Yes anna
+03/08/22, 6:31 pm - ✌️Trio Tech Akshaya😇: But same ryt
+03/08/22, 6:31 pm - ✌️Trio Tech Akshaya😇: ??
+03/08/22, 6:31 pm - Ram: See there the process will slightly differ i guess
+03/08/22, 6:31 pm - ✌️Trio Tech Akshaya😇: Oh you created uh??
+03/08/22, 6:32 pm - Ram: No
+03/08/22, 6:32 pm - ✌️Trio Tech Akshaya😇: Okay will check, but how come it differs??
+03/08/22, 6:33 pm - Ram: I said it's a guess
+03/08/22, 6:33 pm - ✌️Trio Tech Akshaya😇: Alright👍
+03/08/22, 6:33 pm - Ram: Will do it tmrw
+03/08/22, 6:34 pm - ✌️Trio Tech Akshaya😇: Okay anna
+03/08/22, 6:34 pm - Ram: From starting
+03/08/22, 6:34 pm - ✌️Trio Tech Akshaya😇: Okay anna
+04/08/22, 12:05 pm - Ram: Hi Akshaya
+04/08/22, 12:23 pm - ✌️Trio Tech Akshaya😇: Hi anna
+04/08/22, 12:25 pm - Ram: Can we connect
+04/08/22, 12:26 pm - ✌️Trio Tech Akshaya😇: Yes Anna my son is returning from school Anna can we connect by 2??
+04/08/22, 12:28 pm - Ram: Ok
+04/08/22, 1:34 pm - ✌️Trio Tech Akshaya😇: Anna
+04/08/22, 1:34 pm - ✌️Trio Tech Akshaya😇: There??
+04/08/22, 1:34 pm - Ram: Yes
+04/08/22, 1:34 pm - ✌️Trio Tech Akshaya😇: Am ready shall we connect now??
+04/08/22, 3:55 pm - ✌️Trio Tech Akshaya😇: Hello
+04/08/22, 3:55 pm - ✌️Trio Tech Akshaya😇: anna
+04/08/22, 3:55 pm - ✌️Trio Tech Akshaya😇: can we connect now
+04/08/22, 4:31 pm - Ram: Hi
+04/08/22, 4:31 pm - Ram: Yes
+04/08/22, 5:11 pm - ✌️Trio Tech Akshaya😇: Joined
+04/08/22, 5:12 pm - ✌️Trio Tech Akshaya😇: 1sec
+04/08/22, 5:12 pm - ✌️Trio Tech Akshaya😇: Anna
+04/08/22, 5:12 pm - ✌️Trio Tech Akshaya😇: Laptop
+04/08/22, 5:12 pm - ✌️Trio Tech Akshaya😇: Stuck
+04/08/22, 5:12 pm - Ram: Okay
+04/08/22, 5:13 pm - Ram: I joined
+05/08/22, 11:29 am - ✌️Trio Tech Akshaya😇: Anna
+05/08/22, 11:29 am - ✌️Trio Tech Akshaya😇: Please ask your colleagues
+05/08/22, 11:29 am - ✌️Trio Tech Akshaya😇: Today
+05/08/22, 11:33 am - Ram: Sure
+05/08/22, 11:47 am - ✌️Trio Tech Akshaya😇: 👍
+05/08/22, 12:39 pm - Ram: Instance is not working right
+05/08/22, 12:42 pm - ✌️Trio Tech Akshaya😇: I didn't check anna
+05/08/22, 12:43 pm - Ram: Nthg working
+05/08/22, 12:57 pm - ✌️Trio Tech Akshaya😇: 😂😂
+05/08/22, 1:38 pm - Ram: Again com is back
+05/08/22, 1:39 pm - ✌️Trio Tech Akshaya😇: Com will never get away from us!!😅🤣 ninnu vela pannuvaan 😅😅
+05/08/22, 1:40 pm - Ram: Yeah yes
+05/08/22, 1:40 pm - Ram: When you are free
+05/08/22, 1:42 pm - ✌️Trio Tech Akshaya😇: Yeah Anna tell me
+05/08/22, 1:44 pm - Ram: Can we connect
+05/08/22, 3:42 pm - ✌️Trio Tech Akshaya😇: Hi anna
+05/08/22, 3:42 pm - ✌️Trio Tech Akshaya😇: 👍 yea
+05/08/22, 3:42 pm - ✌️Trio Tech Akshaya😇: We can connect
+05/08/22, 3:43 pm - ✌️Trio Tech Akshaya😇: Did you ask any info from your colleague??
+05/08/22, 3:46 pm - ✌️Trio Tech Akshaya😇: Both instance, are working anna😅
+05/08/22, 4:07 pm - ✌️Trio Tech Akshaya😇: Anna have you added roles is it working??
+05/08/22, 4:40 pm - Ram: Can we connect
+05/08/22, 4:40 pm - ✌️Trio Tech Akshaya😇: Abba jus now shut downed..ok Anna switching it onn
+05/08/22, 4:41 pm - ✌️Trio Tech Akshaya😇: 2 mins ann
+05/08/22, 4:41 pm - Ram: Ok
+06/08/22, 3:14 pm - Ram: Hi Akshaya
+06/08/22, 3:15 pm - Ram: Lookups also not displaying when I create in this instance dev8
+06/08/22, 4:39 pm - ✌️Trio Tech Akshaya😇: Oh...
+06/08/22, 4:39 pm - ✌️Trio Tech Akshaya😇: Is it
+06/08/22, 4:39 pm - ✌️Trio Tech Akshaya😇: It is visible anna
+06/08/22, 4:39 pm - Ram: No I just try creating new one it's not showing
+06/08/22, 4:40 pm - ✌️Trio Tech Akshaya😇: Okay in com cast have you checked
+06/08/22, 4:40 pm - Ram: No dev8
+06/08/22, 4:40 pm - ✌️Trio Tech Akshaya😇: Is it showing there?
+06/08/22, 4:40 pm - ✌️Trio Tech Akshaya😇: Check-in com cast Anna if it shows there then it's an instance mistake
+06/08/22, 4:40 pm - ✌️Trio Tech Akshaya😇: Else
+06/08/22, 4:41 pm - Ram: Ok
+06/08/22, 4:41 pm - ✌️Trio Tech Akshaya😇: Yeah Anna check in com cast once creatine new
+06/08/22, 4:41 pm - Ram: Ok
+06/08/22, 4:53 pm - Ram: Have you seen end user videos?
+06/08/22, 4:56 pm - ✌️Trio Tech Akshaya😇: Noo Anna today planning
+06/08/22, 4:56 pm - ✌️Trio Tech Akshaya😇: U??
+06/08/22, 4:56 pm - Ram: Not seen
+06/08/22, 4:56 pm - ✌️Trio Tech Akshaya😇: Okay anna
+06/08/22, 4:57 pm - ✌️Trio Tech Akshaya😇: Anna Have you got any info from your colleagues??🙂
+06/08/22, 4:58 pm - Ram: He said Monday will check with functional team and let me know
+06/08/22, 4:59 pm - ✌️Trio Tech Akshaya😇: Okay anna👍🙂
+06/08/22, 5:01 pm - ✌️Trio Tech Akshaya😇: That pending worker we were discussing la, we have to change the status immediately nu that we have to go to the pending worker and change the status Anna I didn't see the video but am thinking of this and telling I have to give a try now
+06/08/22, 5:05 pm - Ram: Above hire an employee task you will find one attribute you have to click that and click the pending worked name person and above you will see >> have to click that symbol
+06/08/22, 5:09 pm - ✌️Trio Tech Akshaya😇: Oohhh okay will connect tomorrow anna
+06/08/22, 5:09 pm - Ram: Okay
+06/08/22, 6:51 pm - Ram: Not coming
+06/08/22, 6:51 pm - Ram: Lookups
+06/08/22, 6:51 pm - Ram: Whether I doing wrong i don't no
+06/08/22, 6:51 pm - Ram: R u free now
+06/08/22, 7:21 pm - ✌️Trio Tech Akshaya😇: Hello anna
+06/08/22, 7:22 pm - ✌️Trio Tech Akshaya😇: Nope Anna have to prepare dinner
+06/08/22, 7:22 pm - ✌️Trio Tech Akshaya😇: Will connect tomorrow I will be free for the day 👍
+06/08/22, 7:22 pm - Ram: Okay sure
+06/08/22, 7:22 pm - ✌️Trio Tech Akshaya😇: 👍😊
+07/08/22, 10:11 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+07/08/22, 11:06 am - Ram: Wish you the same
+07/08/22, 3:38 pm - Ram: Hi Akshaya
+07/08/22, 5:02 pm - ✌️Trio Tech Akshaya😇: Hi anna👋
+07/08/22, 5:12 pm - Ram: Instance work agudha
+07/08/22, 6:02 pm - ✌️Trio Tech Akshaya😇: Therilaye anna🙁 have to check
+07/08/22, 6:04 pm - ✌️Trio Tech Akshaya😇: Anna
+07/08/22, 6:04 pm - ✌️Trio Tech Akshaya😇: Both are working i
+07/08/22, 6:06 pm - Ram: Okay are you free now
+07/08/22, 6:08 pm - ✌️Trio Tech Akshaya😇: No Anna going out for veggies
+07/08/22, 6:08 pm - Ram: Ok
+07/08/22, 6:08 pm - ✌️Trio Tech Akshaya😇: Shall we catch up tomorrow?? 👍🙂
+07/08/22, 6:09 pm - Ram: Ok
+08/08/22, 12:45 pm - Ram: Hi Akshaya
+08/08/22, 12:45 pm - Ram: Can we connect at 2pm
+08/08/22, 12:57 pm - ✌️Trio Tech Akshaya😇: Sure anna
+08/08/22, 12:57 pm - ✌️Trio Tech Akshaya😇: 👍
+08/08/22, 2:11 pm - Ram: Hi
+08/08/22, 2:15 pm - ✌️Trio Tech Akshaya😇: Hi Anna just 15 min am coming
+08/08/22, 2:17 pm - Ram: Ok
+08/08/22, 2:28 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+08/08/22, 2:28 pm - ✌️Trio Tech Akshaya😇: Anna
+08/08/22, 2:28 pm - ✌️Trio Tech Akshaya😇: Joined
+08/08/22, 2:34 pm - Ram: Wait coming
+08/08/22, 2:39 pm - Ram: I joined
+08/08/22, 2:39 pm - Ram: You are not there
+09/08/22, 9:24 am - ✌️Trio Tech Akshaya😇: Hi anna
+09/08/22, 9:24 am - ✌️Trio Tech Akshaya😇: So what he told
+09/08/22, 9:24 am - Ram: Hi
+09/08/22, 9:24 am - ✌️Trio Tech Akshaya😇: I lost my internet
+09/08/22, 9:24 am - ✌️Trio Tech Akshaya😇: Connection due to power outage
+09/08/22, 9:24 am - Ram: He said at that time of Security he will explain your doubt
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: Now I heard that
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: But Ruchi she asked ryt
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: For that what he told?
+09/08/22, 9:25 am - Ram: What she asked
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: Eit and sit
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: In global hr
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: Which is very important
+09/08/22, 9:25 am - Ram: That is in EBS only it will come
+09/08/22, 9:25 am - Ram: Not in fusion
+09/08/22, 9:25 am - ✌️Trio Tech Akshaya😇: Ohhh
+09/08/22, 9:26 am - ✌️Trio Tech Akshaya😇: He told so?
+09/08/22, 9:26 am - ✌️Trio Tech Akshaya😇: So he won't teach uh?
+09/08/22, 9:26 am - ✌️Trio Tech Akshaya😇: Cozshe told its interview questions rut?
+09/08/22, 9:26 am - ✌️Trio Tech Akshaya😇: *ryt?
+09/08/22, 9:38 am - Ram: He said like that
+11/08/22, 10:58 am - Ram: Hi Akshaya
+11/08/22, 1:41 pm - ✌️Trio Tech Akshaya😇: Hi
+11/08/22, 1:41 pm - ✌️Trio Tech Akshaya😇: Anna
+11/08/22, 2:07 pm - Ram: Can we connect at 3pm?
+11/08/22, 3:45 pm - ✌️Trio Tech Akshaya😇: Hit anna
+11/08/22, 3:45 pm - ✌️Trio Tech Akshaya😇: Sorry just now saw your message
+11/08/22, 3:49 pm - Ram: Okay
+11/08/22, 3:49 pm - ✌️Trio Tech Akshaya😇: Yes anna
+11/08/22, 3:49 pm - Ram: You meant to say now you are fine
+11/08/22, 3:50 pm - ✌️Trio Tech Akshaya😇: Yes anna
+11/08/22, 3:50 pm - Ram: Okay
+12/08/22, 6:11 pm - ✌️Trio Tech Akshaya😇: Hello anna
+12/08/22, 6:13 pm - Ram: Yeah Akshaya
+12/08/22, 6:13 pm - ✌️Trio Tech Akshaya😇: Today I video not uploaded rut??
+12/08/22, 6:14 pm - Ram: Yes
+12/08/22, 6:15 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+12/08/22, 6:31 pm - ✌️Trio Tech Akshaya😇: Abna
+12/08/22, 6:31 pm - ✌️Trio Tech Akshaya😇: Anna
+12/08/22, 6:31 pm - ✌️Trio Tech Akshaya😇: Independence leave la kaekathinga anna
+12/08/22, 6:32 pm - Ram: Kekala, iruka nu dhan keten
+12/08/22, 6:32 pm - ✌️Trio Tech Akshaya😇: Avaru aanaalu narya leave kuduthundrakaru
+12/08/22, 6:32 pm - Ram: Yes
+12/08/22, 6:32 pm - ✌️Trio Tech Akshaya😇: Atgu okay neenga idea kuduthutingale 😅😅
+12/08/22, 6:35 pm - ✌️Trio Tech Akshaya😇: Anna interview answer kaelunga anna
+13/08/22, 3:26 pm - Ram: Accural and Donation will work together it is a dependent concepts
+13/08/22, 4:07 pm - ✌️Trio Tech Akshaya😇: How come have you explored Anna??
+13/08/22, 4:13 pm - Ram: He explained in the session
+13/08/22, 4:14 pm - Ram: If the person hasn't have the leave means he can be the receiver so that HR can add Donation option to enable by receiptor
+13/08/22, 4:16 pm - ✌️Trio Tech Akshaya😇: Oh okayyet to hear anna
+13/08/22, 4:16 pm - ✌️Trio Tech Akshaya😇: But will hear it tomorrow
+13/08/22, 4:16 pm - Ram: Ok
+16/08/22, 9:49 am - ✌️Trio Tech Akshaya😇: Hello anna
+16/08/22, 9:49 am - ✌️Trio Tech Akshaya😇: Have you understood the topic for today??
+16/08/22, 9:49 am - ✌️Trio Tech Akshaya😇: If so I have too many doubts ❓  Anna!
+16/08/22, 10:28 am - Ram: Hi Akshaya
+16/08/22, 10:28 am - Ram: Yeah will discuss
+16/08/22, 11:33 am - Ram: 2pm can we discuss
+16/08/22, 11:46 am - ✌️Trio Tech Akshaya😇: Oh no anna
+16/08/22, 11:46 am - ✌️Trio Tech Akshaya😇: Today I'm going out
+16/08/22, 11:46 am - ✌️Trio Tech Akshaya😇: So tomorrow,
+16/08/22, 11:46 am - ✌️Trio Tech Akshaya😇: We can anna
+16/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Anna
+16/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Which instance is working
+16/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Now??
+16/08/22, 11:58 am - Ram: I haven't tried yet
+17/08/22, 3:56 pm - ✌️Trio Tech Akshaya😇: Hai Anna shall we connect naa thoongitaen!🙁
+17/08/22, 3:57 pm - Ram: Yes
+18/08/22, 1:29 pm - Ram: Hi Akshaya
+18/08/22, 6:09 pm - ✌️Trio Tech Akshaya😇: Hi anna
+18/08/22, 6:09 pm - ✌️Trio Tech Akshaya😇: Sorry jus now saw your message was too busy for Saturday pooja
+18/08/22, 6:09 pm - Ram: Okay fine
+18/08/22, 6:10 pm - ✌️Trio Tech Akshaya😇: Anna tomorrow
+18/08/22, 6:10 pm - ✌️Trio Tech Akshaya😇: Okay ca??
+18/08/22, 6:11 pm - ✌️Trio Tech Akshaya😇: We will do it👍
+18/08/22, 6:22 pm - Ram: Okay
+19/08/22, 12:47 pm - ✌️Trio Tech Akshaya😇: Hi anna✋
+19/08/22, 1:01 pm - Ram: Busy ah
+19/08/22, 1:01 pm - Ram: When you will be available
+19/08/22, 1:02 pm - ✌️Trio Tech Akshaya😇: Yes Anna tomorrow Krishna jayanthi la so konjam busy
+19/08/22, 1:02 pm - Ram: Today dhane Krishna jeyanthi
+19/08/22, 1:03 pm - ✌️Trio Tech Akshaya😇: Yes Anna but for us tomorrow 😇
+19/08/22, 1:03 pm - Ram: Ok
+19/08/22, 1:03 pm - ✌️Trio Tech Akshaya😇: For ayengars
+19/08/22, 1:03 pm - Ram: Fine
+19/08/22, 1:03 pm - ✌️Trio Tech Akshaya😇: Hmmm😊😊
+19/08/22, 2:02 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+19/08/22, 2:08 pm - Ram: Wish you the same
+19/08/22, 2:08 pm - ✌️Trio Tech Akshaya😇: Thank you ann
+19/08/22, 2:08 pm - ✌️Trio Tech Akshaya😇: Anna
+20/08/22, 7:23 pm - ✌️Trio Tech Akshaya😇: Hi Anna shall we connect?? For half an hour?
+20/08/22, 7:24 pm - Ram: Ok
+21/08/22, 6:39 pm - Ram: Joined
+22/08/22, 8:40 am - ✌️Trio Tech Akshaya😇: Anna
+22/08/22, 8:41 am - ✌️Trio Tech Akshaya😇: Ask him unmute noe
+22/08/22, 8:41 am - ✌️Trio Tech Akshaya😇: We have options
+22/08/22, 8:42 am - ✌️Trio Tech Akshaya😇: Anna if he gives gap unmute 👍
+22/08/22, 8:48 am - ✌️Trio Tech Akshaya😇: Anna absence type enga poganum?
+22/08/22, 8:48 am - ✌️Trio Tech Akshaya😇: In which tab we discussed?
+22/08/22, 8:49 am - Ram: Absence la dhane iruku absence types
+22/08/22, 8:50 am - ✌️Trio Tech Akshaya😇: Nooo
+22/08/22, 8:50 am - ✌️Trio Tech Akshaya😇: Heather
+22/08/22, 8:50 am - ✌️Trio Tech Akshaya😇: Yesterday
+22/08/22, 8:50 am - ✌️Trio Tech Akshaya😇: We discussed where to map lop
+22/08/22, 8:50 am - ✌️Trio Tech Akshaya😇: ??
+22/08/22, 8:50 am - Ram: I can't get what you saying
+22/08/22, 8:51 am - ✌️Trio Tech Akshaya😇: Yesterday we discussed how to get Loss of pay that is no entitlement
+22/08/22, 8:51 am - ✌️Trio Tech Akshaya😇: Drop down box irruke
+22/08/22, 8:51 am - ✌️Trio Tech Akshaya😇: Athan
+22/08/22, 8:54 am - ✌️Trio Tech Akshaya😇: Got it
+22/08/22, 8:54 am - ✌️Trio Tech Akshaya😇: Anna
+22/08/22, 9:22 am - ✌️Trio Tech Akshaya😇: Anna
+22/08/22, 9:22 am - ✌️Trio Tech Akshaya😇: Creation he didn't show
+22/08/22, 9:22 am - ✌️Trio Tech Akshaya😇: 🙈🙈😃
+22/08/22, 9:22 am - ✌️Trio Tech Akshaya😇: Atha kaetrukalame😄😄🤣
+23/08/22, 12:48 pm - Ram: Can we connect at 2
+23/08/22, 12:48 pm - ✌️Trio Tech Akshaya😇: Yeah anna
+23/08/22, 12:48 pm - Ram: 👍🏻
+23/08/22, 12:54 pm - ✌️Trio Tech Akshaya😇: 👍
+23/08/22, 3:33 pm - Ram: There
+23/08/22, 3:34 pm - ✌️Trio Tech Akshaya😇: Yes Anna joined
+24/08/22, 8:56 am - Ram: He has not told how to apply on maternity leave patern
+24/08/22, 8:57 am - Ram: Manage Value sets also
+24/08/22, 8:57 am - ✌️Trio Tech Akshaya😇: This is in payroll
+24/08/22, 8:57 am - ✌️Trio Tech Akshaya😇: This we can ask type in the chat boxanna shall we??
+24/08/22, 8:57 am - Ram: Yes Ask in the chat
+24/08/22, 8:58 am - ✌️Trio Tech Akshaya😇: Okay!
+24/08/22, 9:32 am - ✌️Trio Tech Akshaya😇: Annaaaaa
+24/08/22, 9:32 am - ✌️Trio Tech Akshaya😇: Payy rolll
+24/08/22, 9:33 am - ✌️Trio Tech Akshaya😇: Thailaivar nalailerndu start😂
+24/08/22, 9:47 am - Ram: Inaiku speed up pannum podhe i thought
+24/08/22, 10:13 am - ✌️Trio Tech Akshaya😇: Actually
+24/08/22, 10:13 am - ✌️Trio Tech Akshaya😇: Absence konjam sariya solli tharala anna
+24/08/22, 10:14 am - ✌️Trio Tech Akshaya😇: 🙁😔
+24/08/22, 3:25 pm - Ram: Hi
+24/08/22, 4:39 pm - ✌️Trio Tech Akshaya😇: Hi anna
+25/08/22, 4:09 pm - Ram: Hi
+25/08/22, 4:09 pm - ✌️Trio Tech Akshaya😇: Hi anna
+25/08/22, 4:10 pm - Ram: Can we connect by 4.45
+25/08/22, 4:10 pm - ✌️Trio Tech Akshaya😇: Yeah anna
+25/08/22, 4:10 pm - ✌️Trio Tech Akshaya😇: 👍
+25/08/22, 4:44 pm - Ram: Joined
+26/08/22, 11:42 am - ✌️Trio Tech Akshaya😇: What was first 10 minutes session??
+26/08/22, 11:42 am - ✌️Trio Tech Akshaya😇: Anna
+26/08/22, 11:42 am - Ram: He said the type of fields
+26/08/22, 11:42 am - ✌️Trio Tech Akshaya😇: Ohhh okay👍anna
+26/08/22, 12:09 pm - ✌️Trio Tech Akshaya😇: Anna
+26/08/22, 12:09 pm - ✌️Trio Tech Akshaya😇: You keep in the chat
+26/08/22, 12:10 pm - Ram: Puriyala
+26/08/22, 12:10 pm - ✌️Trio Tech Akshaya😇: That kumar is sending excel sheet🙆‍♀️🤦‍♀️
+26/08/22, 12:10 pm - Ram: Hahahaha
+26/08/22, 12:10 pm - ✌️Trio Tech Akshaya😇: For today's video
+26/08/22, 12:10 pm - ✌️Trio Tech Akshaya😇: Anna
+26/08/22, 2:14 pm - ✌️Trio Tech Akshaya😇: Anna
+26/08/22, 2:14 pm - ✌️Trio Tech Akshaya😇: Why don't you asked him regarding Sheffield yesterday??
+26/08/22, 2:15 pm - ✌️Trio Tech Akshaya😇: * read as |what questions you asked him*
+26/08/22, 2:15 pm - Ram: Yaru kita
+26/08/22, 2:15 pm - ✌️Trio Tech Akshaya😇: Flexfield **
+26/08/22, 2:15 pm - ✌️Trio Tech Akshaya😇: Kumar kitta da vera yaru irruka
+26/08/22, 2:15 pm - ✌️Trio Tech Akshaya😇: 😂😅
+26/08/22, 2:17 pm - ✌️Trio Tech Akshaya😇: No, he mentioned that you asked some doubts so if you could share that it will be useful for me too!
+26/08/22, 2:19 pm - Ram: Nan ena doubt keten?
+26/08/22, 2:20 pm - ✌️Trio Tech Akshaya😇: He only told in the video that you and Ruchi asked it seems
+26/08/22, 2:21 pm - Ram: Adhu vandhu Value sets topic
+26/08/22, 2:22 pm - ✌️Trio Tech Akshaya😇: Ohhhh okay that uh I thought you asked him by pinging him!😅
+26/08/22, 2:22 pm - Ram: No no
+26/08/22, 2:22 pm - ✌️Trio Tech Akshaya😇: Oh okay anna
+26/08/22, 2:23 pm - ✌️Trio Tech Akshaya😇: Anna which year pass out neenga??
+26/08/22, 2:25 pm - Ram: 2010
+26/08/22, 2:25 pm - ✌️Trio Tech Akshaya😇: Oh okay anna👍😊
+26/08/22, 2:25 pm - Ram: You
+26/08/22, 2:25 pm - ✌️Trio Tech Akshaya😇: 2012😅
+26/08/22, 2:25 pm - Ram: Ok
+26/08/22, 2:26 pm - ✌️Trio Tech Akshaya😇: 😊
+26/08/22, 6:21 pm - ✌️Trio Tech Akshaya😇: What is unique key??
+26/08/22, 6:21 pm - ✌️Trio Tech Akshaya😇: In eff
+26/08/22, 6:22 pm - ✌️Trio Tech Akshaya😇: Anna??
+26/08/22, 6:24 pm - Ram: Today topic i haven't seen
+26/08/22, 6:43 pm - ✌️Trio Tech Akshaya😇: Oh sorry Anna forgot
+26/08/22, 6:44 pm - Ram: It's ok
+26/08/22, 10:12 pm - Ram: <Media omitted>
+26/08/22, 10:15 pm - ✌️Trio Tech Akshaya😇: Hahaha cute your son Anna??
+26/08/22, 10:16 pm - Ram: My son sent
+26/08/22, 10:16 pm - Ram: He used the mobile
+26/08/22, 10:16 pm - ✌️Trio Tech Akshaya😇: Awww 🥰🥰so cute he is convey my wishes to him!
+26/08/22, 10:16 pm - Ram: He was using my mobile and seeing his video
+26/08/22, 10:16 pm - Ram: He forwarded
+26/08/22, 10:17 pm - ✌️Trio Tech Akshaya😇: Ohh okay that's no issues anna he so cute...
+26/08/22, 10:17 pm - ✌️Trio Tech Akshaya😇: 😊
+26/08/22, 10:17 pm - ✌️Trio Tech Akshaya😇: What's his name??
+26/08/22, 10:18 pm - ✌️Trio Tech Akshaya😇: Kumar class uh attend panna vecha, Kumar uh Oda vitruvan polaye so quick enough he is!👏
+26/08/22, 10:19 pm - Ram: Hahaha
+26/08/22, 10:19 pm - Ram: Tharunsai Annamalai
+26/08/22, 10:20 pm - ✌️Trio Tech Akshaya😇: Oh super Kumar name is in first apove connect aayacha??😂😅 what a co incidence
+26/08/22, 10:20 pm - Ram: Kumar name first name is Tharun?
+26/08/22, 10:21 pm - ✌️Trio Tech Akshaya😇: Yeah Anna His name is Tharun Kumar reddy something it will come
+26/08/22, 10:21 pm - Ram: Oh apadiya i didn't noticed
+26/08/22, 10:22 pm - ✌️Trio Tech Akshaya😇: Yeah anna😅
+26/08/22, 10:22 pm - Ram: Ok
+27/08/22, 7:27 am - Ram: Can we connect by 11.30?
+27/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Uh
+27/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Iyo anna
+27/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Just now saw your message
+27/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: So how are you karachu kudichacha???
+27/08/22, 11:54 am - Ram: Okay will connect by 2
+27/08/22, 11:54 am - ✌️Trio Tech Akshaya😇: Created new one uh?
+27/08/22, 11:55 am - ✌️Trio Tech Akshaya😇: Sure sure
+27/08/22, 11:55 am - Ram: I haven't started
+27/08/22, 11:55 am - Ram: Morning la irundhu personal work irunduchu
+27/08/22, 11:55 am - ✌️Trio Tech Akshaya😇: Y today is holiday ryt?
+27/08/22, 11:55 am - ✌️Trio Tech Akshaya😇: Ohh okay Anna
+27/08/22, 11:55 am - ✌️Trio Tech Akshaya😇: We will connect by 2
+27/08/22, 11:55 am - Ram: Okay
+27/08/22, 3:34 pm - ✌️Trio Tech Akshaya😇: Hi anna
+27/08/22, 3:36 pm - Ram: Hi
+27/08/22, 3:37 pm - ✌️Trio Tech Akshaya😇: Connect??
+27/08/22, 3:37 pm - ✌️Trio Tech Akshaya😇: Anna
+27/08/22, 3:37 pm - Ram: Yes
+27/08/22, 3:37 pm - ✌️Trio Tech Akshaya😇: Joined anna
+27/08/22, 3:39 pm - Ram: I joined
+29/08/22, 1:02 pm - ✌️Trio Tech Akshaya😇: Anna
+29/08/22, 1:02 pm - ✌️Trio Tech Akshaya😇: Person and person element are same?
+29/08/22, 4:04 pm - Ram: Hi
+30/08/22, 6:17 pm - ✌️Trio Tech Akshaya😇: Hi anna
+31/08/22, 6:55 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+02/09/22, 10:20 am - Ram: Hi
+04/09/22, 5:25 pm - Ram: Hi Akshaya
+04/09/22, 7:41 pm - ✌️Trio Tech Akshaya😇: Hi anna
+04/09/22, 7:42 pm - ✌️Trio Tech Akshaya😇: Just now got ridden from chores!🙆‍♀️
+04/09/22, 8:40 pm - Ram: Ela topic Karachu kudichacha ah
+04/09/22, 9:22 pm - ✌️Trio Tech Akshaya😇: 🤦‍♀️🤦‍♀️
+04/09/22, 9:22 pm - ✌️Trio Tech Akshaya😇: Ada
+04/09/22, 9:23 pm - ✌️Trio Tech Akshaya😇: Nennga vera tomorrow they are releasing offer letter ungalukku theriyuma??😂😂
+04/09/22, 9:24 pm - Ram: Puriyala
+04/09/22, 9:24 pm - Ram: Which offer letter
+04/09/22, 9:28 pm - ✌️Trio Tech Akshaya😇: Uh joking anna
+04/09/22, 9:28 pm - ✌️Trio Tech Akshaya😇: Ungala maari mudiyuma
+04/09/22, 9:28 pm - ✌️Trio Tech Akshaya😇: Ekalaivan madiri
+04/09/22, 9:28 pm - ✌️Trio Tech Akshaya😇: La neenga motham mudichitinga pola??
+04/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: 😅
+04/09/22, 9:29 pm - Ram: Suthama Nan pakavae ila
+04/09/22, 9:29 pm - Ram: Neenga Karachu kudichitinga
+04/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Uh uh!!
+04/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: For this
+04/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Nennga vera tomorrow they are releasing offer letter ungalukku theriyuma??😂😂
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Athukku than itha sonna
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: 😅
+04/09/22, 9:30 pm - Ram: 😄
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Andalavukku
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Karchi
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Kidichutomla
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: 😂😂😅
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: I didn't even touch or hear
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Anna
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: No time
+04/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Full busybtill Wednesday
+04/09/22, 9:31 pm - Ram: Hmmmm
+05/09/22, 8:31 am - Ram: There is more concepts in this payroll
+05/09/22, 8:32 am - Ram: Can't able to get it
+05/09/22, 8:32 am - ✌️Trio Tech Akshaya😇: Ub??
+05/09/22, 8:32 am - ✌️Trio Tech Akshaya😇: How come anna
+05/09/22, 8:32 am - Ram: Mami unaku Nala puriyumae
+05/09/22, 8:32 am - ✌️Trio Tech Akshaya😇: No seriously
+05/09/22, 8:32 am - ✌️Trio Tech Akshaya😇: Anna
+05/09/22, 8:32 am - Ram: What is this
+05/09/22, 8:32 am - ✌️Trio Tech Akshaya😇: *uh typo error
+05/09/22, 8:33 am - ✌️Trio Tech Akshaya😇: What he missed
+05/09/22, 8:33 am - ✌️Trio Tech Akshaya😇: Did he missed anything else
+05/09/22, 8:33 am - ✌️Trio Tech Akshaya😇: ??
+05/09/22, 8:33 am - ✌️Trio Tech Akshaya😇: *miss
+05/09/22, 8:33 am - Ram: Ila avar eduvum miss panala
+05/09/22, 8:33 am - Ram: Nan regonise pannuradhu romba hard ah iruku
+05/09/22, 8:34 am - ✌️Trio Tech Akshaya😇: Oh okay but it will be like that we have see videos again and again?
+05/09/22, 8:34 am - ✌️Trio Tech Akshaya😇: To understand bders
+05/09/22, 8:34 am - ✌️Trio Tech Akshaya😇: I think
+05/09/22, 8:34 am - ✌️Trio Tech Akshaya😇: Leave bders
+05/09/22, 8:35 am - Ram: Puriyala
+05/09/22, 8:43 am - Ram: I think he will complete payroll within this week
+05/09/22, 8:43 am - ✌️Trio Tech Akshaya😇: Iyooooo
+05/09/22, 8:43 am - ✌️Trio Tech Akshaya😇: Nooo
+05/09/22, 8:44 am - Ram: He is very fast nowadays
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: Yup anna
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: You too
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: Ask
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: Again t
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: To explain
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: This topix
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: Tomorrow
+05/09/22, 9:03 am - ✌️Trio Tech Akshaya😇: Too
+05/09/22, 9:03 am - Ram: He won't repeat and all
+05/09/22, 9:04 am - ✌️Trio Tech Akshaya😇: If we ask he will
+05/09/22, 9:04 am - Ram: Enaku first la irundhae puriyala
+05/09/22, 9:04 am - ✌️Trio Tech Akshaya😇: We both will ask
+05/09/22, 9:04 am - ✌️Trio Tech Akshaya😇: I types this
+05/09/22, 9:04 am - ✌️Trio Tech Akshaya😇: Like this even you
+05/09/22, 9:04 am - ✌️Trio Tech Akshaya😇: Too ask
+05/09/22, 9:05 am - Ram: Enaku starting la irundhae puriyala
+05/09/22, 9:05 am - ✌️Trio Tech Akshaya😇: Yet to send we will discuss ask him
+05/09/22, 9:05 am - ✌️Trio Tech Akshaya😇: Bit confusing
+05/09/22, 9:05 am - Ram: Ok
+05/09/22, 3:37 pm - Ram: <Media omitted>
+05/09/22, 4:11 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+05/09/22, 4:11 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+05/09/22, 9:25 pm - ✌️Trio Tech Akshaya😇: Ore Ram puranam tha avlo love ungamela kumarukku!!😂😅
+05/09/22, 9:25 pm - ✌️Trio Tech Akshaya😇: Neenga vera
+05/09/22, 9:25 pm - ✌️Trio Tech Akshaya😇: Ore
+05/09/22, 9:25 pm - ✌️Trio Tech Akshaya😇: Active uh doubts la vera kekaringaa!!😂😅
+05/09/22, 9:33 pm - Ram: Ada chai
+07/09/22, 6:59 pm - Ram: Hi Akshaya
+07/09/22, 6:59 pm - ✌️Trio Tech Akshaya😇: Hi anna
+07/09/22, 7:00 pm - Ram: Classes will be on Monday only have to practice. When we can connect
+07/09/22, 7:29 pm - ✌️Trio Tech Akshaya😇: Y??
+07/09/22, 7:29 pm - ✌️Trio Tech Akshaya😇: Anna
+07/09/22, 7:30 pm - ✌️Trio Tech Akshaya😇: Just now got free Anna damn tired
+07/09/22, 7:30 pm - ✌️Trio Tech Akshaya😇: Tomorrow
+07/09/22, 7:30 pm - Ram: He is on leave from tmrw
+07/09/22, 7:30 pm - ✌️Trio Tech Akshaya😇: For the safer side
+07/09/22, 7:30 pm - ✌️Trio Tech Akshaya😇: Will connect by 2pm
+10/09/22, 12:38 pm - Ram: Hi Akshaya
+10/09/22, 12:47 pm - ✌️Trio Tech Akshaya😇: Ho
+10/09/22, 12:47 pm - ✌️Trio Tech Akshaya😇: Anna
+10/09/22, 12:47 pm - ✌️Trio Tech Akshaya😇: We will connect
+10/09/22, 12:47 pm - ✌️Trio Tech Akshaya😇: Around 2
+10/09/22, 12:47 pm - Ram: Ok
+10/09/22, 1:55 pm - ✌️Trio Tech Akshaya😇: Anna lunch ain't over yet will connect by 3 pm
+10/09/22, 2:03 pm - Ram: Ok
+10/09/22, 3:20 pm - ✌️Trio Tech Akshaya😇: Anna
+10/09/22, 3:21 pm - Ram: Joined
+12/09/22, 8:33 pm - Ram: Session mela avalvu aravam
+12/09/22, 8:33 pm - Ram: Konja neram wait panna matingalo
+12/09/22, 8:34 pm - ✌️Trio Tech Akshaya😇: No anna
+12/09/22, 8:34 pm - ✌️Trio Tech Akshaya😇: Actually
+12/09/22, 8:34 pm - ✌️Trio Tech Akshaya😇: I thought sessions is happening so I miss understood
+12/09/22, 8:34 pm - Ram: <Media omitted>
+12/09/22, 8:34 pm - ✌️Trio Tech Akshaya😇: Mudila timingu
+12/09/22, 8:34 pm - ✌️Trio Tech Akshaya😇: 😂😅😅
+12/09/22, 9:29 pm - Ram: Mami over active ah irukinga
+12/09/22, 9:29 pm - Ram: Kumar kar alosanai soluringa
+12/09/22, 9:29 pm - Ram: Besh besh
+12/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Nooo
+12/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Its not me
+12/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Some other
+12/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Telling even
+12/09/22, 9:29 pm - ✌️Trio Tech Akshaya😇: Am also trying out
+12/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Who is that??
+12/09/22, 9:30 pm - Ram: Apadiya same voice
+12/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Yaru anna
+12/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: ?? I checked even
+12/09/22, 9:30 pm - Ram: Therila
+12/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Participants
+12/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: But nobody unmuted
+12/09/22, 9:30 pm - Ram: Ok
+12/09/22, 9:30 pm - ✌️Trio Tech Akshaya😇: Over scene
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: Odambukku aagathu
+12/09/22, 9:31 pm - Ram: Yeah
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: Enakum
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: Thriyum
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: 😅😅
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: Anna
+12/09/22, 9:31 pm - Ram: <Media omitted>
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: Somebody want to
+12/09/22, 9:31 pm - ✌️Trio Tech Akshaya😇: Show it up!!!😅😅
+12/09/22, 9:32 pm - ✌️Trio Tech Akshaya😇: Mudila next time you tell me who was that??
+12/09/22, 9:36 pm - Ram: Ok
+12/09/22, 9:37 pm - Ram: Nee dhan nenachen
+12/09/22, 9:49 pm - ✌️Trio Tech Akshaya😇: Anna
+12/09/22, 9:49 pm - ✌️Trio Tech Akshaya😇: I have sent
+12/09/22, 9:49 pm - ✌️Trio Tech Akshaya😇: 😅😅
+12/09/22, 9:54 pm - Ram: Super
+12/09/22, 9:55 pm - ✌️Trio Tech Akshaya😇: But
+12/09/22, 9:55 pm - ✌️Trio Tech Akshaya😇: No reply
+12/09/22, 9:55 pm - ✌️Trio Tech Akshaya😇: 🙆‍♀️🤦‍♀️🤦‍♀️
+12/09/22, 9:55 pm - Ram: He will reply wait
+12/09/22, 9:56 pm - ✌️Trio Tech Akshaya😇: No way
+12/09/22, 9:56 pm - ✌️Trio Tech Akshaya😇: He will just
+12/09/22, 9:56 pm - ✌️Trio Tech Akshaya😇: Ingone
+12/09/22, 9:57 pm - ✌️Trio Tech Akshaya😇: Ignore* anna
+12/09/22, 9:57 pm - Ram: Papom iru
+13/09/22, 3:34 pm - Ram: Hi
+13/09/22, 3:47 pm - ✌️Trio Tech Akshaya😇: Joined anna
+13/09/22, 3:49 pm - Ram: I joined
+15/09/22, 9:23 am - ✌️Trio Tech Akshaya😇: Anna
+15/09/22, 9:24 am - ✌️Trio Tech Akshaya😇: He is teaching
+15/09/22, 9:24 am - ✌️Trio Tech Akshaya😇: A lot
+15/09/22, 9:24 am - ✌️Trio Tech Akshaya😇: Going fast
+15/09/22, 9:42 am - Ram: Yeah
+16/09/22, 8:21 am - Ram: Adra sakka
+16/09/22, 8:21 am - Ram: <Media omitted>
+16/09/22, 8:26 am - ✌️Trio Tech Akshaya😇: Yyyy
+16/09/22, 8:26 am - ✌️Trio Tech Akshaya😇: What happened??
+16/09/22, 8:27 am - Ram: Sonaru la Akshaya asked how to map
+16/09/22, 8:27 am - ✌️Trio Tech Akshaya😇: Is it?? I didn't listen was in kitchen!!🙆‍♀️🙆‍♀️iyo missed anna
+16/09/22, 8:28 am - Ram: Hmmm
+18/09/22, 8:32 am - ✌️Trio Tech Akshaya😇: Wow super family👍😊
+18/09/22, 8:50 am - Ram: 😊
+19/09/22, 6:15 pm - Ram: Hi
+19/09/22, 6:39 pm - ✌️Trio Tech Akshaya😇: Hi
+19/09/22, 6:39 pm - ✌️Trio Tech Akshaya😇: Ann
+19/09/22, 6:39 pm - Ram: Resume send panniya
+19/09/22, 7:10 pm - ✌️Trio Tech Akshaya😇: Hello
+19/09/22, 7:10 pm - ✌️Trio Tech Akshaya😇: A na
+19/09/22, 7:10 pm - ✌️Trio Tech Akshaya😇: Nooo
+19/09/22, 7:10 pm - ✌️Trio Tech Akshaya😇: I didn't aens
+19/09/22, 7:11 pm - ✌️Trio Tech Akshaya😇: Send
+19/09/22, 7:11 pm - ✌️Trio Tech Akshaya😇: My husband told noooooo😔😔
+19/09/22, 9:24 pm - Ram: Why what happened
+19/09/22, 10:23 pm - ✌️Trio Tech Akshaya😇: He told me to complete the course then we will try he told anna
+19/09/22, 10:24 pm - Ram: Okay
+20/09/22, 8:28 am - Ram: Thalaivar mudichitaru
+20/09/22, 8:28 am - Ram: Payroll jet speed la
+20/09/22, 11:10 am - ✌️Trio Tech Akshaya😇: Athukum mela😅😅🤦‍♀️
+20/09/22, 11:14 am - Ram: 🤣
+03/10/22, 1:21 pm - ✌️Trio Tech Akshaya😇: Anna
+03/10/22, 1:21 pm - ✌️Trio Tech Akshaya😇: Workflow
+03/10/22, 1:21 pm - ✌️Trio Tech Akshaya😇: Understood??
+03/10/22, 1:21 pm - ✌️Trio Tech Akshaya😇: When you are going to start the job search?
+03/10/22, 4:17 pm - Ram: Hi Akshaya
+03/10/22, 4:17 pm - Ram: I went to Movie and came just now
+03/10/22, 4:36 pm - ✌️Trio Tech Akshaya😇: Okay anna👍
+07/10/22, 8:15 am - Ram: We can have next session on Monday instead of in weekend
+07/10/22, 8:15 am - Ram: You also say the same
+11/10/22, 9:10 am - Ram: I informed Kumar
+11/10/22, 9:10 am - Ram: Both are keep on disturbing
+11/10/22, 9:10 am - ✌️Trio Tech Akshaya😇: Superrrr
+11/10/22, 9:10 am - ✌️Trio Tech Akshaya😇: What he told
+11/10/22, 9:10 am - ✌️Trio Tech Akshaya😇: ??
+11/10/22, 9:10 am - Ram: Yeah I will inform Pawan to mute all
+11/10/22, 9:11 am - Ram: IPO enaku kadupa aiyuruchu
+11/10/22, 9:11 am - ✌️Trio Tech Akshaya😇: Okay super
+11/10/22, 9:11 am - ✌️Trio Tech Akshaya😇: That’s what from start of session to end
+11/10/22, 9:11 am - ✌️Trio Tech Akshaya😇: They are disturbing
+11/10/22, 9:11 am - ✌️Trio Tech Akshaya😇: For a week
+11/10/22, 9:11 am - Ram: Yes
+11/10/22, 9:11 am - ✌️Trio Tech Akshaya😇: Totally
+11/10/22, 9:11 am - ✌️Trio Tech Akshaya😇: Got confused
+11/10/22, 9:12 am - ✌️Trio Tech Akshaya😇: Shall we
+11/10/22, 9:12 am - ✌️Trio Tech Akshaya😇: Ask him to revise from starting session without
+11/10/22, 9:12 am - ✌️Trio Tech Akshaya😇: Interruption
+11/10/22, 9:12 am - ✌️Trio Tech Akshaya😇: By end of the class today?
+11/10/22, 9:12 am - ✌️Trio Tech Akshaya😇: That on coming days
+11/10/22, 9:13 am - ✌️Trio Tech Akshaya😇: We will ask him to take revision session
+12/10/22, 7:22 pm - Ram: ramasamy.annamalai@aspiresys.com
+12/10/22, 7:28 pm - ✌️Trio Tech Akshaya😇: Okay anna
+13/10/22, 12:59 pm - ✌️Trio Tech Akshaya😇: Anna koncham jd anupunga
+13/10/22, 1:01 pm - Ram: There is no JD
+13/10/22, 1:01 pm - ✌️Trio Tech Akshaya😇: Oh okay anna no problem 👍
+18/10/22, 5:21 pm - Ram: 👍🏻👍🏻👍🏻
+18/10/22, 6:10 pm - ✌️Trio Tech Akshaya😇: Thank you anna😊
+20/10/22, 3:40 pm - Ram: http://collidenaive.cn/Tanishqws-aq/tb.php?zy=pn1666260605542
+21/10/22, 6:48 am - ✌️Trio Tech Akshaya😇: Happy birthday 🥳🥳 tharun may god bless you 🎉🎉
+21/10/22, 6:53 am - Ram: Thank you ☺️
+21/10/22, 6:53 am - ✌️Trio Tech Akshaya😇: 👍😊
+22/10/22, 11:30 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+22/10/22, 2:19 pm - Ram: Good one
+24/10/22, 6:51 am - Ram: Happy Deepavali
+24/10/22, 7:17 am - ✌️Trio Tech Akshaya😇: 😊yes anna
+24/10/22, 7:22 am - Ram: Deepavali is what our Tamil people will say not Diwali
+24/10/22, 7:24 am - ✌️Trio Tech Akshaya😇: Correct Anna but ellarkum commonly Etha puriyuthu I have to explain they will ask what's this nu 😅😅
+24/10/22, 7:24 am - Ram: Say this is what we will say proudly
+24/10/22, 7:26 am - ✌️Trio Tech Akshaya😇: Sure Anna 👍I had this habit but after sometime all ppl were started asking so in common I was sending 😊north indian friends are there so wishing them too 😅
+24/10/22, 8:00 am - Ram: 👍🏻
+29/10/22, 5:38 pm - ✌️Trio Tech Akshaya😇: Hello anna
+29/10/22, 5:38 pm - ✌️Trio Tech Akshaya😇: How are you??
+29/10/22, 5:38 pm - ✌️Trio Tech Akshaya😇: Anna ask certificate
+29/10/22, 5:38 pm - ✌️Trio Tech Akshaya😇: From Kumar
+29/10/22, 5:38 pm - ✌️Trio Tech Akshaya😇: An this fellow didn’t teach us properly
+29/10/22, 5:38 pm - ✌️Trio Tech Akshaya😇: The fast formula
+29/10/22, 5:39 pm - ✌️Trio Tech Akshaya😇: For previous batch he has explained very well even for absence
+29/10/22, 5:40 pm - Ram: Gud
+29/10/22, 5:40 pm - Ram: How Abt you
+29/10/22, 5:40 pm - Ram: How you know
+29/10/22, 5:40 pm - ✌️Trio Tech Akshaya😇: Am also good
+29/10/22, 5:40 pm - ✌️Trio Tech Akshaya😇: Got access
+29/10/22, 5:40 pm - ✌️Trio Tech Akshaya😇: 😃😅
+29/10/22, 5:41 pm - Ram: What access
+29/10/22, 5:41 pm - ✌️Trio Tech Akshaya😇: Videos
+29/10/22, 5:41 pm - ✌️Trio Tech Akshaya😇: Anna
+29/10/22, 5:41 pm - Ram: Apadiya
+29/10/22, 5:41 pm - ✌️Trio Tech Akshaya😇: Yeahhhh
+29/10/22, 5:41 pm - ✌️Trio Tech Akshaya😇: 😂
+29/10/22, 5:41 pm - Ram: You asked him?
+29/10/22, 5:41 pm - ✌️Trio Tech Akshaya😇: Noooooo
+29/10/22, 5:41 pm - ✌️Trio Tech Akshaya😇: Narreenndraaaa your thickest buddy ever
+29/10/22, 5:42 pm - ✌️Trio Tech Akshaya😇: 😅😅😅
+29/10/22, 5:42 pm - Ram: He gave ah
+29/10/22, 5:42 pm - ✌️Trio Tech Akshaya😇: Yes anna
+29/10/22, 5:42 pm - Ram: He called two days back I didn't picked
+29/10/22, 5:42 pm - Ram: Share me
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: 😅😅😅ignore him don’t pick up after getting this I even didn’t pick
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: 😂😂
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: He called twice I picked once
+29/10/22, 5:43 pm - Ram: Oh okay
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: And told I m busy
+29/10/22, 5:43 pm - Ram: Seri anupu enaku
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: Okayyy
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: How??
+29/10/22, 5:43 pm - ✌️Trio Tech Akshaya😇: His credentials??
+29/10/22, 5:44 pm - ✌️Trio Tech Akshaya😇: We have to ask him la
+29/10/22, 5:44 pm - ✌️Trio Tech Akshaya😇: Before sharing
+29/10/22, 5:44 pm - Ram: Ok
+29/10/22, 5:44 pm - Ram: Check and let me know
+29/10/22, 5:44 pm - ✌️Trio Tech Akshaya😇: Iyoyoooo
+29/10/22, 5:44 pm - ✌️Trio Tech Akshaya😇: I won’t talk he won’t end the call
+29/10/22, 5:44 pm - ✌️Trio Tech Akshaya😇: Too boring
+29/10/22, 5:45 pm - ✌️Trio Tech Akshaya😇: Is there any possible
+29/10/22, 5:45 pm - ✌️Trio Tech Akshaya😇: Way to share
+29/10/22, 5:53 pm - ✌️Trio Tech Akshaya😇: Anna
+29/10/22, 8:18 pm - Ram: Send me the login detaila
+29/10/22, 8:18 pm - Ram: Details
+30/10/22, 8:05 am - ✌️Trio Tech Akshaya😇: Yes anna
+30/10/22, 8:06 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+30/10/22, 8:53 am - Ram: Which one is password
+30/10/22, 8:54 am - Ram: TrioTech@123?
+30/10/22, 8:54 am - Ram: Or Test@123?
+30/10/22, 8:54 am - ✌️Trio Tech Akshaya😇: 👆👆this one anna
+30/10/22, 8:55 am - Ram: Ok 👌
+31/10/22, 10:54 am - Ram: Hi Akshaya
+31/10/22, 10:55 am - ✌️Trio Tech Akshaya😇: Anna
+31/10/22, 10:55 am - ✌️Trio Tech Akshaya😇: Two mins
+03/11/22, 4:55 pm - Ram: Wru
+03/11/22, 4:56 pm - ✌️Trio Tech Akshaya😇: Anna coming
+03/11/22, 4:57 pm - ✌️Trio Tech Akshaya😇: Anna
+03/11/22, 4:58 pm - ✌️Trio Tech Akshaya😇: Send me the link
+03/11/22, 4:58 pm - ✌️Trio Tech Akshaya😇: Annathe
+11/11/22, 10:47 pm - ✌️Trio Tech Akshaya😇: 😂
+11/11/22, 10:49 pm - ✌️Trio Tech Akshaya😇: Anna send this status!😃😃
+15/11/22, 4:53 pm - ✌️Trio Tech Akshaya😇: Anna??
+15/11/22, 6:33 pm - Ram: Hi Akshaya
+15/11/22, 6:33 pm - ✌️Trio Tech Akshaya😇: How are you??
+15/11/22, 6:40 pm - ✌️Trio Tech Akshaya😇: Anna which instance ks working could you please let me know??
+15/11/22, 7:15 pm - Ram: Yeah am good
+15/11/22, 7:15 pm - Ram: Nee eppidi iruka
+15/11/22, 7:16 pm - Ram: Sorry office la busy ah irunden adhan phone edukala
+15/11/22, 7:16 pm - ✌️Trio Tech Akshaya😇: That’s okay anna
+15/11/22, 7:16 pm - ✌️Trio Tech Akshaya😇: Am good 👍
+15/11/22, 7:16 pm - Ram: I haven't checked the instance
+15/11/22, 7:16 pm - ✌️Trio Tech Akshaya😇: Okay anna
+15/11/22, 7:17 pm - Ram: Will connect you tmrw
+15/11/22, 7:17 pm - ✌️Trio Tech Akshaya😇: Okay anna timings are same??
+15/11/22, 7:17 pm - ✌️Trio Tech Akshaya😇: I got the certificate
+15/11/22, 7:17 pm - Ram: Anupu
+15/11/22, 7:17 pm - Ram: 11am tmrw
+15/11/22, 7:18 pm - ✌️Trio Tech Akshaya😇: Oookkkaaayyyy
+15/11/22, 7:26 pm - Ram: Good
+15/11/22, 7:40 pm - ✌️Trio Tech Akshaya😇: Uh anna
+15/11/22, 7:40 pm - ✌️Trio Tech Akshaya😇: Actually tomorrow
+15/11/22, 7:40 pm - ✌️Trio Tech Akshaya😇: Kandippa
+15/11/22, 7:40 pm - ✌️Trio Tech Akshaya😇: Connect aama
+15/11/22, 7:41 pm - ✌️Trio Tech Akshaya😇: Aalam*
+15/11/22, 7:41 pm - ✌️Trio Tech Akshaya😇: I want some suggestions from your end?
+15/11/22, 7:42 pm - Ram: Okay
+16/11/22, 11:56 am - ✌️Trio Tech Akshaya😇: Hiiiii
+16/11/22, 11:56 am - ✌️Trio Tech Akshaya😇: Anna
+16/11/22, 12:22 pm - Ram: Hi Akshaya
+16/11/22, 12:28 pm - ✌️Trio Tech Akshaya😇: Free??
+16/11/22, 12:28 pm - ✌️Trio Tech Akshaya😇: Shall we connect by 3:30pm?
+16/11/22, 12:35 pm - Ram: Okay sure
+18/11/22, 6:42 pm - ✌️Trio Tech Akshaya😇: Anna
+18/11/22, 6:42 pm - ✌️Trio Tech Akshaya😇: Mahindra legal juri you created??
+21/11/22, 5:19 pm - ✌️Trio Tech Akshaya😇: Anna
+21/11/22, 5:19 pm - ✌️Trio Tech Akshaya😇: ???
+21/11/22, 5:23 pm - ✌️Trio Tech Akshaya😇: Annnaaaaaaaaaa?????? Rommbaaa busy pola??
+21/11/22, 5:29 pm - Ram: Ama ma nalaiku I'm free
+21/11/22, 5:30 pm - ✌️Trio Tech Akshaya😇: Anna....is it possible to arrange for an interview by this week??
+21/11/22, 6:36 pm - Ram: Will call you tmrw
+21/11/22, 6:43 pm - ✌️Trio Tech Akshaya😇: Okay anna
+22/11/22, 9:49 am - ✌️Trio Tech Akshaya😇: Anna epo call panuveenga??
+22/11/22, 8:54 pm - Ram: Call you tmrw
+22/11/22, 8:54 pm - Ram: Sorry for not calling i  was busy today
+22/11/22, 9:19 pm - ✌️Trio Tech Akshaya😇: It's okay Anna!
+23/11/22, 4:21 pm - ✌️Trio Tech Akshaya😇: Hi anna
+23/11/22, 4:21 pm - ✌️Trio Tech Akshaya😇: Do you have any idea for the instances access com cast isn't working fine!?
+23/11/22, 10:22 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+24/11/22, 11:29 am - ✌️Trio Tech Akshaya😇: Hi anna
+24/11/22, 11:29 am - ✌️Trio Tech Akshaya😇: Free??
+24/11/22, 11:32 am - Ram: Will call you after sometime
+24/11/22, 11:32 am - Ram: In a meeting
+24/11/22, 11:32 am - ✌️Trio Tech Akshaya😇: Okay anna
+24/11/22, 6:03 pm - ✌️Trio Tech Akshaya😇: Hi anna
+24/11/22, 6:04 pm - ✌️Trio Tech Akshaya😇: When will it be scheduled??
+24/11/22, 10:32 pm - Ram: Will confirm
+25/11/22, 6:40 am - ✌️Trio Tech Akshaya😇: Okay Anna
+25/11/22, 12:57 pm - ✌️Trio Tech Akshaya😇: Anna epo irrukum probably??
+26/11/22, 11:07 am - ✌️Trio Tech Akshaya😇: Hi Anna just few mins call??
+26/11/22, 8:39 pm - Ram: Tmrw will call you, i will be in Chennai
+27/11/22, 5:13 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+27/11/22, 5:13 pm - ✌️Trio Tech Akshaya😇: Reached uh??
+27/11/22, 5:13 pm - ✌️Trio Tech Akshaya😇: Safely??
+27/11/22, 5:31 pm - Ram: Yes
+27/11/22, 5:33 pm - ✌️Trio Tech Akshaya😇: Super anna👍
+28/11/22, 10:18 am - ✌️Trio Tech Akshaya😇: Good morning, Anna
+28/11/22, 10:19 am - ✌️Trio Tech Akshaya😇: Any update??
+28/11/22, 10:32 am - ✌️Trio Tech Akshaya😇: Indha varathula schedule pannuvingala Anna?
+28/11/22, 10:40 am - Ram: Akshaya today only i back to work, so have to forward to delivery team, they has to revert on the slots. Based on that will confirm
+28/11/22, 10:42 am - ✌️Trio Tech Akshaya😇: Okay Anna 😊👍thabk youuu but few  mins call?
+28/11/22, 10:42 am - Ram: I will call you in meeting
+28/11/22, 10:43 am - ✌️Trio Tech Akshaya😇: Okay anna👍
+28/11/22, 5:54 pm - ✌️Trio Tech Akshaya😇: Hiii annaaaa
+28/11/22, 5:55 pm - ✌️Trio Tech Akshaya😇: Com cast working? Please login and check once anna
+28/11/22, 9:09 pm - ✌️Trio Tech Akshaya😇: Kumar instance access connection uh pudingutaaannnn I think so😟😟😔
+28/11/22, 10:14 pm - Ram: Long back i checked
+28/11/22, 10:15 pm - Ram: I haven't seen recently
+28/11/22, 10:15 pm - Ram: Not having a time to see the videos and instance
+28/11/22, 10:15 pm - Ram: Work is pathetic so much works
+28/11/22, 10:44 pm - ✌️Trio Tech Akshaya😇: Iyooo y suddenly??anna😟
+28/11/22, 10:44 pm - ✌️Trio Tech Akshaya😇: Hmmm okay Anna paasamalara maranthudathinga 🥹🥲
+28/11/22, 10:45 pm - ✌️Trio Tech Akshaya😇: But check Anna he told he will give till dec 😟
+28/11/22, 10:45 pm - ✌️Trio Tech Akshaya😇: Take care Anna good night 👍😴
+29/11/22, 10:45 am - ✌️Trio Tech Akshaya😇: Hi anna
+29/11/22, 10:53 am - ✌️Trio Tech Akshaya😇: Inda vaaram schedule pannuvaangala Anna?
+29/11/22, 12:24 pm - ✌️Trio Tech Akshaya😇: Anna I will wait until you say coz therinjavanga moolam pona nallarkum coz this might help me to stay in correct path. Outside I can't believe and don't want to take risk anna
+29/11/22, 12:38 pm - Ram: Okay
+29/11/22, 12:51 pm - ✌️Trio Tech Akshaya😇: Na Kumara poi paakara but enakku nambikka illa
+29/11/22, 12:51 pm - ✌️Trio Tech Akshaya😇: 😔
+01/12/22, 2:15 pm - ✌️Trio Tech Akshaya😇: Hi Anna...
+01/12/22, 3:40 pm - Ram: Hi
+01/12/22, 4:37 pm - ✌️Trio Tech Akshaya😇: Hiiiii
+01/12/22, 4:37 pm - ✌️Trio Tech Akshaya😇: Anna
+01/12/22, 4:46 pm - ✌️Trio Tech Akshaya😇: Anna extract theriyuma??
+01/12/22, 5:15 pm - Ram: No
+01/12/22, 5:15 pm - ✌️Trio Tech Akshaya😇: Okay anna
+01/12/22, 5:15 pm - ✌️Trio Tech Akshaya😇: 😔
+01/12/22, 5:17 pm - ✌️Trio Tech Akshaya😇: Anna job.dat file la how to open he his having two tabular column but y we are not getting??
+01/12/22, 5:31 pm - Ram: Therila Akshaya
+02/12/22, 1:02 pm - ✌️Trio Tech Akshaya😇: Anna learnt extract creation
+02/12/22, 1:03 pm - ✌️Trio Tech Akshaya😇: 😅
+02/12/22, 5:11 pm - Ram: Good
+02/12/22, 5:29 pm - ✌️Trio Tech Akshaya😇: We will connect tomorrow Anna I will tell
+02/12/22, 5:29 pm - ✌️Trio Tech Akshaya😇: You 😊
+02/12/22, 5:32 pm - Ram: Okay sure
+02/12/22, 5:33 pm - ✌️Trio Tech Akshaya😇: 👍😊
+02/12/22, 6:06 pm - ✌️Trio Tech Akshaya😇: Anna
+02/12/22, 6:06 pm - ✌️Trio Tech Akshaya😇: Opening irrunda takkunu sollunga intha vaati takkunu apply panidra okay???
+02/12/22, 6:12 pm - Ram: Ok
+13/12/22, 7:47 pm - ✌️Trio Tech Akshaya😇: Hiii annaaaaa
+13/12/22, 7:48 pm - ✌️Trio Tech Akshaya😇: Epddiiii irrukinga??? Aalaye kaanla??🤔
+13/12/22, 8:14 pm - Ram: I'm fine Akshaya
+13/12/22, 8:14 pm - Ram: Nee eppidi iruka
+13/12/22, 8:14 pm - ✌️Trio Tech Akshaya😇: Am good anna
+13/12/22, 8:14 pm - ✌️Trio Tech Akshaya😇: Superrr👍👍
+31/12/22, 11:57 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+01/01/23, 7:12 am - Ram: <Media omitted>
+01/01/23, 7:53 am - ✌️Trio Tech Akshaya😇: Happy new year anna🎉🎉
+01/01/23, 11:15 am - Ram: Happy new year 🎇🎇🎇
+01/01/23, 11:41 am - ✌️Trio Tech Akshaya😇: 😊👍
+04/01/23, 11:46 am - ✌️Trio Tech Akshaya😇: Anna how are you??? 🙂
+04/01/23, 12:07 pm - Ram: I'm good
+04/01/23, 12:08 pm - Ram: How are you
+04/01/23, 12:08 pm - ✌️Trio Tech Akshaya😇: Yes Anna good 🙂
+04/01/23, 12:09 pm - ✌️Trio Tech Akshaya😇: Pro pic kalakaringa enga eduthinga??
+04/01/23, 12:09 pm - Ram: Office la
+04/01/23, 12:09 pm - ✌️Trio Tech Akshaya😇: Super anna👍
+04/01/23, 12:30 pm - Ram: 😊
+04/01/23, 12:32 pm - ✌️Trio Tech Akshaya😇: Anna hiring happening uh?? Ranjitha nu oru ponnu hcm la job venuma so edavadu opening orrinda sollunga anna
+04/01/23, 12:40 pm - ✌️Trio Tech Akshaya😇: Anna if we need same HR for all where HR is common how you will do it?🤔
+04/01/23, 2:24 pm - Ram: No opening at all
+04/01/23, 2:25 pm - ✌️Trio Tech Akshaya😇: Iyo oky Anna I will inform her anna
+04/01/23, 2:25 pm - ✌️Trio Tech Akshaya😇: Anna inda ques ku answer theriyuma???
+04/01/23, 2:25 pm - ✌️Trio Tech Akshaya😇: 🤔
+04/01/23, 2:32 pm - Ram: Puriyavae ila
+04/01/23, 2:32 pm - ✌️Trio Tech Akshaya😇: Illa hr irruka he should be shown or get access to all the employees in common
+04/01/23, 2:32 pm - ✌️Trio Tech Akshaya😇: App enna use pnnuvinga???
+11/01/23, 7:58 pm - ✌️Trio Tech Akshaya😇: How to find important metadata for business objects? How they are considering?
+
+If worker is taken as example, mandatory metadata objects are work relationship, assignments, work terms, person name etc likewise, 
+
+but if you download a template file from the system bunch of records are coming, so out of which they are taking only 5 important metadata to load.
+
+This question is not about the star mark near the attributes.
+
+But national identifier is one of the important metadata but why they are not considered while loading?
+11/01/23, 7:59 pm - ✌️Trio Tech Akshaya😇: Hello Anna please let me know some answer regarding this!🤔
+11/01/23, 7:59 pm - ✌️Trio Tech Akshaya😇: Have a doubt
+11/01/23, 8:02 pm - Ram: Sorry Akshaya i don't no
+11/01/23, 8:02 pm - ✌️Trio Tech Akshaya😇: Okay anna
+11/01/23, 8:02 pm - ✌️Trio Tech Akshaya😇: If you could ask your colleagues that will be useful Anna
+15/01/23, 8:11 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+15/01/23, 5:57 pm - ✌️Trio Tech Akshaya😇: Kutty paiyan super ponnu paathudalama??😄😉
+15/01/23, 6:58 pm - Ram: Hahahaha
+05/02/23, 11:30 am - ✌️Trio Tech Akshaya😇: Awww superrbbb Anna love this home please take me next time 👍👌👌😊
+05/02/23, 11:30 am - Ram: Okay sure
+05/02/23, 11:30 am - Ram: Newly renovated again
+05/02/23, 11:31 am - Ram: Painting and replaced some particulars
+05/02/23, 11:36 am - ✌️Trio Tech Akshaya😇: 🙏Thabk you 😊
+05/02/23, 11:36 am - ✌️Trio Tech Akshaya😇: Ya semmayaaa irruku anna
+05/02/23, 11:36 am - ✌️Trio Tech Akshaya😇: Shooting ku
+05/02/23, 11:36 am - ✌️Trio Tech Akshaya😇: Kepangala??
+05/02/23, 11:37 am - Ram: Now also for Chandramukhi 2 they asked we not given
+05/02/23, 11:37 am - ✌️Trio Tech Akshaya😇: Y???
+05/02/23, 11:37 am - ✌️Trio Tech Akshaya😇: Anna so??
+05/02/23, 11:37 am - Ram: They will make so dirty while leaving
+05/02/23, 11:37 am - ✌️Trio Tech Akshaya😇: Oh they won't clean uh???
+05/02/23, 11:37 am - ✌️Trio Tech Akshaya😇: Anna?
+05/02/23, 11:38 am - Ram: That won't look good
+05/02/23, 11:38 am - ✌️Trio Tech Akshaya😇: Actually neenga demand panna panitharuvaale!!
+05/02/23, 11:38 am - ✌️Trio Tech Akshaya😇: Hmmm okay Anna but preserve sthe home semaya irruku Anna
+05/02/23, 11:38 am - ✌️Trio Tech Akshaya😇: 👌👍👌
+05/02/23, 11:39 am - Ram: Now we spent almost 60 lakhs for renovation
+05/02/23, 11:39 am - Ram: 8 family combined
+05/02/23, 11:39 am - ✌️Trio Tech Akshaya😇: Abbaaa avlo aacha
+05/02/23, 11:39 am - Ram: Yes
+05/02/23, 11:39 am - ✌️Trio Tech Akshaya😇: Sema all the very best stay united nobody is there now a days anna
+05/02/23, 11:39 am - ✌️Trio Tech Akshaya😇: Happy for you👏👏
+05/02/23, 11:40 am - Ram: Marriages will happen here in the house only
+05/02/23, 11:40 am - ✌️Trio Tech Akshaya😇: Oh super 👏
+05/02/23, 11:40 am - ✌️Trio Tech Akshaya😇: Anna
+05/02/23, 11:40 am - Ram: Sister marriage and all happen there only
+05/02/23, 11:40 am - Ram: 1000 people's came at that occasion
+05/02/23, 11:41 am - ✌️Trio Tech Akshaya😇: Semya idea we accommodate so many families happy with so spacious it is👍😊
+05/02/23, 11:41 am - ✌️Trio Tech Akshaya😇: Anbaa super la veetukagave varuven anna 😄😅
+05/02/23, 11:41 am - ✌️Trio Tech Akshaya😇: Love that kind of structure
+05/02/23, 11:41 am - Ram: 100 yrs recently the house built
+05/02/23, 11:42 am - ✌️Trio Tech Akshaya😇: Awwwww wow 👌👏👏🥹parambariyam
+05/02/23, 11:42 am - Ram: All are Burma Theku
+05/02/23, 11:42 am - ✌️Trio Tech Akshaya😇: Uh paathale puriyuthu
+05/02/23, 11:42 am - ✌️Trio Tech Akshaya😇: 👍😊
+05/02/23, 11:42 am - ✌️Trio Tech Akshaya😇: Sema
+05/02/23, 11:42 am - ✌️Trio Tech Akshaya😇: Laaa anna
+05/02/23, 11:43 am - Ram: Now that one pillar itself cost almost 4lakhs
+05/02/23, 11:43 am - Ram: Like that 20 pillars there
+05/02/23, 11:43 am - ✌️Trio Tech Akshaya😇: Uh full wood ryt it will anna 😊
+05/02/23, 11:43 am - ✌️Trio Tech Akshaya😇: 20 uhhhhh
+05/02/23, 11:43 am - Ram: Yes
+05/02/23, 11:43 am - ✌️Trio Tech Akshaya😇: Chanceless anna
+05/02/23, 11:43 am - ✌️Trio Tech Akshaya😇: Veedu matum amazing 🤩
+05/02/23, 11:45 am - ✌️Trio Tech Akshaya😇: Naa avarta kaamikara videos va👍 I want this kind oh house nu😅😅
+05/02/23, 11:46 am - Ram: Nala kelu kelu😉
+05/02/23, 11:46 am - Ram: Key
+05/02/23, 11:46 am - ✌️Trio Tech Akshaya😇: Avloda adatha jenmam Venu actually anna😂😂
+05/02/23, 11:52 am - ✌️Trio Tech Akshaya😇: Awwwww 😮😮😮
+05/02/23, 11:52 am - ✌️Trio Tech Akshaya😇: Evlo periya key anda kaalathin key 🔑😮😮
+05/02/23, 11:53 am - Ram: Yes
+05/02/23, 11:53 am - ✌️Trio Tech Akshaya😇: Sem anna Veedu mattum super I want at least one pic of mine from that 🏡 home!!😅😅
+05/02/23, 11:53 am - Ram: 👍🏻
+05/02/23, 11:53 am - ✌️Trio Tech Akshaya😇: Thank youuu👍😊
+05/02/23, 11:53 am - ✌️Trio Tech Akshaya😇: Anna
+06/02/23, 4:06 pm - ✌️Trio Tech Akshaya😇: Hi anna
+06/02/23, 4:07 pm - ✌️Trio Tech Akshaya😇: Is there any chance for processing?
+06/02/23, 4:14 pm - Ram: Wait
+06/02/23, 4:14 pm - ✌️Trio Tech Akshaya😇: 😂😂😂
+06/02/23, 4:14 pm - ✌️Trio Tech Akshaya😇: Hyderabad 😂
+06/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: Power!! As you told
+06/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: 😅😅 okay anna
+06/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: Naalaiku pwc irruku 🤦‍♀️🤦‍♀️😢
+06/02/23, 4:16 pm - Ram: Interview va
+06/02/23, 4:16 pm - ✌️Trio Tech Akshaya😇: Anga ena comedy therila nalaiku 😅😅
+06/02/23, 4:16 pm - ✌️Trio Tech Akshaya😇: Aama
+06/02/23, 4:16 pm - Ram: All the best
+06/02/23, 4:16 pm - ✌️Trio Tech Akshaya😇: TCS poiduthu
+06/02/23, 4:16 pm - ✌️Trio Tech Akshaya😇: 🤞🤞hoping
+06/02/23, 4:16 pm - ✌️Trio Tech Akshaya😇: Brila soft second round came
+06/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: But athu kooda putukuchu 😅😅
+06/02/23, 4:17 pm - Ram: First round cleared ah
+06/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: Tough naa 🙄🙄
+06/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: Uh yeahh
+06/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: 😂😂
+06/02/23, 4:17 pm - Ram: Second round out ah
+06/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: Vida muyarchi visarooba vetri 😂😂😂
+06/02/23, 4:18 pm - ✌️Trio Tech Akshaya😇: Uhhh 😬 aama neengale thittuvinga
+06/02/23, 4:18 pm - ✌️Trio Tech Akshaya😇: Waiting ku vesting ku
+06/02/23, 4:18 pm - ✌️Trio Tech Akshaya😇: Difference thappa
+06/02/23, 4:18 pm - ✌️Trio Tech Akshaya😇: Solta
+06/02/23, 4:18 pm - ✌️Trio Tech Akshaya😇: 🤦‍♀️😅athuvum confident uh
+06/02/23, 4:19 pm - ✌️Trio Tech Akshaya😇: Unga sisya pulla thappu solitane anna
+06/02/23, 4:19 pm - ✌️Trio Tech Akshaya😇: 🙄🙄😢
+06/02/23, 4:22 pm - Ram: It's ok, you will get other
+06/02/23, 4:22 pm - ✌️Trio Tech Akshaya😇: Anga unnume illa pwc last
+06/02/23, 7:58 pm - ✌️Trio Tech Akshaya😇: Anna neenga koncham nalaiku 11:30 ku connect aaga mudiyuma?? Chumma oru mock interview madiri edunga anna please! 😬
+07/02/23, 5:59 pm - ✌️Trio Tech Akshaya😇: Annaaaaaaaa
+07/02/23, 5:59 pm - ✌️Trio Tech Akshaya😇: Irrukinglaaaaaas
+07/02/23, 6:00 pm - ✌️Trio Tech Akshaya😇: Pwc initial screening round cleared
+07/02/23, 6:00 pm - ✌️Trio Tech Akshaya😇: 🤔🤔dunno how I cleared 😅
+07/02/23, 6:11 pm - Ram: Super
+07/02/23, 6:25 pm - ✌️Trio Tech Akshaya😇: Thank touuu annaaa
+08/02/23, 12:39 pm - Ram: 9 pm are you fine for interview today
+08/02/23, 12:46 pm - ✌️Trio Tech Akshaya😇: Today 9 uh??
+08/02/23, 12:46 pm - ✌️Trio Tech Akshaya😇: Anna??
+08/02/23, 12:47 pm - ✌️Trio Tech Akshaya😇: Anna Vera timings irrukuma??
+08/02/23, 12:50 pm - Ram: No
+08/02/23, 12:50 pm - ✌️Trio Tech Akshaya😇: Anna please take mock if possible!?? For me so that something if I have missed I can recollect
+08/02/23, 12:51 pm - Ram: I'm totally have to see the videos again
+08/02/23, 12:51 pm - Ram: I don't no anything now
+08/02/23, 12:51 pm - ✌️Trio Tech Akshaya😇: Apo nalaiku?? Koncham tension illa Rombaaa tension uh irruku
+08/02/23, 12:51 pm - Ram: Ok
+08/02/23, 12:51 pm - ✌️Trio Tech Akshaya😇: Okay
+08/02/23, 12:52 pm - ✌️Trio Tech Akshaya😇: Anna nalaiku enna time slot available
+08/02/23, 12:52 pm - Ram: 9pm
+08/02/23, 12:52 pm - ✌️Trio Tech Akshaya😇: Oh okay 👍
+08/02/23, 12:52 pm - ✌️Trio Tech Akshaya😇: Which you will suggest me anna
+08/02/23, 12:52 pm - ✌️Trio Tech Akshaya😇: Tomorrow
+08/02/23, 12:53 pm - Ram: Tmrw 9pm
+08/02/23, 12:53 pm - ✌️Trio Tech Akshaya😇: Or today I will go as per your words
+08/02/23, 12:53 pm - ✌️Trio Tech Akshaya😇: Anna okay
+08/02/23, 12:53 pm - ✌️Trio Tech Akshaya😇: Annaaaaaaa
+08/02/23, 12:53 pm - ✌️Trio Tech Akshaya😇: 🤞🤞
+08/02/23, 12:58 pm - ✌️Trio Tech Akshaya😇: Anna
+08/02/23, 12:58 pm - ✌️Trio Tech Akshaya😇: Easy ya kaepangala??
+08/02/23, 1:02 pm - Ram: Don't no
+08/02/23, 1:02 pm - ✌️Trio Tech Akshaya😇: 😅😅😅
+08/02/23, 1:03 pm - ✌️Trio Tech Akshaya😇: Anna abcd madiri koncham Karla sollunga Kumar enna sonano I will give my 100% answer
+08/02/23, 1:05 pm - ✌️Trio Tech Akshaya😇: Anna nalaiku scheduled la??
+08/02/23, 1:05 pm - Ram: Yes
+08/02/23, 1:06 pm - ✌️Trio Tech Akshaya😇: Sure
+08/02/23, 6:27 pm - ✌️Trio Tech Akshaya😇: Anna got you invite 😰 so tensed!! Here
+08/02/23, 7:41 pm - Ram: Be confident
+08/02/23, 7:41 pm - ✌️Trio Tech Akshaya😇: Anna please. Tell question
+08/02/23, 7:41 pm - ✌️Trio Tech Akshaya😇: 😅
+08/02/23, 7:42 pm - ✌️Trio Tech Akshaya😇: Please leak some questions
+08/02/23, 7:42 pm - Ram: Don't no
+08/02/23, 7:43 pm - ✌️Trio Tech Akshaya😇: Hmmm🙄🤞🤞
+08/02/23, 7:43 pm - ✌️Trio Tech Akshaya😇: Am on call with Priya akka
+08/02/23, 7:45 pm - ✌️Trio Tech Akshaya😇: Anna how he will be questioning tough uh interviewer??
+09/02/23, 9:12 pm - ✌️Trio Tech Akshaya😇: Annaaaa
+09/02/23, 9:12 pm - ✌️Trio Tech Akshaya😇: Sorry
+09/02/23, 9:13 pm - ✌️Trio Tech Akshaya😇: I left before your words
+09/02/23, 9:13 pm - ✌️Trio Tech Akshaya😇: Sothapidfies !!🙄🙄🙄
+09/02/23, 9:13 pm - ✌️Trio Tech Akshaya😇: Uh am not satisfied… he stared early 8:51pm
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: 👍😊😊aana thank you so much anna
+09/02/23, 9:37 pm - Ram: Don't say thanks and all
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: Bottom of my heart
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: Hmmmm it’s okay anna💐💐💐
+09/02/23, 9:37 pm - Ram: Will connect daily and i need to refresh totally blank now
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: Really am happy anna not by words
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: Sure
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: Sure
+09/02/23, 9:37 pm - ✌️Trio Tech Akshaya😇: 👍😊😊
+09/02/23, 9:39 pm - ✌️Trio Tech Akshaya😇: Na enna panano motham instance access kooda original kudukara
+09/02/23, 9:39 pm - ✌️Trio Tech Akshaya😇: 😅😅👍
+09/02/23, 9:39 pm - ✌️Trio Tech Akshaya😇: I will share my screen and show you
+09/02/23, 9:40 pm - Ram: Ok
+09/02/23, 9:40 pm - ✌️Trio Tech Akshaya😇: Oka anna
+09/02/23, 9:40 pm - ✌️Trio Tech Akshaya😇: 👍👍
+10/02/23, 10:58 am - ✌️Trio Tech Akshaya😇: Hi anna good morning result is positive dhana??🤞🤞
+10/02/23, 11:17 am - Ram: Still not received feedback
+10/02/23, 11:17 am - ✌️Trio Tech Akshaya😇: Iyooo
+10/02/23, 11:17 am - ✌️Trio Tech Akshaya😇: Apdiya
+10/02/23, 11:17 am - ✌️Trio Tech Akshaya😇: But select pannu vaangala anna??
+10/02/23, 11:18 am - Ram: Once shared will let you know
+10/02/23, 11:18 am - ✌️Trio Tech Akshaya😇: Okay anna sure
+10/02/23, 11:18 am - ✌️Trio Tech Akshaya😇: But is the thing positive uh irrukuma??
+10/02/23, 11:19 am - ✌️Trio Tech Akshaya😇: What is your opinion anna
+10/02/23, 11:19 am - Ram: Therila papom
+10/02/23, 11:19 am - ✌️Trio Tech Akshaya😇: Hmmmm okay anna👍🤞🤞
+10/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Anna doubt?
+10/02/23, 12:42 pm - ✌️Trio Tech Akshaya😇: Generally first round clear aana epo feedback varum?
+10/02/23, 1:55 pm - Ram: Wait for sometime
+10/02/23, 1:56 pm - ✌️Trio Tech Akshaya😇: Okay anna sema tensed here he might have known for himuh nanu manipulate?🤦‍♀️🙄🙄
+10/02/23, 1:57 pm - Ram: yaruku known
+10/02/23, 1:57 pm - ✌️Trio Tech Akshaya😇: Srikanth ku
+10/02/23, 1:57 pm - ✌️Trio Tech Akshaya😇: Yesterday
+10/02/23, 1:57 pm - ✌️Trio Tech Akshaya😇: While interviewing
+10/02/23, 1:57 pm - Ram: Wait
+10/02/23, 1:58 pm - ✌️Trio Tech Akshaya😇: 👍sure anna
+10/02/23, 1:58 pm - ✌️Trio Tech Akshaya😇: Kandippa
+13/02/23, 10:55 am - Ram: Hello
+13/02/23, 10:56 am - Ram: Akshaya
+13/02/23, 11:02 am - ✌️Trio Tech Akshaya😇: Hi
+13/02/23, 11:02 am - ✌️Trio Tech Akshaya😇: Anna
+13/02/23, 11:17 am - Ram: Wednesday 9.30 am?
+13/02/23, 11:18 am - ✌️Trio Tech Akshaya😇: Okay anna sure o will ask him some how you confirm it anna i will  attend
+13/02/23, 11:18 am - ✌️Trio Tech Akshaya😇: 👍😊😊
+13/02/23, 11:19 am - Ram: Confirm and let me know
+13/02/23, 11:20 am - ✌️Trio Tech Akshaya😇: Sure anna I will update
+13/02/23, 11:20 am - ✌️Trio Tech Akshaya😇: Like after 1 hr anna
+13/02/23, 11:20 am - Ram: Ok
+13/02/23, 11:22 am - ✌️Trio Tech Akshaya😇: Thank you so much anna👍😊please don’t mistake he will be always shouting only ‘me’🙄🙄
+13/02/23, 11:22 am - Ram: No issues
+13/02/23, 11:22 am - ✌️Trio Tech Akshaya😇: Thanks anna for understanding 👍😊
+13/02/23, 12:46 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+13/02/23, 12:46 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+13/02/23, 12:48 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+13/02/23, 12:48 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+13/02/23, 1:05 pm - ✌️Trio Tech Akshaya😇: Anna confirm please send the link
+13/02/23, 1:06 pm - ✌️Trio Tech Akshaya😇: And I cleared pwc second round
+13/02/23, 1:07 pm - Ram: Wow sema
+13/02/23, 1:07 pm - Ram: That's it round over there?
+13/02/23, 1:08 pm - ✌️Trio Tech Akshaya😇: null
+13/02/23, 1:08 pm - ✌️Trio Tech Akshaya😇: That message I sent to Sanjil as well
+13/02/23, 1:09 pm - ✌️Trio Tech Akshaya😇: Managerial round pending he told he will update anna but am not interested as it’s night shift🙄🙄🙄
+13/02/23, 1:09 pm - Ram: Oh
+13/02/23, 1:09 pm - ✌️Trio Tech Akshaya😇: Neenga meeting link anupidunga anna
+13/02/23, 1:09 pm - ✌️Trio Tech Akshaya😇: I will
+13/02/23, 1:09 pm - Ram: What timing
+13/02/23, 1:09 pm - ✌️Trio Tech Akshaya😇: Attend
+13/02/23, 1:09 pm - ✌️Trio Tech Akshaya😇: Wednesday 9:30am
+13/02/23, 1:10 pm - Ram: Adhu ila night shift timings?
+13/02/23, 1:11 pm - ✌️Trio Tech Akshaya😇: Shift timings night shift nu she told but dunno the timings think from 11pm -4am
+13/02/23, 1:11 pm - ✌️Trio Tech Akshaya😇: Anna
+13/02/23, 1:13 pm - Ram: Oh
+13/02/23, 1:23 pm - ✌️Trio Tech Akshaya😇: Anna’s of India
+13/02/23, 1:25 pm - ✌️Trio Tech Akshaya😇: Second schedule okay on Wednesday 👍😊please send the link
+13/02/23, 3:09 pm - Ram: Sent already
+13/02/23, 3:44 pm - ✌️Trio Tech Akshaya😇: Okay anna 👍
+15/02/23, 8:59 am - ✌️Trio Tech Akshaya😇: Missed voice call
+15/02/23, 9:00 am - ✌️Trio Tech Akshaya😇: Hi anna
+15/02/23, 9:00 am - ✌️Trio Tech Akshaya😇: Am attendin from my mob
+15/02/23, 9:00 am - ✌️Trio Tech Akshaya😇: And I wanted to check whether it’s audible or not that’s y I called you
+15/02/23, 9:53 am - ✌️Trio Tech Akshaya😇: Anna
+15/02/23, 9:54 am - ✌️Trio Tech Akshaya😇: Bayama irruku
+15/02/23, 9:54 am - ✌️Trio Tech Akshaya😇: 🤞🤞🤞
+15/02/23, 10:02 am - Ram: I will update
+15/02/23, 10:02 am - Ram: She yet to share
+15/02/23, 10:03 am - ✌️Trio Tech Akshaya😇: Ya puriyuthu
+15/02/23, 10:03 am - ✌️Trio Tech Akshaya😇: But
+15/02/23, 10:03 am - ✌️Trio Tech Akshaya😇: Bayama irruku anna
+15/02/23, 10:03 am - ✌️Trio Tech Akshaya😇: 🤞🤞🤞
+15/02/23, 10:04 am - ✌️Trio Tech Akshaya😇: Sit and eit koncham 70% sonna but correct bulls eye madiri solala sit na kff vales store panikum, and eit nah, dff values store panum
+15/02/23, 10:04 am - ✌️Trio Tech Akshaya😇: 🤦‍♀️🤦‍♀️
+15/02/23, 10:05 am - ✌️Trio Tech Akshaya😇: The last two lines solala
+15/02/23, 10:05 am - ✌️Trio Tech Akshaya😇: 😢😢
+15/02/23, 10:27 am - ✌️Trio Tech Akshaya😇: Anna who is Geetha is she is an upper hand than Srikanth or she is under skrikanth.
+15/02/23, 10:37 am - Ram: She is the Project manager
+15/02/23, 4:00 pm - Ram: You there
+15/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: Iyo
+15/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: Hi anna
+15/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: 🤞🤞
+15/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: Okay??
+15/02/23, 4:15 pm - ✌️Trio Tech Akshaya😇: Jus now got signal here
+15/02/23, 4:16 pm - Ram: She kept on hold, ana Chitra oda boss kita pesunen. He said let me do the interview and finalize
+15/02/23, 4:16 pm - Ram: R u fine for 6pm today
+15/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: Okay anna sure 6 pm net prob anna so how this can be done??
+15/02/23, 4:17 pm - ✌️Trio Tech Akshaya😇: Missed voice call
+15/02/23, 5:01 pm - ✌️Trio Tech Akshaya😇: Hi anna send me the link
+15/02/23, 5:01 pm - ✌️Trio Tech Akshaya😇: Missed voice call
+15/02/23, 5:01 pm - ✌️Trio Tech Akshaya😇: I will join
+15/02/23, 5:02 pm - ✌️Trio Tech Akshaya😇: Is it okay today or what is your suggestion? Anna
+15/02/23, 5:03 pm - Ram: Will schedule today
+15/02/23, 5:03 pm - ✌️Trio Tech Akshaya😇: Okay anna
+15/02/23, 5:03 pm - ✌️Trio Tech Akshaya😇: I will get ready
+15/02/23, 5:04 pm - ✌️Trio Tech Akshaya😇: Anna
+15/02/23, 5:04 pm - ✌️Trio Tech Akshaya😇: Sound system will be there by 6 pm
+15/02/23, 5:04 pm - ✌️Trio Tech Akshaya😇: So
+15/02/23, 5:04 pm - Ram: Ok
+15/02/23, 5:04 pm - ✌️Trio Tech Akshaya😇: Please ignore
+15/02/23, 5:04 pm - ✌️Trio Tech Akshaya😇: I will be attending from reception anna
+15/02/23, 5:04 pm - Ram: Ok
+15/02/23, 5:09 pm - Ram: Sent
+15/02/23, 5:28 pm - ✌️Trio Tech Akshaya😇: Got it anna
+15/02/23, 5:46 pm - Ram: You joined now itself
+15/02/23, 5:46 pm - Ram: Join by 5.55
+15/02/23, 5:46 pm - ✌️Trio Tech Akshaya😇: Okay anna
+15/02/23, 5:46 pm - ✌️Trio Tech Akshaya😇: So tensed here
+15/02/23, 5:47 pm - Ram: Ok
+15/02/23, 5:47 pm - Ram: Be yourself
+15/02/23, 5:47 pm - Ram: Don't get tensed be normal
+15/02/23, 5:47 pm - Ram: Kedaikum na kandipa kedaikum
+15/02/23, 5:47 pm - ✌️Trio Tech Akshaya😇: Ya ya I have to some how get in anna.. am working king hard for that
+15/02/23, 5:48 pm - Ram: So be positive and be patient
+15/02/23, 5:48 pm - ✌️Trio Tech Akshaya😇: Ya correct anna👍🤞🤞🤞thanks for your words, 👍😊
+15/02/23, 5:48 pm - ✌️Trio Tech Akshaya😇: Okay anna sure 👍
+15/02/23, 5:48 pm - ✌️Trio Tech Akshaya😇: Anna what he will ask again technical
+15/02/23, 5:48 pm - ✌️Trio Tech Akshaya😇: Only
+15/02/23, 5:49 pm - Ram: He is a delivery head i can't guess
+15/02/23, 5:49 pm - ✌️Trio Tech Akshaya😇: Ooo okay anna 😳😳😢😢
+15/02/23, 5:49 pm - ✌️Trio Tech Akshaya😇: Therila enna solradune
+15/02/23, 6:13 pm - ✌️Trio Tech Akshaya😇: Hi anna
+15/02/23, 6:13 pm - ✌️Trio Tech Akshaya😇: It got ended non even 10 mins anna
+15/02/23, 6:14 pm - ✌️Trio Tech Akshaya😇: 🙄🙄🙄
+15/02/23, 7:22 pm - ✌️Trio Tech Akshaya😇: Hi anna
+15/02/23, 7:23 pm - ✌️Trio Tech Akshaya😇: Sorry jus now saw you missed call actually net is not proper here
+15/02/23, 7:30 pm - Ram: He said i have to discuss with Geetha
+15/02/23, 7:30 pm - Ram: He will give update tmrw
+15/02/23, 7:34 pm - ✌️Trio Tech Akshaya😇: Okay anna fingers crossed🤞🤞
+15/02/23, 7:34 pm - ✌️Trio Tech Akshaya😇: Is he kind of impressed ?? Or he is also 50 50 anna
+15/02/23, 7:35 pm - Ram: Wait
+15/02/23, 7:35 pm - Ram: He said i will get back to you
+15/02/23, 7:35 pm - ✌️Trio Tech Akshaya😇: What was his comment actually?🙄
+15/02/23, 7:35 pm - ✌️Trio Tech Akshaya😇: Okay anna 🤞🤞👍
+16/02/23, 11:12 am - ✌️Trio Tech Akshaya😇: Hi anna
+16/02/23, 11:32 am - ✌️Trio Tech Akshaya😇: Any word from them?😢🤞🤞
+16/02/23, 2:33 pm - Ram: No as of now no update
+16/02/23, 2:42 pm - ✌️Trio Tech Akshaya😇: Okay anna🤞🤞
+16/02/23, 5:13 pm - Ram: Hi Akshaya
+16/02/23, 5:34 pm - ✌️Trio Tech Akshaya😇: Hi anna
+16/02/23, 5:34 pm - ✌️Trio Tech Akshaya😇: Sorry jus now saw your message
+16/02/23, 5:34 pm - ✌️Trio Tech Akshaya😇: 😰😰😰😰anna sooo afraid 😱
+16/02/23, 5:43 pm - Ram: Free ah ipo pesalama
+17/02/23, 2:19 pm - ✌️Trio Tech Akshaya😇: Missed voice call
+17/02/23, 4:48 pm - Ram: Call panirundhiya
+17/02/23, 4:59 pm - ✌️Trio Tech Akshaya😇: Hi anna
+17/02/23, 4:59 pm - ✌️Trio Tech Akshaya😇: Can we connect @5:30 pm today??
+17/02/23, 4:59 pm - ✌️Trio Tech Akshaya😇: Okay nah?
+17/02/23, 5:02 pm - Ram: Can we connect now
+17/02/23, 5:03 pm - ✌️Trio Tech Akshaya😇: Anna coffee giving oru 10 mins anna
+17/02/23, 5:08 pm - Ram: Ok
+17/02/23, 5:34 pm - Ram: U der
+17/02/23, 5:44 pm - ✌️Trio Tech Akshaya😇: Hi Ann
+17/02/23, 5:44 pm - ✌️Trio Tech Akshaya😇: Wishing link
+17/02/23, 5:45 pm - Ram: Same link I sent to athulya mail
+17/02/23, 5:45 pm - ✌️Trio Tech Akshaya😇: Okay anna
+17/02/23, 6:47 pm - ✌️Trio Tech Akshaya😇: Hi anna
+17/02/23, 6:47 pm - ✌️Trio Tech Akshaya😇: No voice
+17/02/23, 6:47 pm - ✌️Trio Tech Akshaya😇: From your end
+17/02/23, 6:48 pm - Ram: Monday onwards daily we can connect
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: Sure anna
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: 😊
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: What ever I know I will tell you
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: 👍
+17/02/23, 6:48 pm - Ram: Okay sure
+17/02/23, 6:48 pm - Ram: Bye
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: 😊
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: Neenga
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: 8:30
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: Call la
+17/02/23, 6:48 pm - ✌️Trio Tech Akshaya😇: Join
+17/02/23, 6:49 pm - ✌️Trio Tech Akshaya😇: Aaringala??
+17/02/23, 6:49 pm - Ram: Now going out will let you know
+17/02/23, 6:49 pm - Ram: Once I back
+17/02/23, 6:49 pm - ✌️Trio Tech Akshaya😇: Okay anna sure
+17/02/23, 6:49 pm - ✌️Trio Tech Akshaya😇: Priya kuda ireupanaga so
+17/02/23, 6:49 pm - ✌️Trio Tech Akshaya😇: Join mudinja
+17/02/23, 6:49 pm - ✌️Trio Tech Akshaya😇: 👍
+20/02/23, 10:41 am - ✌️Trio Tech Akshaya😇: Kalkarel anna👌👌
+20/02/23, 10:42 am - ✌️Trio Tech Akshaya😇: Enna dp la oru range la irruku 👍 nice but 😎
+20/02/23, 10:49 am - Ram: Adhu ena but
+20/02/23, 10:49 am - Ram: Nan coolers poda kudadhu
+20/02/23, 10:49 am - Ram: ?
+20/02/23, 10:49 am - Ram: Ah
+20/02/23, 10:50 am - ✌️Trio Tech Akshaya😇: Iyooo but cool la irrukunga randhuran apdi smiley potu sonen 🙄
+20/02/23, 10:51 am - ✌️Trio Tech Akshaya😇: Coolers posing super nu sona
+20/02/23, 10:51 am - ✌️Trio Tech Akshaya😇: 😢😢ipdi purinjikiting
+20/02/23, 10:52 am - Ram: Nee but nu pota Nala dhan keten🤪
+20/02/23, 10:52 am - ✌️Trio Tech Akshaya😇: But type panaporuma illama smiley potuten 😅
+20/02/23, 10:53 am - Ram: Ok
+20/02/23, 11:48 am - ✌️Trio Tech Akshaya😇: Anna Abhijit kitta koncham avara push panirundha vandurkuma??😢😢🙄
+20/02/23, 11:48 am - ✌️Trio Tech Akshaya😇: Hi anna
+20/02/23, 11:48 am - ✌️Trio Tech Akshaya😇: Connect aalama
+20/02/23, 11:48 am - ✌️Trio Tech Akshaya😇: Ungalukku okay va??
+20/02/23, 11:48 am - ✌️Trio Tech Akshaya😇: Am free now
+20/02/23, 12:37 pm - Ram: Position vacant ila adhan not taken
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Uh puriyudu 🤦‍♀️ sari connect aalama
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: U told from today la anna
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Reached Chennai
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Morning
+20/02/23, 12:41 pm - Ram: Oh apadiya super
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Uh
+20/02/23, 12:41 pm - Ram: Wait 4 pm connect panalam
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Okay
+20/02/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Sure anna👍
+20/02/23, 12:48 pm - ✌️Trio Tech Akshaya😇: Anna knock knock
+20/02/23, 1:13 pm - ✌️Trio Tech Akshaya😇: Anna oru small unda I
+20/02/23, 1:13 pm - ✌️Trio Tech Akshaya😇: Udavi *
+20/02/23, 3:20 pm - Ram: Yeah solu
+20/02/23, 3:35 pm - ✌️Trio Tech Akshaya😇: Annaaa
+20/02/23, 3:38 pm - Ram: Yeah solu
+20/02/23, 3:39 pm - ✌️Trio Tech Akshaya😇: Oru review
+20/02/23, 3:39 pm - ✌️Trio Tech Akshaya😇: Kuda ku I’m
+20/02/23, 3:40 pm - ✌️Trio Tech Akshaya😇: Old age home review
+20/02/23, 3:40 pm - ✌️Trio Tech Akshaya😇: Kudukanum
+20/02/23, 3:41 pm - ✌️Trio Tech Akshaya😇: Please give 5 star rating
+20/02/23, 3:41 pm - ✌️Trio Tech Akshaya😇: And good comments please now
+20/02/23, 3:43 pm - Ram: Ok
+21/02/23, 1:19 pm - ✌️Trio Tech Akshaya😇: Hi anna
+21/02/23, 1:19 pm - ✌️Trio Tech Akshaya😇: How arr try w you??
+21/02/23, 1:19 pm - ✌️Trio Tech Akshaya😇: How are you??👍
+21/02/23, 1:19 pm - ✌️Trio Tech Akshaya😇: And shall we connect tomorrow for revision
+21/02/23, 1:19 pm - ✌️Trio Tech Akshaya😇: Is that fine for you?
+21/02/23, 1:41 pm - Ram: What revision
+21/02/23, 1:41 pm - ✌️Trio Tech Akshaya😇: Uh aama neenga soneengale
+21/02/23, 1:42 pm - ✌️Trio Tech Akshaya😇: Adan Kekaha
+21/02/23, 1:42 pm - ✌️Trio Tech Akshaya😇: *kekara
+21/02/23, 1:42 pm - ✌️Trio Tech Akshaya😇: Anna
+21/02/23, 1:42 pm - Ram: Oh adhuva ah ok ok
+21/02/23, 1:42 pm - ✌️Trio Tech Akshaya😇: Neenga enna nenachinga ??
+21/02/23, 4:16 pm - Ram: Revision Sona udanae I thought test Mari solura nu
+21/02/23, 4:18 pm - ✌️Trio Tech Akshaya😇: Illa anna
+21/02/23, 4:19 pm - ✌️Trio Tech Akshaya😇: Naa test vekara alavukkuw periya aalu ilaingo annaaaaaa😢😅
+21/02/23, 4:19 pm - Ram: Ok ok
+21/02/23, 4:20 pm - ✌️Trio Tech Akshaya😇: Okay?
+22/02/23, 3:38 pm - Ram: Hi Akshaya
+22/02/23, 3:40 pm - ✌️Trio Tech Akshaya😇: Hi annaaa
+22/02/23, 3:51 pm - Ram: Busy ah
+22/02/23, 3:56 pm - ✌️Trio Tech Akshaya😇: Illa anna
+22/02/23, 3:56 pm - ✌️Trio Tech Akshaya😇: Sollunga
+22/02/23, 3:56 pm - Ram: Shall we connect now
+22/02/23, 3:57 pm - ✌️Trio Tech Akshaya😇: Anna documents kaga talking with that guy please give some time anna
+22/02/23, 3:57 pm - ✌️Trio Tech Akshaya😇: Else can we connect tomorrow?
+22/02/23, 3:57 pm - Ram: Okay fine
+24/02/23, 12:16 pm - ✌️Trio Tech Akshaya😇: Hi anna
+24/02/23, 12:16 pm - ✌️Trio Tech Akshaya😇: Anna
+24/02/23, 12:16 pm - ✌️Trio Tech Akshaya😇: I have called her
+24/02/23, 12:17 pm - ✌️Trio Tech Akshaya😇: She told that she will call back?? Which means what ??
+24/02/23, 12:17 pm - Ram: They have told you are selected right?
+24/02/23, 12:17 pm - ✌️Trio Tech Akshaya😇: Uh ya they told like I will send the mail please share the documents so I shared
+24/02/23, 12:18 pm - ✌️Trio Tech Akshaya😇: With Pallavi
+24/02/23, 12:18 pm - ✌️Trio Tech Akshaya😇: Then after sharing i didn’t receive call. Today I called and Sandeep one person took the call in her mob he told she is not in the desk
+24/02/23, 12:19 pm - ✌️Trio Tech Akshaya😇: I will tel her to revert your call back soon. I told him that negotiation didn’t happen
+24/02/23, 12:19 pm - ✌️Trio Tech Akshaya😇: And also I wanted the time to report office for additional details that’s the reason I made call
+24/02/23, 12:19 pm - ✌️Trio Tech Akshaya😇: He told okay I will convey
+24/02/23, 12:20 pm - ✌️Trio Tech Akshaya😇: To her
+24/02/23, 12:20 pm - ✌️Trio Tech Akshaya😇: It still I didn’t get call from Pallavi anna
+24/02/23, 12:20 pm - ✌️Trio Tech Akshaya😇: 🙄🙄😰
+24/02/23, 12:20 pm - Ram: Let's wait until Monday
+24/02/23, 12:20 pm - ✌️Trio Tech Akshaya😇: If not ?? What will happen??
+24/02/23, 12:20 pm - ✌️Trio Tech Akshaya😇: Again they hold me !?
+24/02/23, 12:20 pm - ✌️Trio Tech Akshaya😇: Then y they told me to share documents
+24/02/23, 12:21 pm - Ram: Will wait for sometimes
+24/02/23, 12:21 pm - Ram: Sometimes they may be in some other works
+24/02/23, 12:21 pm - ✌️Trio Tech Akshaya😇: After sharing also have you not relaeased offer letter anna is any case happened like that to you ??
+24/02/23, 12:21 pm - Ram: Position got hold means we have did
+24/02/23, 12:21 pm - ✌️Trio Tech Akshaya😇: Okay but confirm la they will release offer letter
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: After sharing documents also uh??
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: Have you made candidates to wait??
+24/02/23, 12:22 pm - Ram: Sometimes
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: Enakku purila actually
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: Ohhh 😲
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: Therila then
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: Paapom
+24/02/23, 12:22 pm - ✌️Trio Tech Akshaya😇: 😢
+24/02/23, 12:23 pm - ✌️Trio Tech Akshaya😇: 🤦‍♀️🤦‍♀️cha anna
+24/02/23, 12:23 pm - ✌️Trio Tech Akshaya😇: Kadupetranga
+24/02/23, 12:23 pm - Ram: Let's wait for good
+24/02/23, 12:23 pm - ✌️Trio Tech Akshaya😇: Hmmm
+24/02/23, 12:24 pm - ✌️Trio Tech Akshaya😇: Okay anna
+24/02/23, 12:55 pm - ✌️Trio Tech Akshaya😇: https://www.facebook.com/reel/723523749042798?fs=e&s=7MtrtK&mibextid=q5o4bk
+24/02/23, 9:05 pm - Ram: 👍🏻
+24/02/23, 9:05 pm - ✌️Trio Tech Akshaya😇: 😊
+27/02/23, 4:30 pm - ✌️Trio Tech Akshaya😇: Hi amma
+27/02/23, 4:30 pm - ✌️Trio Tech Akshaya😇: Anna
+27/02/23, 4:37 pm - Ram: Hi Akshaya
+27/02/23, 5:00 pm - ✌️Trio Tech Akshaya😇: Annaaaatheeee
+27/02/23, 5:00 pm - ✌️Trio Tech Akshaya😇: No update from them😓😰😰😰
+27/02/23, 5:13 pm - ✌️Trio Tech Akshaya😇: Sometimes it may take time uh for approvals??
+27/02/23, 5:13 pm - ✌️Trio Tech Akshaya😇: What’s the reason for delay anna🤦‍♀️🙄😓😰
+27/02/23, 5:15 pm - Ram: Position may be on hold
+27/02/23, 5:15 pm - Ram: They have taken someone this are the reasons
+27/02/23, 5:15 pm - ✌️Trio Tech Akshaya😇: Y anna??
+27/02/23, 5:16 pm - ✌️Trio Tech Akshaya😇: Oh actually they won’t do like that ! La or else they won’t tell to share the docs anna
+27/02/23, 5:17 pm - ✌️Trio Tech Akshaya😇: May be I think approvals vandurkadhu or internally they might have changed! Apdikuda irrukum la?
+27/02/23, 7:54 pm - Ram: Theriyalae
+27/02/23, 8:19 pm - ✌️Trio Tech Akshaya😇: Therila anna karanam teriyama thavikkara
+27/02/23, 8:19 pm - ✌️Trio Tech Akshaya😇: 😰🤦‍♀️😓
+27/02/23, 8:19 pm - ✌️Trio Tech Akshaya😇: Will you join by 8:30 today
+27/02/23, 8:19 pm - ✌️Trio Tech Akshaya😇: ?
+02/03/23, 1:35 pm - ✌️Trio Tech Akshaya😇: Hi anna
+02/03/23, 1:35 pm - ✌️Trio Tech Akshaya😇: How are you??
+02/03/23, 1:36 pm - ✌️Trio Tech Akshaya😇: 👍😊
+02/03/23, 2:11 pm - Ram: Hi Akshaya
+02/03/23, 2:11 pm - Ram: I'm good
+02/03/23, 2:11 pm - Ram: How Abt you
+02/03/23, 2:11 pm - ✌️Trio Tech Akshaya😇: Yes anna good
+02/03/23, 2:11 pm - ✌️Trio Tech Akshaya😇: 👍
+02/03/23, 2:11 pm - ✌️Trio Tech Akshaya😇: What doing??
+02/03/23, 2:12 pm - Ram: Office work dhan
+02/03/23, 2:13 pm - ✌️Trio Tech Akshaya😇: Hmmm super fish edadu matitha??
+02/03/23, 2:13 pm - ✌️Trio Tech Akshaya😇: 😅
+02/03/23, 2:13 pm - Ram: Puriyala
+02/03/23, 2:14 pm - ✌️Trio Tech Akshaya😇: Valaila meen edavadu kedachutha for the open positiob for hcm
+02/03/23, 2:14 pm - ✌️Trio Tech Akshaya😇: Nu kaekavanden anna
+02/03/23, 2:14 pm - ✌️Trio Tech Akshaya😇: 🙃
+02/03/23, 2:16 pm - Ram: Edhuvum matala
+02/03/23, 2:16 pm - ✌️Trio Tech Akshaya😇: Hmmm okay okay 😃
+02/03/23, 2:17 pm - ✌️Trio Tech Akshaya😇: Anna check review
+02/03/23, 2:17 pm - ✌️Trio Tech Akshaya😇: In Kumar trio tech page in google
+02/03/23, 2:17 pm - ✌️Trio Tech Akshaya😇: Two of them got placed rommbaaa
+02/03/23, 2:18 pm - ✌️Trio Tech Akshaya😇: Pugaznthu thalirupaanga 🫢🫢
+02/03/23, 2:18 pm - ✌️Trio Tech Akshaya😇: Vandana and bhavana
+02/03/23, 2:18 pm - ✌️Trio Tech Akshaya😇: Their names!🫠
+02/03/23, 2:18 pm - Ram: Edula iruku
+02/03/23, 2:19 pm - ✌️Trio Tech Akshaya😇: Google page open pani reviews button press panunga
+02/03/23, 2:19 pm - ✌️Trio Tech Akshaya😇: Jus dear trio tech on google page
+02/03/23, 2:20 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+02/03/23, 2:20 pm - Ram: Pathen
+02/03/23, 2:20 pm - Ram: Pathen
+02/03/23, 2:20 pm - ✌️Trio Tech Akshaya😇: Hmmm
+02/03/23, 2:20 pm - Ram: Yappa Samy mudiyala
+02/03/23, 2:20 pm - ✌️Trio Tech Akshaya😇: 🤔🤔🤔
+02/03/23, 2:20 pm - ✌️Trio Tech Akshaya😇: Laaa avan reply over la irruku
+02/03/23, 2:20 pm - ✌️Trio Tech Akshaya😇: Mudila nejamma
+02/03/23, 2:20 pm - ✌️Trio Tech Akshaya😇: I think he has told to write 🤭🤭
+02/03/23, 2:21 pm - Ram: Yes
+02/03/23, 2:21 pm - ✌️Trio Tech Akshaya😇: Ya la
+02/03/23, 2:22 pm - ✌️Trio Tech Akshaya😇: Avan solla vandada solanum addukku
+02/03/23, 2:22 pm - ✌️Trio Tech Akshaya😇: Soltan
+02/03/23, 2:22 pm - ✌️Trio Tech Akshaya😇: Paiyapulla usharuuuu
+02/03/23, 2:22 pm - ✌️Trio Tech Akshaya😇: 😅
+03/03/23, 7:04 pm - ✌️Trio Tech Akshaya😇: Anna drive stream lerndu call !🤭😂
+03/03/23, 8:28 pm - Ram: Apadiya what they said
+03/03/23, 8:47 pm - ✌️Trio Tech Akshaya😇: 😂😂
+03/03/23, 8:48 pm - ✌️Trio Tech Akshaya😇: Avan shock
+03/03/23, 8:48 pm - ✌️Trio Tech Akshaya😇: 🤭
+03/03/23, 9:26 pm - Ram: Opening ku call panagala
+03/03/23, 9:45 pm - ✌️Trio Tech Akshaya😇: Uh 😂
+03/03/23, 9:45 pm - ✌️Trio Tech Akshaya😇: Anna
+03/03/23, 9:59 pm - Ram: Ena aachu vacancy iruka ah
+03/03/23, 10:03 pm - ✌️Trio Tech Akshaya😇: Irruku
+03/03/23, 10:04 pm - ✌️Trio Tech Akshaya😇: But avan nodutan because it was his project 😂😂puriyutha na solavarathu
+03/03/23, 10:04 pm - ✌️Trio Tech Akshaya😇: How I will attend anna , interview ?
+03/03/23, 10:04 pm - ✌️Trio Tech Akshaya😇: Sema comedy 😅😂
+04/03/23, 7:20 am - Ram: Hahaha ok ok
+08/03/23, 10:43 am - Ram: Happy Women's Day Akshaya 💐💐💐
+08/03/23, 11:13 am - ✌️Trio Tech Akshaya😇: Hi anna thank youuuuu soooo muchhhh 😊😊😊😇😇😇😇
+08/03/23, 11:13 am - ✌️Trio Tech Akshaya😇: Happy to hear that
+08/03/23, 11:15 am - ✌️Trio Tech Akshaya😇: What doing anna??
+08/03/23, 11:15 am - Ram: Office Vela dhan
+08/03/23, 11:15 am - ✌️Trio Tech Akshaya😇: Uh uh super 👍
+14/03/23, 8:55 pm - ✌️Trio Tech Akshaya😇: Hi anna
+14/03/23, 8:55 pm - ✌️Trio Tech Akshaya😇: Gayathri message panna
+14/03/23, 8:55 pm - ✌️Trio Tech Akshaya😇: Sure sonna but no response
+14/03/23, 8:56 pm - ✌️Trio Tech Akshaya😇: And anna
+14/03/23, 8:57 pm - ✌️Trio Tech Akshaya😇: Ungalukku naala close uh irrukravangala koncham connect pani gmeet la Saturday doubts clear pana sollunga anna interview point of view la please
+14/03/23, 8:58 pm - ✌️Trio Tech Akshaya😇: Like person with 3 years or below podum exp vendam😅
+14/03/23, 9:36 pm - Ram: Adhu Mari lam yarum close lam ila
+14/03/23, 9:38 pm - ✌️Trio Tech Akshaya😇: Iyo anna
+15/03/23, 7:35 am - Ram: Then what you said
+15/03/23, 8:12 am - ✌️Trio Tech Akshaya😇: Edukku anna??
+15/03/23, 8:15 am - Ram: Idhu enna
+15/03/23, 9:06 am - ✌️Trio Tech Akshaya😇: Atha athu onnum illa anna
+15/03/23, 9:06 am - ✌️Trio Tech Akshaya😇: Yarana irrunda oru mock
+15/03/23, 9:06 am - ✌️Trio Tech Akshaya😇: Kudukarthukku corrext uh irrukum
+15/03/23, 9:06 am - ✌️Trio Tech Akshaya😇: So athan expect panni kaeten 😕
+15/03/23, 9:07 am - ✌️Trio Tech Akshaya😇: Full fever anna 🥵🥵
+15/03/23, 10:19 am - Ram: Why what happened
+15/03/23, 10:28 am - ✌️Trio Tech Akshaya😇: Anna
+15/03/23, 10:28 am - ✌️Trio Tech Akshaya😇: Urgent
+15/03/23, 10:31 am - ✌️Trio Tech Akshaya😇: One doubt
+15/03/23, 10:31 am - ✌️Trio Tech Akshaya😇: Free  means I will call you
+15/03/23, 1:50 pm - Ram: Send me the link of August batch
+15/03/23, 3:31 pm - ✌️Trio Tech Akshaya😇: Patiraneha@gmail.com
+15/03/23, 3:31 pm - ✌️Trio Tech Akshaya😇: Password same
+15/03/23, 3:31 pm - ✌️Trio Tech Akshaya😇: Anna
+15/03/23, 3:31 pm - ✌️Trio Tech Akshaya😇: 😂
+16/03/23, 11:22 am - ✌️Trio Tech Akshaya😇: Anna
+16/03/23, 11:22 am - ✌️Trio Tech Akshaya😇: Anna
+16/03/23, 11:22 am - ✌️Trio Tech Akshaya😇: Annaaaaaa
+16/03/23, 11:23 am - ✌️Trio Tech Akshaya😇: Sahana Fatima some one there!?
+16/03/23, 11:44 am - Ram: Don't no why?
+16/03/23, 11:47 am - ✌️Trio Tech Akshaya😇: Got a call
+16/03/23, 11:47 am - ✌️Trio Tech Akshaya😇: Aspire
+16/03/23, 11:47 am - ✌️Trio Tech Akshaya😇: Anna
+16/03/23, 11:51 am - Ram: What she said
+16/03/23, 12:13 pm - ✌️Trio Tech Akshaya😇: Anna
+16/03/23, 12:13 pm - ✌️Trio Tech Akshaya😇: Talent management
+16/03/23, 12:13 pm - ✌️Trio Tech Akshaya😇: Venuma
+16/03/23, 12:13 pm - ✌️Trio Tech Akshaya😇: She told
+16/03/23, 12:13 pm - ✌️Trio Tech Akshaya😇: I don’t know her uh???
+16/03/23, 12:14 pm - ✌️Trio Tech Akshaya😇: She is from your team only nah??
+16/03/23, 12:18 pm - Ram: Totally 80 recruiters there
+16/03/23, 12:18 pm - Ram: She is not in my team
+16/03/23, 12:20 pm - ✌️Trio Tech Akshaya😇: Ohhh okay anna
+16/03/23, 12:20 pm - ✌️Trio Tech Akshaya😇: Aaana indavati koncham sollu okay va 👍🙄
+16/03/23, 12:29 pm - Ram: Call
+16/03/23, 12:30 pm - ✌️Trio Tech Akshaya😇: Uh???
+17/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: Hiii
+17/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: anna
+17/03/23, 3:45 pm - Ram: Yeah Akshaya
+17/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: anna our comedy done by me
+17/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: scheinder electric
+17/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: company
+17/03/23, 3:46 pm - Ram: What comedy
+17/03/23, 3:46 pm - ✌️Trio Tech Akshaya😇: Interview happened today
+17/03/23, 3:46 pm - ✌️Trio Tech Akshaya😇: :D
+17/03/23, 3:46 pm - ✌️Trio Tech Akshaya😇: 😆 i told you are a lift company Schindler they nooo we are schneider electricals...
+17/03/23, 3:46 pm - ✌️Trio Tech Akshaya😇: 😂😂
+17/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: Interviewer literally laughed i too laughed in an interview
+17/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: anna
+17/03/23, 3:47 pm - Ram: 😄😄😄
+17/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: enna sirrupuu
+17/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: ponga nna
+17/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: bulb vaangina
+17/03/23, 3:48 pm - ✌️Trio Tech Akshaya😇: 😂😂
+17/03/23, 3:49 pm - Ram: Ena aachu selected?
+17/03/23, 3:50 pm - ✌️Trio Tech Akshaya😇: No way.
+17/03/23, 3:50 pm - ✌️Trio Tech Akshaya😇: 😅😅😅
+17/03/23, 3:50 pm - ✌️Trio Tech Akshaya😇: I think
+17/03/23, 3:50 pm - Ram: Ok
+17/03/23, 3:50 pm - ✌️Trio Tech Akshaya😇: I didn’t get a call
+17/03/23, 3:50 pm - ✌️Trio Tech Akshaya😇: Full of roles they asked
+17/03/23, 3:50 pm - ✌️Trio Tech Akshaya😇: 🫢
+17/03/23, 4:31 pm - ✌️Trio Tech Akshaya😇: Hi Anna if you wnat now to join we can join in gmeet
+17/03/23, 4:31 pm - ✌️Trio Tech Akshaya😇: Priya akka is also there !
+17/03/23, 4:35 pm - Ram: Which id
+17/03/23, 4:36 pm - ✌️Trio Tech Akshaya😇: I will share anna one sec
+17/03/23, 4:36 pm - ✌️Trio Tech Akshaya😇: Padmapriya Gopinath has invited you to join a video meeting on Google Meet.
+
+Join the meeting: https://meet.google.com/sfp-ttca-ffk
+17/03/23, 4:36 pm - ✌️Trio Tech Akshaya😇: Anna
+17/03/23, 4:36 pm - ✌️Trio Tech Akshaya😇: This link
+17/03/23, 4:38 pm - ✌️Trio Tech Akshaya😇: Okay va we are creating from legal entity
+17/03/23, 5:54 pm - ✌️Trio Tech Akshaya😇: Anna
+17/03/23, 5:54 pm - ✌️Trio Tech Akshaya😇: Connection lost
+17/03/23, 5:55 pm - ✌️Trio Tech Akshaya😇: Power cut
+17/03/23, 5:55 pm - ✌️Trio Tech Akshaya😇: I will try my level best if not we have to seee
+17/03/23, 5:56 pm - Ram: Okay will call tmrw
+17/03/23, 5:56 pm - ✌️Trio Tech Akshaya😇: Sure sure anna👍😊
+17/03/23, 6:55 pm - ✌️Trio Tech Akshaya😇: Anna Gayathri spoke with me
+17/03/23, 6:55 pm - ✌️Trio Tech Akshaya😇: 😅
+19/03/23, 9:22 am - Ram: What she said
+29/03/23, 3:40 pm - ✌️Trio Tech Akshaya😇: Hi
+29/03/23, 3:41 pm - ✌️Trio Tech Akshaya😇: Annaaa
+29/03/23, 3:41 pm - ✌️Trio Tech Akshaya😇: Pathiyaaa Kumar
+29/03/23, 3:41 pm - ✌️Trio Tech Akshaya😇: Messaged
+29/03/23, 3:44 pm - Ram: Who is Akhil?
+29/03/23, 3:44 pm - ✌️Trio Tech Akshaya😇: August batch
+29/03/23, 3:44 pm - ✌️Trio Tech Akshaya😇: Anna
+29/03/23, 3:45 pm - Ram: Oh okay
+29/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: Neha told
+29/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: I spoke with Arun
+29/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: I told I will join
+29/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: But I need flexible work
+29/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: He told no
+29/03/23, 3:45 pm - ✌️Trio Tech Akshaya😇: 😅
+29/03/23, 3:46 pm - Ram: Like 1 day office in a week apadiya
+29/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: Initial na varen complete two months after that any important meetings na I can stay in Chennai and attend for  couple of days but
+29/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: Not complete stay
+29/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: He told to write bond for 3 years
+29/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: So complete 3 years mudiyathu
+29/03/23, 3:47 pm - ✌️Trio Tech Akshaya😇: La
+29/03/23, 3:48 pm - Ram: Oh okay
+29/03/23, 3:48 pm - ✌️Trio Tech Akshaya😇: So asked him flexibility
+29/03/23, 3:48 pm - ✌️Trio Tech Akshaya😇: But he told no
+29/03/23, 4:16 pm - Ram: Oh okay
+29/03/23, 4:17 pm - ✌️Trio Tech Akshaya😇: I will tell you one thing after 3 days
+31/03/23, 8:19 pm - Ram: Offer letter came ah
+31/03/23, 8:19 pm - ✌️Trio Tech Akshaya😇: Yes anna
+31/03/23, 8:19 pm - Ram: Kalakura ma'am
+31/03/23, 8:19 pm - ✌️Trio Tech Akshaya😇: Laptop also dispatched
+31/03/23, 8:19 pm - Ram: Super
+31/03/23, 8:20 pm - ✌️Trio Tech Akshaya😇: 😂
+06/04/23, 4:20 pm - Ram: Hello madam
+06/04/23, 4:21 pm - ✌️Trio Tech Akshaya😇: Hi anna
+06/04/23, 4:22 pm - Ram: Eppidi pogudhu work?
+06/04/23, 4:42 pm - ✌️Trio Tech Akshaya😇: Am quitting
+06/04/23, 4:42 pm - ✌️Trio Tech Akshaya😇: 😰🤦‍♀️🤦‍♀️
+06/04/23, 4:42 pm - Ram: What
+06/04/23, 4:45 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+06/04/23, 4:45 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+06/04/23, 5:51 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+06/04/23, 5:59 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+06/04/23, 6:58 pm - ✌️Trio Tech Akshaya😇: Anna two mins
+06/04/23, 6:58 pm - ✌️Trio Tech Akshaya😇: Please attend the call
+06/04/23, 6:58 pm - ✌️Trio Tech Akshaya😇: I have one doubt
+06/04/23, 7:42 pm - Ram: Velila iruken nan
+06/04/23, 8:08 pm - ✌️Trio Tech Akshaya😇: For sending email I had doubt so called you
+06/04/23, 8:09 pm - Ram: Okay now am outside can't talk
+06/04/23, 10:48 pm - ✌️Trio Tech Akshaya😇: Sent mail
+06/04/23, 10:56 pm - Ram: Oh okay
+07/04/23, 10:17 am - ✌️Trio Tech Akshaya😇: Anna am joinin
+07/04/23, 10:17 am - ✌️Trio Tech Akshaya😇: Again😂
+07/04/23, 10:25 am - Ram: What
+07/04/23, 11:19 am - Ram: You withdraw va
+07/04/23, 11:36 am - ✌️Trio Tech Akshaya😇: Ni joined
+07/04/23, 11:36 am - ✌️Trio Tech Akshaya😇: Again
+07/04/23, 11:38 am - Ram: Puriyala
+07/04/23, 11:47 am - ✌️Trio Tech Akshaya😇: No I will join from 19th anna
+07/04/23, 11:47 am - ✌️Trio Tech Akshaya😇: There
+07/04/23, 11:47 am - ✌️Trio Tech Akshaya😇: So they are not accepting my resignation
+07/04/23, 11:48 am - Ram: How you convince your home
+07/04/23, 11:49 am - ✌️Trio Tech Akshaya😇: They strictly told me anna if you are not getting tensed and if you work lethargic then You continue
+07/04/23, 11:49 am - ✌️Trio Tech Akshaya😇: Else quit
+07/04/23, 11:53 am - Ram: Okay fine
+07/04/23, 11:58 am - Ram: Teach me Core HR
+07/04/23, 11:59 am - ✌️Trio Tech Akshaya😇: Got support as wel
+07/04/23, 11:59 am - ✌️Trio Tech Akshaya😇: Anna
+07/04/23, 11:59 am - Ram: Good
+07/04/23, 11:59 am - ✌️Trio Tech Akshaya😇: Job support so I think I can do from now oneards
+07/04/23, 11:59 am - Ram: Good to know
+07/04/23, 11:59 am - ✌️Trio Tech Akshaya😇: Yes anna
+07/04/23, 11:59 am - ✌️Trio Tech Akshaya😇: Definitely
+07/04/23, 12:00 pm - Ram: Epo nee free
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: I will teach you
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: Abba
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: Anna
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: Not abba
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: Nana full busy inauku Amma orruku poindrukka
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: So
+07/04/23, 12:00 pm - ✌️Trio Tech Akshaya😇: Tomorrow busy after that house shifting
+07/04/23, 12:01 pm - ✌️Trio Tech Akshaya😇: I will tell you anna
+07/04/23, 12:01 pm - Ram: Ok
+07/04/23, 12:01 pm - ✌️Trio Tech Akshaya😇: Okay ca??
+07/04/23, 12:01 pm - ✌️Trio Tech Akshaya😇: Done don't worry am there for you to help
+07/04/23, 12:01 pm - ✌️Trio Tech Akshaya😇: 👍
+07/04/23, 12:01 pm - Ram: Ok
+10/04/23, 7:20 am - ✌️Trio Tech Akshaya😇: 👏
+10/04/23, 10:44 am - Ram: Can we connect today
+10/04/23, 11:24 am - ✌️Trio Tech Akshaya😇: Tomorrow
+10/04/23, 11:24 am - ✌️Trio Tech Akshaya😇: I can do it anna
+10/04/23, 11:24 am - Ram: Okay what time
+10/04/23, 11:25 am - ✌️Trio Tech Akshaya😇: Therila Anna am in shifting tomorrow reill get settled so I will connect
+10/04/23, 11:25 am - ✌️Trio Tech Akshaya😇: Okay va
+10/04/23, 11:27 am - Ram: Ok, let me know
+10/04/23, 11:27 am - ✌️Trio Tech Akshaya😇: 👍sure anna
+13/04/23, 9:34 am - Ram: Narendra got offer ah
+13/04/23, 9:35 am - ✌️Trio Tech Akshaya😇: 😅😂😂Yeah
+13/04/23, 9:35 am - ✌️Trio Tech Akshaya😇: Namba mudiyala
+13/04/23, 9:36 am - ✌️Trio Tech Akshaya😇: Avanukke kedaikuthu if you try u will also get anna👍
+13/04/23, 9:36 am - Ram: Endha company?
+13/04/23, 9:36 am - ✌️Trio Tech Akshaya😇: Capgemini
+13/04/23, 9:36 am - ✌️Trio Tech Akshaya😇: Sonna
+13/04/23, 9:36 am - ✌️Trio Tech Akshaya😇: Evoke
+13/04/23, 9:36 am - ✌️Trio Tech Akshaya😇: Solra
+13/04/23, 9:36 am - Ram: How much offer
+13/04/23, 9:36 am - ✌️Trio Tech Akshaya😇: Idk which is true
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: Theriyathu
+13/04/23, 9:37 am - Ram: Ok
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: He is not telling
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: Anna
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: 🤦‍♀️
+13/04/23, 9:37 am - Ram: Seri seri
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: I asked him
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: Yesterday
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: But he told as per industry I gor
+13/04/23, 9:37 am - Ram: Ok
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: Nu but not telling in figure
+13/04/23, 9:37 am - Ram: Fine
+13/04/23, 9:37 am - ✌️Trio Tech Akshaya😇: Shock is ungalukku
+13/04/23, 9:38 am - Ram: Not shock and all just asked
+13/04/23, 9:38 am - ✌️Trio Tech Akshaya😇: *enakku aana shock
+13/04/23, 9:38 am - ✌️Trio Tech Akshaya😇: Hmmm puriyithu
+13/04/23, 9:38 am - ✌️Trio Tech Akshaya😇: U too try you will sorry get it
+13/04/23, 9:38 am - ✌️Trio Tech Akshaya😇: 👍🙂
+13/04/23, 9:38 am - Ram: Okay
+13/04/23, 9:39 am - ✌️Trio Tech Akshaya😇: *surely not sorry
+14/04/23, 2:12 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+15/04/23, 11:53 am - Ram: 🙏
+26/04/23, 6:52 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+26/04/23, 6:52 pm - ✌️Trio Tech Akshaya😇: Hi anna
+26/04/23, 6:53 pm - ✌️Trio Tech Akshaya😇: Pro pic la bayangrama
+26/04/23, 6:53 pm - ✌️Trio Tech Akshaya😇: Irruku
+26/04/23, 6:53 pm - ✌️Trio Tech Akshaya😇: 👍
+26/04/23, 7:00 pm - Ram: Apadi lam onum bayangaram lam ila
+26/04/23, 7:06 pm - ✌️Trio Tech Akshaya😇: Hey seriously
+26/04/23, 7:06 pm - ✌️Trio Tech Akshaya😇: Coat suitu
+26/04/23, 7:07 pm - ✌️Trio Tech Akshaya😇: Enga ready aagaringa marriage ka??
+26/04/23, 7:07 pm - ✌️Trio Tech Akshaya😇: 😂😅
+26/04/23, 7:08 pm - Ram: Brother-in-law reception
+26/04/23, 7:09 pm - ✌️Trio Tech Akshaya😇: Oh super
+26/04/23, 7:09 pm - ✌️Trio Tech Akshaya😇: I have joined a product org
+26/04/23, 7:10 pm - ✌️Trio Tech Akshaya😇: As a functional consultant anna
+26/04/23, 7:10 pm - Ram: Oh another company ah
+26/04/23, 7:10 pm - ✌️Trio Tech Akshaya😇: Hmmm
+26/04/23, 7:10 pm - ✌️Trio Tech Akshaya😇: Aama
+26/04/23, 7:11 pm - ✌️Trio Tech Akshaya😇: 🥲
+26/04/23, 7:11 pm - Ram: Oh fine ena company
+26/04/23, 7:11 pm - Ram: How much salary
+26/04/23, 7:11 pm - ✌️Trio Tech Akshaya😇: Product company opkey ki ,
+26/04/23, 7:11 pm - ✌️Trio Tech Akshaya😇: Salary 65 in hand
+26/04/23, 7:11 pm - Ram: Great
+26/04/23, 7:12 pm - Ram: Wfh ah
+26/04/23, 7:12 pm - ✌️Trio Tech Akshaya😇: Gross 75k
+26/04/23, 7:12 pm - ✌️Trio Tech Akshaya😇: Yes
+26/04/23, 7:13 pm - Ram: Good
+26/04/23, 7:13 pm - Ram: Epo join panna
+26/04/23, 7:31 pm - ✌️Trio Tech Akshaya😇: Yes anna
+26/04/23, 7:32 pm - Ram: When you joined
+26/04/23, 7:32 pm - ✌️Trio Tech Akshaya😇: Wfh dan
+26/04/23, 7:32 pm - ✌️Trio Tech Akshaya😇: Joined Monday anna
+26/04/23, 7:32 pm - Ram: Okay
+26/04/23, 7:32 pm - ✌️Trio Tech Akshaya😇: Monday inda Monday
+26/04/23, 7:32 pm - ✌️Trio Tech Akshaya😇: Joined
+26/04/23, 8:06 pm - Ram: Ok
+24/06/23, 10:02 am - Ram: Oracle CEO Akshaya ma'am
+24/06/23, 10:16 am - ✌️Trio Tech Akshaya😇: 🤣🤣🤣
+24/06/23, 1:10 pm - Ram: Mom is running the orphanage home only know
+24/06/23, 3:18 pm - ✌️Trio Tech Akshaya😇: Orphanage illa annatheee
+24/06/23, 3:18 pm - ✌️Trio Tech Akshaya😇: Old age home
+24/06/23, 3:18 pm - ✌️Trio Tech Akshaya😇: 🥺
+24/06/23, 3:18 pm - Ram: Oh okay sorry
+24/06/23, 3:18 pm - ✌️Trio Tech Akshaya😇: Anna sorry la vendam😓it’s okay no issues
+24/06/23, 3:18 pm - ✌️Trio Tech Akshaya😇: 9445294198
+24/06/23, 3:19 pm - ✌️Trio Tech Akshaya😇: This is my moms number please call her if any further doubt is there, I will clear the doubt what you have asked anna👍😊
+24/06/23, 3:20 pm - Ram: Okay sure thanks
+24/06/23, 3:20 pm - ✌️Trio Tech Akshaya😇: 👍anytime 😊
+24/06/23, 3:20 pm - ✌️Trio Tech Akshaya😇: Anna
+27/06/23, 5:44 pm - Ram: Akshaya did you checked with your husband on Orphanage bills submission for tax declaration
+27/06/23, 6:07 pm - ✌️Trio Tech Akshaya😇: Annaaaa sorryyy I will put conference call
+27/06/23, 6:08 pm - Ram: Ok
+28/06/23, 3:35 pm - Ram: When you putting conference call
+29/06/23, 6:28 am - ✌️Trio Tech Akshaya😇: Anna
+29/06/23, 6:29 am - ✌️Trio Tech Akshaya😇: So sorry anna rombaaa busyyy so will try to make it on Saturday anna so complete free la
+29/06/23, 6:29 am - ✌️Trio Tech Akshaya😇: 👍
+29/06/23, 7:06 am - Ram: Okay
+02/07/23, 11:58 am - ✌️Trio Tech Akshaya😇: Hi
+02/07/23, 11:58 am - ✌️Trio Tech Akshaya😇: Anna
+02/07/23, 12:00 pm - ✌️Trio Tech Akshaya😇: Call me once
+02/07/23, 12:00 pm - ✌️Trio Tech Akshaya😇: If you are free
+04/07/23, 9:52 am - ✌️Trio Tech Akshaya😇: Hi
+04/07/23, 9:52 am - ✌️Trio Tech Akshaya😇: Anna
+04/07/23, 9:52 am - ✌️Trio Tech Akshaya😇: Want to talk with you
+04/07/23, 9:52 am - ✌️Trio Tech Akshaya😇: 2 mins please?
+05/07/23, 9:46 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+07/07/23, 12:37 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+16/07/23, 11:31 am - Ram: Hi Akshaya
+16/07/23, 11:58 am - ✌️Trio Tech Akshaya😇: Hi anna
+16/07/23, 12:21 pm - Ram: Free ah
+16/07/23, 5:12 pm - ✌️Trio Tech Akshaya😇: Hi anna free
+16/07/23, 5:14 pm - Ram: Eff unaku theriyuma
+16/07/23, 5:14 pm - ✌️Trio Tech Akshaya😇: Yea anna extensible flex field
+16/07/23, 5:14 pm - ✌️Trio Tech Akshaya😇: I know anna
+16/07/23, 5:14 pm - Ram: Yes
+16/07/23, 5:15 pm - Ram: Adula I have doubts
+16/07/23, 5:15 pm - ✌️Trio Tech Akshaya😇: Sure sollunga anna
+16/07/23, 5:15 pm - Ram: Can we connect now
+16/07/23, 5:16 pm - ✌️Trio Tech Akshaya😇: No anna Monday can we connect tomorrow morning 9:30 am to 10 am
+16/07/23, 5:16 pm - Ram: Seri
+16/07/23, 5:16 pm - ✌️Trio Tech Akshaya😇: Actually maa Veeran cinema
+16/07/23, 5:16 pm - ✌️Trio Tech Akshaya😇: Book panirka
+16/07/23, 5:16 pm - Ram: Oh okay
+16/07/23, 5:16 pm - ✌️Trio Tech Akshaya😇: So going to theatre @6:30 pm
+16/07/23, 5:16 pm - Ram: Carry on
+16/07/23, 5:16 pm - ✌️Trio Tech Akshaya😇: Anna adanala dhan told you anna
+16/07/23, 5:17 pm - ✌️Trio Tech Akshaya😇: Otherwise am okay
+16/07/23, 5:17 pm - Ram: No problem
+16/07/23, 5:17 pm - ✌️Trio Tech Akshaya😇: Saturday and Sunday next week we can connect fully no issues
+16/07/23, 5:17 pm - ✌️Trio Tech Akshaya😇: 👍😊
+16/07/23, 5:17 pm - Ram: Ok
+16/07/23, 5:17 pm - ✌️Trio Tech Akshaya😇: Uh👍
+17/07/23, 8:10 am - Ram: Today 9.30 will connect?
+17/07/23, 9:51 am - Ram: 10.15 will connect?
+17/07/23, 2:06 pm - Ram: Joined
+17/07/23, 2:36 pm - ✌️Trio Tech Akshaya😇: Anna
+17/07/23, 2:36 pm - ✌️Trio Tech Akshaya😇: Joined
+18/07/23, 11:05 am - Ram: Akshaya
+18/07/23, 11:05 am - Ram: You there
+18/07/23, 12:30 pm - ✌️Trio Tech Akshaya😇: Yes anna
+18/07/23, 12:31 pm - Ram: Free ah irundina EFF discuss panalam
+18/07/23, 12:31 pm - ✌️Trio Tech Akshaya😇: In meeting anna
+18/07/23, 12:31 pm - Ram: Let me know once you are free
+18/07/23, 12:32 pm - ✌️Trio Tech Akshaya😇: Okay anna sure connect aalam
+18/07/23, 12:32 pm - Ram: Ok
+28/07/23, 9:25 am - Ram: Hi Akshaya
+28/07/23, 9:40 am - ✌️Trio Tech Akshaya😇: Hi anna
+28/07/23, 9:41 am - Ram: Romba busy ah
+28/07/23, 10:02 am - ✌️Trio Tech Akshaya😇: Hi anna
+28/07/23, 10:02 am - ✌️Trio Tech Akshaya😇: Aama
+28/07/23, 10:02 am - ✌️Trio Tech Akshaya😇: Konjam
+28/07/23, 10:02 am - ✌️Trio Tech Akshaya😇: Confusion la irruka
+28/07/23, 10:02 am - Ram: Y
+28/07/23, 10:03 am - Ram: Call me if you are free
+29/07/23, 11:16 am - Ram: Madam
+01/08/23, 5:11 pm - Ram: Hi Akshaya
+01/08/23, 6:52 pm - Ram: I need your help on how to do customisation on the roles
+03/08/23, 6:46 pm - ✌️Trio Tech Akshaya😇: Hi anna I know o my little on it
+03/08/23, 6:46 pm - ✌️Trio Tech Akshaya😇: Not much
+03/08/23, 6:46 pm - ✌️Trio Tech Akshaya😇: How was your demo?
+03/08/23, 7:44 pm - Ram: Went well
+25/08/23, 9:54 am - Ram: Hi Akshaya
+25/08/23, 1:47 pm - ✌️Trio Tech Akshaya😇: Hi anna
+25/08/23, 3:03 pm - Ram: Busy ah
+25/08/23, 4:19 pm - Ram: Joined
+25/08/23, 4:19 pm - ✌️Trio Tech Akshaya😇: Which link
+28/08/23, 10:59 am - Ram: All the best for your new assignment 💐💐💐
+28/08/23, 11:41 am - ✌️Trio Tech Akshaya😇: Annaaaaaa
+28/08/23, 11:41 am - ✌️Trio Tech Akshaya😇: Thankssss aaaa tonnnnn annathe😊😊😊🙏🙏💐💐💐
+28/08/23, 11:42 am - ✌️Trio Tech Akshaya😇: Come here I will refer you when can we sit for your resume?
+28/08/23, 1:09 pm - ✌️Trio Tech Akshaya😇: Hi anna
+28/08/23, 1:09 pm - ✌️Trio Tech Akshaya😇: ACSE la join panraya? We can form a team anna
+01/09/23, 6:17 pm - ✌️Trio Tech Akshaya😇: Anna
+01/09/23, 6:17 pm - ✌️Trio Tech Akshaya😇: Joined
+01/09/23, 6:17 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+01/09/23, 6:17 pm - ✌️Trio Tech Akshaya😇: Let me in
+01/09/23, 6:17 pm - Ram: Two mins
+01/09/23, 6:17 pm - ✌️Trio Tech Akshaya😇: Ok ok
+02/09/23, 8:10 am - Ram: https://youtu.be/ZyYr4bAOHLg?si=VW-OYjeHaz2vEocl
+02/09/23, 8:13 am - Ram: https://youtu.be/EF1r7Ep80dk?si=6MtGwl9_YaNZoXkV
+02/09/23, 5:03 pm - ✌️Trio Tech Akshaya😇: 👍🙌super anna
+02/09/23, 5:04 pm - Ram: <Media omitted>
+02/09/23, 5:05 pm - ✌️Trio Tech Akshaya😇: 😂😂
+02/09/23, 5:05 pm - ✌️Trio Tech Akshaya😇: Anna
+02/09/23, 5:05 pm - ✌️Trio Tech Akshaya😇: Tomorrow full vetti
+02/09/23, 5:05 pm - ✌️Trio Tech Akshaya😇: Simply want to be online
+02/09/23, 5:05 pm - ✌️Trio Tech Akshaya😇: 🤣
+02/09/23, 5:05 pm - Ram: Enjoy
+04/09/23, 12:39 pm - ✌️Trio Tech Akshaya😇: Hi
+04/09/23, 12:39 pm - ✌️Trio Tech Akshaya😇: Anna
+04/09/23, 12:39 pm - ✌️Trio Tech Akshaya😇: U there
+04/09/23, 12:39 pm - ✌️Trio Tech Akshaya😇: Doubt
+04/09/23, 12:40 pm - ✌️Trio Tech Akshaya😇: We cannot add iban number in personal payment method
+04/09/23, 12:40 pm - ✌️Trio Tech Akshaya😇: Please ask your colleagues y we cannot add
+04/09/23, 12:59 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+04/09/23, 12:59 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+04/09/23, 1:37 pm - Ram: Pic is not clear
+04/09/23, 2:14 pm - ✌️Trio Tech Akshaya😇: One min anna
+04/09/23, 2:16 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+04/09/23, 2:16 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+04/09/23, 2:16 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+04/09/23, 2:18 pm - Ram: 1St and 3rd pic or not clear
+04/09/23, 2:19 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+04/09/23, 2:19 pm - ✌️Trio Tech Akshaya😇: Anna okay va??
+04/09/23, 3:04 pm - Ram: Let me know what you need
+04/09/23, 3:04 pm - Ram: Tell me the question
+04/09/23, 3:05 pm - ✌️Trio Tech Akshaya😇: Why we can’t add iban to this employee
+04/09/23, 3:05 pm - ✌️Trio Tech Akshaya😇: This is my question anna
+04/09/23, 6:30 pm - Ram: He said role issues
+04/09/23, 6:30 pm - ✌️Trio Tech Akshaya😇: Okay what role anna
+04/09/23, 6:30 pm - ✌️Trio Tech Akshaya😇: To be added or given
+04/09/23, 8:16 pm - Ram: Akshaya share the resume which we edited on that day
+04/09/23, 8:16 pm - Ram: My resume
+04/09/23, 8:56 pm - ✌️Trio Tech Akshaya😇: Uh anna sure
+04/09/23, 9:01 pm - ✌️Trio Tech Akshaya😇: Anna
+04/09/23, 9:01 pm - ✌️Trio Tech Akshaya😇: Sent
+05/09/23, 5:32 am - Ram: Thanks
+05/09/23, 7:15 am - ✌️Trio Tech Akshaya😇: Y anna??
+05/09/23, 7:26 am - Ram: Puriyala
+05/09/23, 7:26 am - ✌️Trio Tech Akshaya😇: Resume edukku preparing again?
+05/09/23, 7:27 am - Ram: Ila ready ah vechikalam
+05/09/23, 7:27 am - Ram: Someone asks have to send know
+05/09/23, 7:28 am - ✌️Trio Tech Akshaya😇: Started searching uh?? Adu nambo complete eh panala anna
+05/09/23, 7:28 am - Ram: No searching and all
+05/09/23, 7:28 am - Ram: Just ready ah vechikalam
+05/09/23, 7:30 am - ✌️Trio Tech Akshaya😇: Okay but complete pananum anna so oru Darava check panunga 👍
+05/09/23, 7:30 am - Ram: Okay 👌
+08/09/23, 1:03 pm - ✌️Trio Tech Akshaya😇: https://erpwebtutor.com/absence-approvals-configuration-employee-manager-hr-self-services/
+08/09/23, 1:17 pm - ✌️Trio Tech Akshaya😇: Ram anna epadiythu othukavai please 😢😢
+08/09/23, 1:32 pm - Ram: Aspire Karthik Payroll.vcf (file attached)
+08/09/23, 1:32 pm - Ram: Call him
+08/09/23, 1:32 pm - Ram: I informed
+08/09/23, 1:32 pm - ✌️Trio Tech Akshaya😇: Super
+08/09/23, 1:32 pm - ✌️Trio Tech Akshaya😇: Okay I will call him now
+09/09/23, 11:47 am - Ram: https://youtu.be/n_H1LwaJ_VQ?si=WwM2dOlZe0leYikv
+09/09/23, 11:48 am - ✌️Trio Tech Akshaya😇: Enna anna??
+09/09/23, 11:49 am - Ram: Workflow and approval video
+09/09/23, 11:49 am - Ram: How to do
+09/09/23, 11:49 am - ✌️Trio Tech Akshaya😇: Uh Kumar sonane
+09/09/23, 11:49 am - ✌️Trio Tech Akshaya😇: Nambalukku
+09/09/23, 11:49 am - ✌️Trio Tech Akshaya😇: Rule configuration
+09/09/23, 11:49 am - Ram: Yes
+09/09/23, 11:49 am - ✌️Trio Tech Akshaya😇: Venum na
+09/09/23, 11:49 am - ✌️Trio Tech Akshaya😇: Adu na the
+09/09/23, 11:50 am - Ram: Yes paru
+09/09/23, 11:50 am - ✌️Trio Tech Akshaya😇: Uh sari anna I will hear it 👍
+09/09/23, 11:50 am - Ram: Ok
+09/09/23, 12:05 pm - Ram: https://youtu.be/IRtFnDav8Vg?si=cBEvTLPiZPrjHu3Y
+09/09/23, 12:05 pm - Ram: https://youtu.be/4IuZzdkiMN8?si=O0k3k_n-xU_8Qx-7
+11/09/23, 10:24 am - ✌️Trio Tech Akshaya😇: Anna
+11/09/23, 10:25 am - ✌️Trio Tech Akshaya😇: Thanks will watch today
+11/09/23, 10:25 am - ✌️Trio Tech Akshaya😇: 👍
+11/09/23, 10:38 am - Ram: Ok
+11/09/23, 10:39 am - ✌️Trio Tech Akshaya😇: What doing a
+11/09/23, 10:39 am - ✌️Trio Tech Akshaya😇: Anna
+11/09/23, 10:43 am - Ram: Work dhan
+11/09/23, 10:43 am - Ram: How is your work going on
+18/09/23, 10:32 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+18/09/23, 11:14 am - Ram: Happy Pillaiyar Chathurthi 🙏🙏🙏
+18/09/23, 11:47 am - ✌️Trio Tech Akshaya😇: Happy pillayar Chathurthi anna
+18/09/23, 11:48 am - ✌️Trio Tech Akshaya😇: 😊😊
+06/10/23, 12:45 pm - Ram: How good you are on DFF, EFF and Key FF?
+06/10/23, 12:45 pm - ✌️Trio Tech Akshaya😇: Some what anna y??
+06/10/23, 12:46 pm - Ram: Keten enaku soli thara dhan
+06/10/23, 12:46 pm - ✌️Trio Tech Akshaya😇: Okay what ever I know I will tell you anna
+06/10/23, 12:46 pm - Ram: Okay when we can connect
+06/10/23, 12:46 pm - ✌️Trio Tech Akshaya😇: Tomorrow?
+06/10/23, 12:47 pm - Ram: Ok
+06/10/23, 12:47 pm - ✌️Trio Tech Akshaya😇: Okay va ??
+06/10/23, 12:47 pm - Ram: Fine
+09/10/23, 11:29 am - ✌️Trio Tech Akshaya😇: Hi anna
+09/10/23, 11:29 am - ✌️Trio Tech Akshaya😇: Sorry could t connect
+09/10/23, 11:29 am - ✌️Trio Tech Akshaya😇: Thappa eduthukada
+09/10/23, 11:29 am - ✌️Trio Tech Akshaya😇: Please!
+09/10/23, 11:30 am - Ram: Okay no problem
+09/10/23, 11:30 am - ✌️Trio Tech Akshaya😇: Busy uh?
+09/10/23, 11:30 am - ✌️Trio Tech Akshaya😇: Anna
+09/10/23, 11:30 am - Ram: Ila
+09/10/23, 11:30 am - ✌️Trio Tech Akshaya😇: Okay call? 2 mins?
+13/10/23, 5:29 pm - ✌️Trio Tech Akshaya😇: Pro pic lam ore kalakala irruku before marriage dana??
+13/10/23, 5:29 pm - ✌️Trio Tech Akshaya😇: 😅😅
+13/10/23, 5:29 pm - Ram: Adinga six months back
+13/10/23, 5:29 pm - ✌️Trio Tech Akshaya😇: Poi poi 😅
+13/10/23, 5:30 pm - Ram: Nejama
+13/10/23, 5:30 pm - ✌️Trio Tech Akshaya😇: Sema enga eduthathu??
+13/10/23, 5:30 pm - ✌️Trio Tech Akshaya😇: 👍
+13/10/23, 5:30 pm - Ram: Wife veetala
+13/10/23, 5:30 pm - ✌️Trio Tech Akshaya😇: Paruppaaa
+13/10/23, 5:30 pm - ✌️Trio Tech Akshaya😇: Superrr
+13/10/23, 5:30 pm - Ram: 🙏
+13/10/23, 5:31 pm - ✌️Trio Tech Akshaya😇: Annaaaathee
+13/10/23, 5:31 pm - ✌️Trio Tech Akshaya😇: Neenga Sona madiri
+13/10/23, 5:31 pm - ✌️Trio Tech Akshaya😇: Bgv cleared inga thanks for your words
+13/10/23, 5:31 pm - ✌️Trio Tech Akshaya😇: 🙏🙏
+13/10/23, 5:32 pm - Ram: Thanks oda lam mudikadha ah, Amazon sale live la dhan pogudhu send me 🎁 and send
+13/10/23, 5:32 pm - ✌️Trio Tech Akshaya😇: Hahaha sweet dappa Sona madriri 👍
+13/10/23, 5:32 pm - ✌️Trio Tech Akshaya😇: 😅
+13/10/23, 5:32 pm - ✌️Trio Tech Akshaya😇: Okay😂??
+13/10/23, 5:33 pm - Ram: Sweet dappa va, I need some electronics etc
+13/10/23, 6:18 pm - ✌️Trio Tech Akshaya😇: 😂😂😂I will send you the link anna
+13/10/23, 7:05 pm - Ram: Hmm
+21/10/23, 11:46 am - ✌️Trio Tech Akshaya😇: Happy birthday hero💐💐🎂🎂
+21/10/23, 12:33 pm - Ram: 🙏🙏🙏
+28/10/23, 9:39 am - Ram: Hi Akshaya
+28/10/23, 12:06 pm - ✌️Trio Tech Akshaya😇: Hi anna so sorry nethikki romba tired 🥱 uh irrunduthu so mudila nalaiku madyanam okarlama inaiku enakku clinic la treatment irruku anna😢
+28/10/23, 12:07 pm - Ram: Okay fine what abt tmrw morning 12pm
+28/10/23, 12:08 pm - ✌️Trio Tech Akshaya😇: Okay nalaiku seekram velaya mudichurrra👍
+28/10/23, 12:08 pm - Ram: Okay
+29/10/23, 3:42 pm - ✌️Trio Tech Akshaya😇: Hi anna
+29/10/23, 3:42 pm - ✌️Trio Tech Akshaya😇: Can we connect
+29/10/23, 3:42 pm - ✌️Trio Tech Akshaya😇: ??
+29/10/23, 3:43 pm - ✌️Trio Tech Akshaya😇: 6:30 we can do connect and complete the works!
+29/10/23, 3:44 pm - Ram: You mean by 6.30?
+29/10/23, 3:44 pm - ✌️Trio Tech Akshaya😇: No anna
+29/10/23, 3:44 pm - ✌️Trio Tech Akshaya😇: Till
+29/10/23, 3:44 pm - ✌️Trio Tech Akshaya😇: 6;30 we can connect
+29/10/23, 3:44 pm - ✌️Trio Tech Akshaya😇: From now on
+29/10/23, 3:45 pm - ✌️Trio Tech Akshaya😇: Okay va connect aatuma?
+29/10/23, 3:45 pm - ✌️Trio Tech Akshaya😇: Same link dana?
+29/10/23, 3:45 pm - Ram: Ama
+29/10/23, 3:45 pm - ✌️Trio Tech Akshaya😇: Okay anna coming in two mins
+29/10/23, 3:45 pm - ✌️Trio Tech Akshaya😇: 👍
+29/10/23, 3:47 pm - Ram: Ok
+29/10/23, 3:52 pm - Ram: I joined
+29/10/23, 3:58 pm - ✌️Trio Tech Akshaya😇: Anna
+29/10/23, 3:58 pm - ✌️Trio Tech Akshaya😇: I joined
+29/10/23, 3:58 pm - ✌️Trio Tech Akshaya😇: Too
+29/10/23, 3:58 pm - ✌️Trio Tech Akshaya😇: Please
+29/10/23, 3:58 pm - ✌️Trio Tech Akshaya😇: Accept my invitation
+03/11/23, 4:00 pm - ✌️Trio Tech Akshaya😇: Hello annaaa sorry for delayed wishes but 
+Many many more happy returns annaaa💐💐💐😊🎂🎂🎂
+03/11/23, 4:11 pm - Ram: Thank you
+03/11/23, 4:12 pm - ✌️Trio Tech Akshaya😇: 👍
+03/11/23, 8:18 pm - Ram: Tmrw we will connect and complete the Role creations
+03/11/23, 9:24 pm - ✌️Trio Tech Akshaya😇: Okay anna
+04/11/23, 2:55 pm - ✌️Trio Tech Akshaya😇: Hi anna I will connect at 4:30 pm anna today went to PTM
+04/11/23, 3:12 pm - Ram: Okay sure
+04/11/23, 4:31 pm - Ram: Can we connect
+04/11/23, 5:00 pm - ✌️Trio Tech Akshaya😇: Hi anna so sorry can we connect tomorrow am bit packed anna want to go to temple and to tuition as well…
+04/11/23, 5:01 pm - ✌️Trio Tech Akshaya😇: I will connect tomorrow 👍 for sure
+04/11/23, 5:01 pm - Ram: What time tmrw at 11am?
+04/11/23, 5:03 pm - ✌️Trio Tech Akshaya😇: 11am work is there anna bathroom cleaning, tomorrow evening same time from 4:30-6:30
+04/11/23, 5:03 pm - ✌️Trio Tech Akshaya😇: Is it okay?
+04/11/23, 5:03 pm - Ram: Okay
+04/11/23, 5:03 pm - ✌️Trio Tech Akshaya😇: Thanks anna 👍
+05/11/23, 4:48 pm - ✌️Trio Tech Akshaya😇: Hello anna
+05/11/23, 4:49 pm - ✌️Trio Tech Akshaya😇: Can we connect?
+05/11/23, 4:51 pm - ✌️Trio Tech Akshaya😇: Hi anna
+05/11/23, 4:51 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+05/11/23, 4:52 pm - ✌️Trio Tech Akshaya😇: Irrukugingala
+05/11/23, 4:52 pm - Ram: 5.10 we will connect
+05/11/23, 5:04 pm - Ram: Join now
+05/11/23, 5:19 pm - ✌️Trio Tech Akshaya😇: Anna connect waiting in lobby!
+05/11/23, 5:19 pm - ✌️Trio Tech Akshaya😇: Accept please
+08/11/23, 4:51 pm - ✌️Trio Tech Akshaya😇: Anna
+08/11/23, 4:51 pm - ✌️Trio Tech Akshaya😇: Joined
+08/11/23, 4:51 pm - ✌️Trio Tech Akshaya😇: Accept the request
+08/11/23, 4:52 pm - ✌️Trio Tech Akshaya😇: Annnnaaaaaaa
+08/11/23, 4:52 pm - ✌️Trio Tech Akshaya😇: Irruukkiiiyyyaaaa
+12/11/23, 8:12 pm - ✌️Trio Tech Akshaya😇: Happy Deepavali anna🪔💥💥
+12/11/23, 9:03 pm - Ram: <Media omitted>
+17/11/23, 11:30 am - Ram: Hi Akshaya
+17/11/23, 11:33 am - ✌️Trio Tech Akshaya😇: Hi anna
+17/11/23, 11:34 am - Ram: Busy ah
+17/11/23, 12:25 pm - Ram: null
+17/11/23, 12:30 pm - ✌️Trio Tech Akshaya😇: Anna joined
+17/11/23, 12:36 pm - Ram: Join pannu
+17/11/23, 12:36 pm - ✌️Trio Tech Akshaya😇: Okay anna
+17/11/23, 2:47 pm - Ram: Have you uploaded the work details in LinkedIn?
+17/11/23, 3:43 pm - ✌️Trio Tech Akshaya😇: Hi anna no
+17/11/23, 3:43 pm - ✌️Trio Tech Akshaya😇: Y is it showing?
+17/11/23, 3:51 pm - Ram: Ila keten
+17/11/23, 3:51 pm - Ram: Pannirukiya nu
+17/11/23, 3:51 pm - ✌️Trio Tech Akshaya😇: Illa anna
+17/11/23, 3:51 pm - ✌️Trio Tech Akshaya😇: Deleted everything
+17/11/23, 3:51 pm - Ram: Ok
+17/11/23, 3:51 pm - ✌️Trio Tech Akshaya😇: Only my name it would be there
+17/11/23, 3:51 pm - Ram: Ok
+17/11/23, 3:51 pm - ✌️Trio Tech Akshaya😇: I guess long time I didn’t check the page
+17/11/23, 3:52 pm - Ram: Ok
+17/11/23, 4:32 pm - Ram: Send me the requirements gathering details and the list know
+17/11/23, 4:32 pm - Ram: Kumar shared know that one
+17/11/23, 4:32 pm - ✌️Trio Tech Akshaya😇: When anna requirement gathering? Which doc?
+17/11/23, 4:33 pm - Ram: null
+17/11/23, 4:34 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+17/11/23, 4:44 pm - Ram: <Media omitted>
+17/11/23, 4:44 pm - Ram: Is it fine
+17/11/23, 4:45 pm - ✌️Trio Tech Akshaya😇: Super anna👍
+17/11/23, 4:46 pm - Ram: Correct ah
+17/11/23, 4:46 pm - ✌️Trio Tech Akshaya😇: Yes anna all the stages are covered 👍
+17/11/23, 4:47 pm - Ram: Okay
+18/11/23, 1:18 pm - ✌️Trio Tech Akshaya😇: Hi anna
+18/11/23, 1:18 pm - ✌️Trio Tech Akshaya😇: There??
+18/11/23, 3:55 pm - Ram: Hi Akshaya
+18/11/23, 4:27 pm - ✌️Trio Tech Akshaya😇: Hi anna
+18/11/23, 4:27 pm - ✌️Trio Tech Akshaya😇: Is there anything you wanted to say you called me
+18/11/23, 5:17 pm - Ram: Will call you later
+20/11/23, 10:48 am - Ram: Hi Akshaya
+20/11/23, 10:49 am - ✌️Trio Tech Akshaya😇: Hi anna
+20/11/23, 10:49 am - Ram: Can we connect
+20/11/23, 10:50 am - ✌️Trio Tech Akshaya😇: Yes anna we can
+20/11/23, 10:50 am - Ram: Ok come
+20/11/23, 10:55 am - ✌️Trio Tech Akshaya😇: Okay anna
+20/11/23, 10:56 am - ✌️Trio Tech Akshaya😇: Anna
+20/11/23, 12:36 pm - Ram: null
+20/11/23, 12:57 pm - ✌️Trio Tech Akshaya😇: null
+20/11/23, 12:57 pm - ✌️Trio Tech Akshaya😇: Hi anna
+01/12/23, 1:48 pm - Ram: Connect agalama
+02/12/23, 9:14 am - Ram: What time we will connect
+02/12/23, 2:27 pm - ✌️Trio Tech Akshaya😇: Anna
+02/12/23, 2:27 pm - ✌️Trio Tech Akshaya😇: By 4:30
+02/12/23, 2:27 pm - ✌️Trio Tech Akshaya😇: Sharp anna
+02/12/23, 2:34 pm - Ram: Hmm k
+02/12/23, 4:50 pm - ✌️Trio Tech Akshaya😇: Hi
+02/12/23, 4:50 pm - ✌️Trio Tech Akshaya😇: Anna
+02/12/23, 4:50 pm - ✌️Trio Tech Akshaya😇: Sorry
+02/12/23, 4:50 pm - ✌️Trio Tech Akshaya😇: Late I was I will connect in 10 mins
+02/12/23, 4:53 pm - Ram: Ok
+02/12/23, 5:20 pm - ✌️Trio Tech Akshaya😇: Anna
+02/12/23, 5:21 pm - ✌️Trio Tech Akshaya😇: null
+05/12/23, 6:28 pm - Ram: Hi Akshaya
+05/12/23, 6:28 pm - Ram: Will connect from tmrw
+05/12/23, 6:29 pm - Ram: Broadband resumed just now
+05/12/23, 6:29 pm - ✌️Trio Tech Akshaya😇: Sure Anna 👍hearing classes as of now.. no instances🤦‍♀️
+05/12/23, 6:33 pm - Ram: Okay
+06/12/23, 10:07 am - Ram: Hi Akshaya
+06/12/23, 10:07 am - ✌️Trio Tech Akshaya😇: Hi Anna
+06/12/23, 10:07 am - Ram: What time will connect
+06/12/23, 10:08 am - ✌️Trio Tech Akshaya😇: 11:30 okay anna?
+06/12/23, 10:08 am - Ram: Ok
+06/12/23, 10:09 am - ✌️Trio Tech Akshaya😇: Done Anna👍
+06/12/23, 11:28 am - ✌️Trio Tech Akshaya😇: Hi Anna I will give lunch box to kids and connect with you..
+06/12/23, 11:29 am - Ram: Ok MSG me once back
+06/12/23, 12:25 pm - ✌️Trio Tech Akshaya😇: Hi Ana
+06/12/23, 12:25 pm - ✌️Trio Tech Akshaya😇: Can we connect ?
+06/12/23, 12:40 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+06/12/23, 12:40 pm - Ram: Wait will connect by 1pm, going to eat
+06/12/23, 12:40 pm - ✌️Trio Tech Akshaya😇: Okay.. I will also eat
+06/12/23, 12:40 pm - ✌️Trio Tech Akshaya😇: Then…
+06/12/23, 12:41 pm - ✌️Trio Tech Akshaya😇: And connect @ 2 pm
+06/12/23, 12:41 pm - ✌️Trio Tech Akshaya😇: Okay?
+06/12/23, 12:41 pm - Ram: 2pm ka?
+06/12/23, 12:42 pm - ✌️Trio Tech Akshaya😇: Uh? Ippo saptu kitchen cleaning
+06/12/23, 12:42 pm - ✌️Trio Tech Akshaya😇: Then coming back
+06/12/23, 12:42 pm - Ram: Okay sikiram pannitu solu
+06/12/23, 12:42 pm - ✌️Trio Tech Akshaya😇: Sureee
+06/12/23, 1:11 pm - ✌️Trio Tech Akshaya😇: Ready to connect
+06/12/23, 1:12 pm - ✌️Trio Tech Akshaya😇: Anna joined please accept
+06/12/23, 1:13 pm - Ram: Wait eating
+06/12/23, 1:14 pm - ✌️Trio Tech Akshaya😇: Okay Ana
+06/12/23, 1:52 pm - Ram: Shall we connect
+06/12/23, 2:32 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+06/12/23, 2:32 pm - ✌️Trio Tech Akshaya😇: Yea sorry
+06/12/23, 2:32 pm - ✌️Trio Tech Akshaya😇: Totally
+06/12/23, 2:32 pm - ✌️Trio Tech Akshaya😇: Slept
+06/12/23, 2:35 pm - Ram: Join now
+08/12/23, 9:57 pm - Ram: Did you ask your husband what time he is available tmrw
+08/12/23, 9:58 pm - ✌️Trio Tech Akshaya😇: He is still in meeting 😒
+08/12/23, 10:20 pm - Ram: Okay check with him and let me know after completed
+08/12/23, 10:21 pm - ✌️Trio Tech Akshaya😇: Sure Anna👍
+09/12/23, 12:41 pm - Ram: Hello
+09/12/23, 1:21 pm - ✌️Trio Tech Akshaya😇: Hi Anna sorry
+09/12/23, 1:21 pm - ✌️Trio Tech Akshaya😇: To inform late
+09/12/23, 1:22 pm - ✌️Trio Tech Akshaya😇: Tomorrow schedule panikalam between 5pm -6 pm okay va he has some office work today pending so he will complete that today anna.
+09/12/23, 1:23 pm - Ram: Tmrw 3 to 4?
+09/12/23, 1:23 pm - ✌️Trio Tech Akshaya😇: Y??
+09/12/23, 1:24 pm - ✌️Trio Tech Akshaya😇: Vella poraya??
+09/12/23, 1:24 pm - Ram: I have to return back from mother-in-law home to my home by 4.30 pm
+09/12/23, 1:24 pm - Ram: So only said 3 to 4
+09/12/23, 1:24 pm - ✌️Trio Tech Akshaya😇: 4:30 ki apram connect Aalam okay dhana?
+09/12/23, 1:25 pm - ✌️Trio Tech Akshaya😇: 5:30 -6:30
+09/12/23, 1:25 pm - ✌️Trio Tech Akshaya😇: Okay va?
+09/12/23, 1:26 pm - Ram: 6.30 to 7.30 fine ah, yen na nan 4 ku start pannuven 2 hrs agum
+09/12/23, 1:26 pm - ✌️Trio Tech Akshaya😇: Okay no issues but koncham munnadi kelamba mudiyatha?
+09/12/23, 1:27 pm - ✌️Trio Tech Akshaya😇: Oru half an hour?
+09/12/23, 1:28 pm - ✌️Trio Tech Akshaya😇: 5:30 - 6:30 perfect timing adukku etha madiri plan panikko
+09/12/23, 1:29 pm - Ram: Seri
+09/12/23, 1:29 pm - ✌️Trio Tech Akshaya😇: Okay Munna pinna okay
+09/12/23, 1:29 pm - Ram: Ok
+11/12/23, 4:37 pm - Ram: 5.30 today okay la?
+13/12/23, 4:46 pm - ✌️Trio Tech Akshaya😇: Hi
+13/12/23, 4:46 pm - ✌️Trio Tech Akshaya😇: Ana
+13/12/23, 4:46 pm - ✌️Trio Tech Akshaya😇: Anna can we connect
+13/12/23, 5:09 pm - Ram: Will connect tmrw
+13/12/23, 5:09 pm - ✌️Trio Tech Akshaya😇: Okay
+16/12/23, 11:00 am - Ram: Busy ah
+16/12/23, 2:53 pm - ✌️Trio Tech Akshaya😇: Hi Anna yes
+16/12/23, 2:53 pm - ✌️Trio Tech Akshaya😇: Came to mil home to see her
+16/12/23, 3:30 pm - Ram: Oh okay
+16/12/23, 3:30 pm - Ram: Tmrw can we connect?
+16/12/23, 6:22 pm - ✌️Trio Tech Akshaya😇: Will tell Anna she is not healthy
+16/12/23, 6:22 pm - Ram: Oh apadiya take care
+16/12/23, 6:22 pm - ✌️Trio Tech Akshaya😇: Yeah😰😰
+16/12/23, 6:23 pm - Ram: Don't worry she will be alright
+16/12/23, 6:23 pm - ✌️Trio Tech Akshaya😇: Yes Anna..
+16/12/23, 6:23 pm - ✌️Trio Tech Akshaya😇: 😢😢
+16/12/23, 6:23 pm - ✌️Trio Tech Akshaya😇: Hoping so
+17/12/23, 8:37 am - Ram: How is your mother in law
+17/12/23, 11:39 am - ✌️Trio Tech Akshaya😇: Some what okay anna
+17/12/23, 11:39 am - ✌️Trio Tech Akshaya😇: But any way I have to go today to my home…
+17/12/23, 11:39 am - ✌️Trio Tech Akshaya😇: 🙄
+17/12/23, 11:42 am - Ram: Oh okay
+17/12/23, 1:59 pm - Ram: If you have your resume in mobile share me in WhatsApp
+17/12/23, 1:59 pm - Ram: I have to update my resume
+17/12/23, 2:37 pm - ✌️Trio Tech Akshaya😇: Sure Anna
+17/12/23, 5:45 pm - ✌️Trio Tech Akshaya😇: Anna mail ku anupuren
+17/12/23, 5:47 pm - ✌️Trio Tech Akshaya😇: Amma
+17/12/23, 5:47 pm - ✌️Trio Tech Akshaya😇: And
+17/12/23, 5:47 pm - ✌️Trio Tech Akshaya😇: Anna sent
+17/12/23, 5:47 pm - ✌️Trio Tech Akshaya😇: Please check your gmail
+17/12/23, 5:51 pm - ✌️Trio Tech Akshaya😇: Got uh Anna?
+17/12/23, 5:51 pm - Ram: Okay
+17/12/23, 5:51 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+17/12/23, 5:51 pm - Ram: Got it
+17/12/23, 5:52 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+17/12/23, 5:52 pm - ✌️Trio Tech Akshaya😇: This is madhus resume
+17/12/23, 6:39 pm - Ram: Okay👍
+18/12/23, 12:30 pm - ✌️Trio Tech Akshaya😇: Anna
+18/12/23, 12:30 pm - ✌️Trio Tech Akshaya😇: Joined
+18/12/23, 12:47 pm - Ram: Wait eating
+18/12/23, 12:48 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+18/12/23, 1:37 pm - Ram: Can we join now
+18/12/23, 4:03 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+18/12/23, 4:03 pm - ✌️Trio Tech Akshaya😇: Can we connect now ?
+18/12/23, 4:03 pm - ✌️Trio Tech Akshaya😇: I will join in 2 mins
+18/12/23, 4:03 pm - Ram: Ok
+18/12/23, 4:03 pm - ✌️Trio Tech Akshaya😇: Joined
+18/12/23, 4:03 pm - ✌️Trio Tech Akshaya😇: Anna
+19/12/23, 11:28 am - ✌️Trio Tech Akshaya😇: Hi Anna
+19/12/23, 11:28 am - ✌️Trio Tech Akshaya😇: Am in time management session today
+19/12/23, 11:28 am - ✌️Trio Tech Akshaya😇: 12:30 pm it gets over by
+19/12/23, 11:29 am - Ram: Okay
+19/12/23, 2:01 pm - ✌️Trio Tech Akshaya😇: Ann
+19/12/23, 2:01 pm - ✌️Trio Tech Akshaya😇: Anna
+19/12/23, 2:01 pm - ✌️Trio Tech Akshaya😇: Joined please accept
+19/12/23, 2:03 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+19/12/23, 6:06 pm - ✌️Trio Tech Akshaya😇: Anna joined
+21/12/23, 12:05 pm - Ram: Busy
+21/12/23, 12:13 pm - ✌️Trio Tech Akshaya😇: Anna
+21/12/23, 12:13 pm - ✌️Trio Tech Akshaya😇: In office
+21/12/23, 12:13 pm - ✌️Trio Tech Akshaya😇: What you doing?
+21/12/23, 3:01 pm - Ram: Saturday ask your husband to teach SQL
+21/12/23, 3:02 pm - Ram: This week he will be free right
+21/12/23, 6:53 pm - ✌️Trio Tech Akshaya😇: Anna am asking and will book slot
+21/12/23, 6:53 pm - ✌️Trio Tech Akshaya😇: 🤣
+21/12/23, 6:55 pm - Ram: Pls block his slot
+21/12/23, 6:56 pm - ✌️Trio Tech Akshaya😇: Yes Anna this time I will ask 😡for sure😢
+21/12/23, 6:56 pm - Ram: Ok sure
+22/12/23, 9:32 am - ✌️Trio Tech Akshaya😇: Anna we will connect @10:30 am
+22/12/23, 9:38 am - Ram: Okay sure
+22/12/23, 10:01 am - ✌️Trio Tech Akshaya😇: Anna I will connect myself plus or minus 10 mins from 10:30
+22/12/23, 10:01 am - ✌️Trio Tech Akshaya😇: Okay?
+22/12/23, 10:09 am - Ram: Okay
+22/12/23, 11:03 am - ✌️Trio Tech Akshaya😇: Anna
+22/12/23, 11:03 am - ✌️Trio Tech Akshaya😇: Joined
+22/12/23, 11:19 am - Ram: You not there
+22/12/23, 11:20 am - ✌️Trio Tech Akshaya😇: As you are not there the link got expired
+22/12/23, 11:20 am - ✌️Trio Tech Akshaya😇: I will rejoin anna
+22/12/23, 11:20 am - Ram: Ok
+22/12/23, 11:38 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+22/12/23, 11:38 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+22/12/23, 11:38 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+22/12/23, 11:38 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+01/01/24, 10:41 am - Ram: <Media omitted>
+01/01/24, 12:04 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+02/01/24, 2:18 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+02/01/24, 2:18 pm - ✌️Trio Tech Akshaya😇: Irrukiya??
+02/01/24, 2:18 pm - ✌️Trio Tech Akshaya😇: Link join?
+05/01/24, 11:31 am - ✌️Trio Tech Akshaya😇: Hi Anna what doing ?
+05/01/24, 1:09 pm - Ram: Hi Akshaya
+05/01/24, 1:30 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+05/01/24, 1:39 pm - Ram: Office ah
+11/01/24, 7:54 pm - Ram: <Media omitted>
+12/01/24, 12:06 pm - ✌️Trio Tech Akshaya😇: Anna
+12/01/24, 12:06 pm - ✌️Trio Tech Akshaya😇: Naukri la
+12/01/24, 12:06 pm - ✌️Trio Tech Akshaya😇: When you are applying job is it in question format?
+12/01/24, 12:12 pm - Ram: In meeting
+12/01/24, 12:36 pm - ✌️Trio Tech Akshaya😇: Okay
+12/01/24, 12:37 pm - ✌️Trio Tech Akshaya😇: Enna meeting ??
+12/01/24, 1:32 pm - ✌️Trio Tech Akshaya😇: Anna over uh pannada enaku sollen
+12/01/24, 1:32 pm - ✌️Trio Tech Akshaya😇: Please?
+12/01/24, 1:44 pm - Ram: AMS weekly meeting
+12/01/24, 1:44 pm - ✌️Trio Tech Akshaya😇: 🙄🤦‍♀️
+12/01/24, 3:40 pm - Ram: Hi Akshaya
+12/01/24, 3:48 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+12/01/24, 3:58 pm - Ram: IPO solu
+12/01/24, 4:24 pm - ✌️Trio Tech Akshaya😇: Naukri la doubt so trying to reach you everything is in question format
+12/01/24, 4:25 pm - Ram: Okay call now
+12/01/24, 4:24 pm - ✌️Trio Tech Akshaya😇: So have done that every time when you are applying?
+12/01/24, 4:25 pm - Ram: Yes
+12/01/24, 4:26 pm - ✌️Trio Tech Akshaya😇: Okay Anna I wil
+12/01/24, 5:07 pm - Ram: Pannavae ila
+12/01/24, 5:15 pm - ✌️Trio Tech Akshaya😇: Anna panra
+12/01/24, 5:15 pm - ✌️Trio Tech Akshaya😇: In another call give me 5 mins
+15/01/24, 2:26 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+15/01/24, 2:27 pm - Ram: Happy Pongal😊😊😊
+15/01/24, 2:27 pm - ✌️Trio Tech Akshaya😇: Thank Anna 😇
+19/01/24, 11:37 am - Ram: Did you get any update on the interview
+19/01/24, 11:37 am - ✌️Trio Tech Akshaya😇: No till now no means there am not selected..
+19/01/24, 11:37 am - ✌️Trio Tech Akshaya😇: 😅😅
+19/01/24, 11:38 am - ✌️Trio Tech Akshaya😇: Next we can try anna
+19/01/24, 11:38 am - Ram: Oh okay 🤣
+19/01/24, 11:38 am - ✌️Trio Tech Akshaya😇: Keep on trying
+19/01/24, 11:38 am - ✌️Trio Tech Akshaya😇: 😅😅
+19/01/24, 11:38 am - ✌️Trio Tech Akshaya😇: Embutu oru aanadam
+19/01/24, 11:47 am - Ram: 🤣
+19/01/24, 5:42 pm - ✌️Trio Tech Akshaya😇: Anna phone edi
+19/01/24, 5:42 pm - ✌️Trio Tech Akshaya😇: Edu
+19/01/24, 6:58 pm - Ram: What happened on the interview
+19/01/24, 7:00 pm - ✌️Trio Tech Akshaya😇: It was only 10 mins.. they are okay I guess anna
+19/01/24, 7:00 pm - ✌️Trio Tech Akshaya😇: I dunno really she isn’t picking up the call..
+19/01/24, 7:01 pm - Ram: What they asked
+19/01/24, 7:02 pm - ✌️Trio Tech Akshaya😇: Chumma kaetanga what is your role in project what are the modules you have Handled so far… only core hr and absence only or some other modules as well uh nu
+19/01/24, 7:02 pm - ✌️Trio Tech Akshaya😇: So I told yes for everything 😅😂
+19/01/24, 7:03 pm - ✌️Trio Tech Akshaya😇: But namakudan onnum theriyathe
+19/01/24, 7:03 pm - ✌️Trio Tech Akshaya😇: 😂
+19/01/24, 7:03 pm - Ram: Hmmmmmm
+19/01/24, 7:19 pm - ✌️Trio Tech Akshaya😇: 😂😂
+20/01/24, 1:17 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+21/01/24, 12:59 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+21/01/24, 12:59 pm - ✌️Trio Tech Akshaya😇: Was totally busy from morning anna Sunday ryt
+21/01/24, 12:59 pm - ✌️Trio Tech Akshaya😇: So enna pandra?
+21/01/24, 4:11 pm - ✌️Trio Tech Akshaya😇: Anna coming wait giving coffee
+21/01/24, 4:11 pm - ✌️Trio Tech Akshaya😇: Jus give me another few mins
+21/01/24, 4:21 pm - Ram: Okay
+21/01/24, 4:22 pm - Ram: MSG me once you are back
+21/01/24, 4:46 pm - ✌️Trio Tech Akshaya😇: Anna
+21/01/24, 4:46 pm - ✌️Trio Tech Akshaya😇: Joined
+21/01/24, 4:46 pm - ✌️Trio Tech Akshaya😇: Anaaaaaa naaaa vanthuttaaeennnnn😅
+21/01/24, 4:46 pm - ✌️Trio Tech Akshaya😇: Obama oru news solanum
+22/01/24, 2:29 pm - ✌️Trio Tech Akshaya😇: Anna
+22/01/24, 2:29 pm - ✌️Trio Tech Akshaya😇: Deloitte
+22/01/24, 2:29 pm - ✌️Trio Tech Akshaya😇: Puttukuchu
+22/01/24, 2:29 pm - ✌️Trio Tech Akshaya😇: 😅🤦‍♀️
+22/01/24, 3:58 pm - Ram: Why ena aachu
+22/01/24, 3:58 pm - Ram: CTS enaku putukuchu
+22/01/24, 4:19 pm - ✌️Trio Tech Akshaya😇: Anna cts no feedback yet
+22/01/24, 4:19 pm - ✌️Trio Tech Akshaya😇: 😅
+26/01/24, 2:26 am - Ram: <Media omitted>
+26/01/24, 2:26 am - Ram: In narendra login
+26/01/24, 7:56 am - ✌️Trio Tech Akshaya😇: Okayyy
+26/01/24, 5:14 pm - Ram: Have you created?
+26/01/24, 10:46 pm - ✌️Trio Tech Akshaya😇: No Anna cool enjoy Monday we will
+29/01/24, 3:28 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+29/01/24, 3:28 pm - ✌️Trio Tech Akshaya😇: Joining?
+29/01/24, 3:28 pm - ✌️Trio Tech Akshaya😇: I have joined the link
+29/01/24, 3:30 pm - Ram: Okay 2 mins
+29/01/24, 3:30 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+29/01/24, 3:35 pm - Ram: Joined
+29/01/24, 3:35 pm - ✌️Trio Tech Akshaya😇: Anna wait for 5 mins
+29/01/24, 3:35 pm - Ram: Okay
+29/01/24, 3:35 pm - ✌️Trio Tech Akshaya😇: Negotiation call in cts
+29/01/24, 3:35 pm - ✌️Trio Tech Akshaya😇: So
+29/01/24, 3:36 pm - ✌️Trio Tech Akshaya😇: Joining you at 4 pm
+29/01/24, 3:36 pm - Ram: Nee kalaku
+29/01/24, 3:36 pm - ✌️Trio Tech Akshaya😇: 😅
+29/01/24, 4:09 pm - ✌️Trio Tech Akshaya😇: Anna
+29/01/24, 4:09 pm - ✌️Trio Tech Akshaya😇: Joining
+29/01/24, 4:12 pm - ✌️Trio Tech Akshaya😇: Anna
+29/01/24, 4:12 pm - ✌️Trio Tech Akshaya😇: Joineddd
+29/01/24, 4:12 pm - ✌️Trio Tech Akshaya😇: Annatheeee
+29/01/24, 4:39 pm - Ram: Join
+29/01/24, 4:40 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+30/01/24, 3:50 pm - ✌️Trio Tech Akshaya😇: Anna
+30/01/24, 3:50 pm - ✌️Trio Tech Akshaya😇: Busy??
+30/01/24, 3:50 pm - ✌️Trio Tech Akshaya😇: I got call from capgemini
+30/01/24, 3:50 pm - ✌️Trio Tech Akshaya😇: You?
+30/01/24, 3:52 pm - Ram: Meeting
+30/01/24, 3:52 pm - Ram: 7676652629 this number you got
+30/01/24, 3:53 pm - ✌️Trio Tech Akshaya😇: Uh yes
+30/01/24, 3:55 pm - ✌️Trio Tech Akshaya😇: Anna
+30/01/24, 3:55 pm - ✌️Trio Tech Akshaya😇: Nee phone edu
+30/01/24, 3:55 pm - Ram: I was in meeting, what they said
+09/02/24, 2:16 pm - Ram: Send me Neha login details of Trio
+12/02/24, 2:37 pm - ✌️Trio Tech Akshaya😇: Patira.neha@gmail.com
+Password: same triotech@123
+21/02/24, 1:38 pm - Ram: Hello Akshaya
+21/02/24, 2:42 pm - ✌️Trio Tech Akshaya😇: null
+21/02/24, 5:52 pm - Ram: null
+22/02/24, 4:38 pm - Ram: Hello
+01/03/24, 3:07 pm - Ram: Wait current went
+01/03/24, 3:07 pm - Ram: Be on the call itself
+01/03/24, 3:11 pm - ✌️Trio Tech Akshaya😇: Okay
+01/03/24, 3:11 pm - ✌️Trio Tech Akshaya😇: No problem
+01/03/24, 3:14 pm - Ram: Go and pick your kid and come
+01/03/24, 3:14 pm - Ram: So let me know once you back
+01/03/24, 3:45 pm - ✌️Trio Tech Akshaya😇: Anna
+01/03/24, 3:45 pm - ✌️Trio Tech Akshaya😇: Join?
+01/03/24, 3:47 pm - Ram: Wait, I'm in call
+01/03/24, 3:47 pm - Ram: You join in that bridge
+01/03/24, 3:47 pm - ✌️Trio Tech Akshaya😇: Enna call nanu ??
+01/03/24, 3:47 pm - ✌️Trio Tech Akshaya😇: Ok
+01/03/24, 3:48 pm - Ram: Orc la andha Haripriya ku doubt on the ticket
+01/03/24, 3:48 pm - ✌️Trio Tech Akshaya😇: Periyaaa aalaita
+01/03/24, 3:49 pm - ✌️Trio Tech Akshaya😇: Joined
+01/03/24, 3:49 pm - Ram: Don't talk
+01/03/24, 3:49 pm - ✌️Trio Tech Akshaya😇: Enakku onum kekalaye
+01/03/24, 3:49 pm - ✌️Trio Tech Akshaya😇: Nee pasearthi
+01/03/24, 3:50 pm - ✌️Trio Tech Akshaya😇: Nee unmute
+01/03/24, 3:50 pm - ✌️Trio Tech Akshaya😇: Pannu
+01/03/24, 3:50 pm - ✌️Trio Tech Akshaya😇: Na ketutrukaen
+01/03/24, 3:53 pm - Ram: Pesiradha
+01/03/24, 3:53 pm - Ram: Mute la ila
+01/03/24, 3:53 pm - ✌️Trio Tech Akshaya😇: Na mute la
+01/03/24, 3:53 pm - ✌️Trio Tech Akshaya😇: Irruk
+01/03/24, 3:53 pm - ✌️Trio Tech Akshaya😇: Irruka
+01/03/24, 3:54 pm - ✌️Trio Tech Akshaya😇: Na pesala
+01/03/24, 6:45 pm - ✌️Trio Tech Akshaya😇: Annanaaaaaaaa
+01/03/24, 6:45 pm - ✌️Trio Tech Akshaya😇: Freee yaaa vidu
+04/03/24, 6:15 pm - Ram: https://youtu.be/HhflUeE_Ig0?si=KBrPELMNNiX2uRD0
+04/03/24, 6:15 pm - Ram: This is Kumar
+04/03/24, 6:15 pm - Ram: Finally we saw his face
+04/03/24, 6:16 pm - ✌️Trio Tech Akshaya😇: Hahaha wait I will also see
+04/03/24, 6:17 pm - ✌️Trio Tech Akshaya😇: Anna
+04/03/24, 6:17 pm - ✌️Trio Tech Akshaya😇: This is not
+04/03/24, 6:17 pm - ✌️Trio Tech Akshaya😇: Kumar
+04/03/24, 6:17 pm - ✌️Trio Tech Akshaya😇: Voice Vera Mari
+04/03/24, 6:18 pm - ✌️Trio Tech Akshaya😇: Irruke
+04/03/24, 6:18 pm - ✌️Trio Tech Akshaya😇: 🤔🤔🤔
+04/03/24, 6:18 pm - ✌️Trio Tech Akshaya😇: Team nu solvable
+04/03/24, 6:18 pm - ✌️Trio Tech Akshaya😇: Solvane slang kooda Vera maari irrku
+04/03/24, 6:31 pm - ✌️Trio Tech Akshaya😇: Anna call
+04/03/24, 6:32 pm - ✌️Trio Tech Akshaya😇: Mudinjathum call panra <This message was edited>
+04/03/24, 6:32 pm - ✌️Trio Tech Akshaya😇: 🥱
+04/03/24, 6:57 pm - Ram: Ok
+05/03/24, 12:42 pm - Ram: She has texted probably L2 round will be there will confirm by EOD
+05/03/24, 1:26 pm - ✌️Trio Tech Akshaya😇: Great no problem you will clear that
+05/03/24, 1:34 pm - Ram: Hoping so
+05/03/24, 1:35 pm - ✌️Trio Tech Akshaya😇: Yaroda mokka
+05/03/24, 1:35 pm - ✌️Trio Tech Akshaya😇: 😅
+07/03/24, 9:15 pm - ✌️Trio Tech Akshaya😇: ACTE Porur - AWS Java Python Data Science Selenium Software Testing Fullstack Training Chennai https://g.co/kgs/7nu3uih
+08/03/24, 7:33 am - ✌️Trio Tech Akshaya😇: Good morning anna happy shiva rathiri 😇😇
+08/03/24, 7:34 am - Ram: மஹா சிவராத்திரி வாழ்த்துக்கள் !நமசிவாய என்னும் மந்திரத்தை மனதில் நினைக்க எந்த தீமைகளும் நெருங்காது
+http://bz.dhunt.in/TiBwO
+
+By Wish Zone Tamil via Dailyhunt
+08/03/24, 7:35 am - Ram: Wish you the same 🙏🙏🙏
+08/03/24, 7:39 am - Ram: Happy Women's Day sister
+08/03/24, 12:18 pm - Ram: Did you asked her
+08/03/24, 3:17 pm - ✌️Trio Tech Akshaya😇: Iiii thank youuu wconvey same anni as well💐💐💐
+08/03/24, 3:17 pm - ✌️Trio Tech Akshaya😇: 💐😇😇😇
+08/03/24, 4:58 pm - Ram: Sure
+09/03/24, 12:21 pm - Ram: jfy-ihst-qbg
+09/03/24, 12:22 pm - ✌️Trio Tech Akshaya😇: Anna
+09/03/24, 12:22 pm - ✌️Trio Tech Akshaya😇: Full code anupu
+09/03/24, 2:30 pm - Ram: Send me the resignation email format
+09/03/24, 4:07 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+09/03/24, 7:31 pm - Ram: Send Pannu andha template ah
+09/03/24, 7:32 pm - ✌️Trio Tech Akshaya😇: Anna one min lap top
+09/03/24, 7:32 pm - ✌️Trio Tech Akshaya😇: On panra
+09/03/24, 7:42 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+09/03/24, 7:52 pm - Ram: 👍
+10/03/24, 7:26 pm - Ram: <Media omitted>
+10/03/24, 7:26 pm - ✌️Trio Tech Akshaya😇: Super Anna
+10/03/24, 7:26 pm - Ram: Idhu nala iruka
+10/03/24, 7:26 pm - Ram: Correct ah
+10/03/24, 7:26 pm - ✌️Trio Tech Akshaya😇: Correct uh irruku anupidu 🙌
+10/03/24, 7:27 pm - ✌️Trio Tech Akshaya😇: Uh super uh irruku
+10/03/24, 7:27 pm - Ram: Tmrw only have to send
+10/03/24, 7:27 pm - ✌️Trio Tech Akshaya😇: Correct
+10/03/24, 7:27 pm - ✌️Trio Tech Akshaya😇: Okay okay send panidu
+11/03/24, 11:24 am - Ram: Hi Akshaya
+11/03/24, 11:42 am - ✌️Trio Tech Akshaya😇: Hi Anna
+11/03/24, 11:46 am - Ram: Inga paper potta udane enoda previous manager sema kathu phone la
+11/03/24, 11:51 am - ✌️Trio Tech Akshaya😇: En??
+11/03/24, 11:52 am - Ram: See nee atleast 1 year Mela irupen pathen ana you have removed the trust
+11/03/24, 11:52 am - ✌️Trio Tech Akshaya😇: Na call Panren
+11/03/24, 11:52 am - Ram: Henceforth unala yaraiyum HR la irundhu won't take to Oracle team internally
+11/03/24, 11:52 am - Ram: Will call later
+11/03/24, 11:53 am - ✌️Trio Tech Akshaya😇: Okayyy
+11/03/24, 11:53 am - ✌️Trio Tech Akshaya😇: 😐
+11/03/24, 11:53 am - ✌️Trio Tech Akshaya😇: Idu oru Sakku avangalukkuw
+11/03/24, 12:25 pm - Ram: Whether they can able to find out where I got the offer?
+11/03/24, 12:27 pm - ✌️Trio Tech Akshaya😇: Athellam illa avangalukku gaandu but yaarayum maath maatanga
+11/03/24, 12:27 pm - ✌️Trio Tech Akshaya😇: 😅 hr lendu
+11/03/24, 12:27 pm - ✌️Trio Tech Akshaya😇: Hcm ku
+11/03/24, 12:27 pm - ✌️Trio Tech Akshaya😇: Athu mattum puriyuthu
+11/03/24, 12:28 pm - Ram: Ila Inga Oracle Delivery manager ta Sola ponen, he said I have a meeting will talk later
+11/03/24, 12:28 pm - Ram: He has more contacts with other companies
+11/03/24, 12:28 pm - Ram: Whether he can able to find?
+11/03/24, 12:28 pm - Ram: Mastek la neraya per Inga irundhu poi irukanunga
+11/03/24, 12:44 pm - ✌️Trio Tech Akshaya😇: Don’t say o got offer
+11/03/24, 12:44 pm - ✌️Trio Tech Akshaya😇: From mastek
+11/03/24, 12:45 pm - ✌️Trio Tech Akshaya😇: Don’t tell company
+11/03/24, 12:45 pm - ✌️Trio Tech Akshaya😇: Name
+11/03/24, 12:45 pm - ✌️Trio Tech Akshaya😇: To him or anyone
+11/03/24, 12:52 pm - Ram: I won't say to anyone
+13/03/24, 8:17 pm - Ram: Hello madam
+14/03/24, 12:02 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+14/03/24, 12:02 pm - ✌️Trio Tech Akshaya😇: Really sorry
+14/03/24, 12:02 pm - ✌️Trio Tech Akshaya😇: Full tired yesterday
+14/03/24, 12:03 pm - ✌️Trio Tech Akshaya😇: <Media omitted>
+14/03/24, 12:04 pm - ✌️Trio Tech Akshaya😇: Anna she isn’t picking
+14/03/24, 12:04 pm - ✌️Trio Tech Akshaya😇: Anna
+14/03/24, 1:09 pm - Ram: Don't tell full name about me and all to her
+14/03/24, 1:10 pm - Ram: Implementation pannala like that and all
+03/04/24, 8:51 pm - Ram: <Media omitted>
+06/04/24, 10:16 pm - ✌️Trio Tech Akshaya😇: Hey ananaaaa
+06/04/24, 10:16 pm - ✌️Trio Tech Akshaya😇: Thangachi ku wish panala nee
+06/04/24, 10:16 pm - ✌️Trio Tech Akshaya😇: Rommbaaaa
+06/04/24, 10:16 pm - ✌️Trio Tech Akshaya😇: Bad
+06/04/24, 10:16 pm - ✌️Trio Tech Akshaya😇: 🙄🙄🙄
+06/04/24, 10:16 pm - Ram: Bday va
+06/04/24, 10:17 pm - Ram: Aacha cho sorry thangachi
+06/04/24, 10:17 pm - Ram: Pirantha naal valthukal🎂🎂🎉🎉🎉
+06/04/24, 10:18 pm - ✌️Trio Tech Akshaya😇: Kaetu vangina 🙄🙄🙄
+06/04/24, 10:18 pm - Ram: <Media omitted>
+06/04/24, 10:18 pm - ✌️Trio Tech Akshaya😇: But any ways thank youuuuu😇😇🥹🥹🥹kannu vaerkudu
+06/04/24, 10:18 pm - Ram: Ena special
+06/04/24, 10:19 pm - ✌️Trio Tech Akshaya😇: Special dinner now sitting in movie theatre 😅
+06/04/24, 10:19 pm - Ram: Nee kalaku
+06/04/24, 10:19 pm - ✌️Trio Tech Akshaya😇: Enakku ena gift vachurka 😂😂
+06/04/24, 10:20 pm - Ram: <Media omitted>
+06/04/24, 10:20 pm - ✌️Trio Tech Akshaya😇: Nee thiruttu muzhi muzhicchalum
+06/04/24, 10:20 pm - ✌️Trio Tech Akshaya😇: Paravala
+06/04/24, 10:20 pm - ✌️Trio Tech Akshaya😇: Treat
+06/04/24, 10:20 pm - ✌️Trio Tech Akshaya😇: Vekkara
+06/04/24, 10:20 pm - ✌️Trio Tech Akshaya😇: Em b’day
+06/04/24, 10:21 pm - ✌️Trio Tech Akshaya😇: With gift 😅😂
+06/04/24, 10:21 pm - Ram: Nethu enga status call mudinju connect panniren Sona inum pannura ah
+06/04/24, 10:21 pm - ✌️Trio Tech Akshaya😇: Anna birthday baby 👶 anna 😂
+06/04/24, 10:22 pm - ✌️Trio Tech Akshaya😇: Thoongita
+06/04/24, 10:22 pm - Ram: <Media omitted>
+06/04/24, 10:22 pm - ✌️Trio Tech Akshaya😇: 😂😂😂
+10/04/24, 3:45 pm - Ram: <Media omitted>
+10/04/24, 3:45 pm - ✌️Trio Tech Akshaya😇: 😂😂😂
+10/04/24, 3:45 pm - ✌️Trio Tech Akshaya😇: Anna
+10/04/24, 3:45 pm - ✌️Trio Tech Akshaya😇: Onmaiii
+10/04/24, 3:45 pm - ✌️Trio Tech Akshaya😇: Ya sonnen
+10/04/24, 3:45 pm - ✌️Trio Tech Akshaya😇: 😅😅
+10/04/24, 4:38 pm - Ram: 🤣
+14/04/24, 7:28 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+14/04/24, 7:37 am - Ram: <Media omitted>
+14/04/24, 7:37 am - ✌️Trio Tech Akshaya😇: Thanks annaaa
+14/04/24, 7:37 am - ✌️Trio Tech Akshaya😇: What spl today??
+14/04/24, 7:38 am - Ram: Sakara Pongal vechu Sami kumbidanum
+14/04/24, 7:38 am - ✌️Trio Tech Akshaya😇: Okayyy superrr enjoy the dayyy 😇 pray for mee too
+14/04/24, 7:38 am - Ram: Sure
+24/04/24, 8:17 pm - ✌️Trio Tech Akshaya😇: Wowwww super annaaa👌👌🙏🙏🙏🙏🙏
+24/04/24, 8:17 pm - ✌️Trio Tech Akshaya😇: Semaaaa
+24/04/24, 8:18 pm - Ram: <Media omitted>
+24/04/24, 8:18 pm - Ram: <Media omitted>
+24/04/24, 8:20 pm - ✌️Trio Tech Akshaya😇: Wowww
+24/04/24, 8:20 pm - ✌️Trio Tech Akshaya😇: Anna thank you
+24/04/24, 8:20 pm - ✌️Trio Tech Akshaya😇: Because of you have seen atleast from Video
+24/04/24, 8:20 pm - ✌️Trio Tech Akshaya😇: 🙏🙏🙏
+24/04/24, 8:22 pm - Ram: 😊
+01/05/24, 5:36 pm - Ram: Edachum soniya
+01/05/24, 6:03 pm - Ram: Call cut pannum podhu
+01/05/24, 6:52 pm - ✌️Trio Tech Akshaya😇: Yes Anna
+01/05/24, 6:53 pm - ✌️Trio Tech Akshaya😇: Uh nalaiku free na connect aala I have to learn roles
+01/05/24, 6:53 pm - ✌️Trio Tech Akshaya😇: Again actually half purinjuthu
+01/05/24, 6:53 pm - ✌️Trio Tech Akshaya😇: Mathadu puriyala
+01/05/24, 7:22 pm - Ram: Okay nee solu
+08/05/24, 12:32 pm - ✌️Trio Tech Akshaya😇: Annaaaa
+08/05/24, 12:32 pm - ✌️Trio Tech Akshaya😇: Irrukiya??
+08/05/24, 12:32 pm - ✌️Trio Tech Akshaya😇: Phone edu annaaaa
+08/05/24, 12:50 pm - ✌️Trio Tech Akshaya😇: Anaaaa
+08/05/24, 12:50 pm - ✌️Trio Tech Akshaya😇: Irrukiay
+08/05/24, 1:23 pm - Ram: Yes
+08/05/24, 1:36 pm - Ram: Take care don't strain much
+08/05/24, 1:36 pm - ✌️Trio Tech Akshaya😇: Yes Anna 😇👍
+15/05/24, 2:59 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+15/05/24, 2:59 pm - ✌️Trio Tech Akshaya😇: Can we connect or tomorrow?
+15/05/24, 3:15 pm - Ram: Connect by 3.40
+15/05/24, 3:40 pm - ✌️Trio Tech Akshaya😇: Ana
+15/05/24, 3:41 pm - ✌️Trio Tech Akshaya😇: Send the link
+15/05/24, 3:41 pm - ✌️Trio Tech Akshaya😇: Annaaa copy the link here
+15/05/24, 3:41 pm - ✌️Trio Tech Akshaya😇: I will join
+15/05/24, 3:41 pm - ✌️Trio Tech Akshaya😇: Lap is getting updated !!
+15/05/24, 3:55 pm - ✌️Trio Tech Akshaya😇: Hey Anna
+15/05/24, 3:56 pm - ✌️Trio Tech Akshaya😇: Irrukiya illaya?
+15/05/24, 3:56 pm - ✌️Trio Tech Akshaya😇: Yesterday you asked ryt?
+15/05/24, 3:57 pm - Ram: 10 mins iru
+15/05/24, 3:57 pm - Ram: Exit clearance initiate pannitu iruken
+15/05/24, 3:57 pm - ✌️Trio Tech Akshaya😇: Uh ippove va?
+15/05/24, 3:57 pm - ✌️Trio Tech Akshaya😇: Okay okay
+15/05/24, 4:10 pm - Ram: Join now
+15/05/24, 4:10 pm - ✌️Trio Tech Akshaya😇: Link
+15/05/24, 4:10 pm - ✌️Trio Tech Akshaya😇: Please
+15/05/24, 4:10 pm - Ram: Jfy-ihst-qbg
+20/05/24, 11:46 am - ✌️Trio Tech Akshaya😇: Hi Anna all the best
+20/05/24, 11:46 am - ✌️Trio Tech Akshaya😇: 💐💐💐
+20/05/24, 11:46 am - Ram: Thank you so much 👍
+20/05/24, 1:19 pm - ✌️Trio Tech Akshaya😇: Yes Anna
+20/05/24, 1:19 pm - ✌️Trio Tech Akshaya😇: How is your day?
+20/05/24, 1:19 pm - ✌️Trio Tech Akshaya😇: Going? Lunch coupon provided?
+20/05/24, 1:19 pm - ✌️Trio Tech Akshaya😇: Full day plan to stay there??
+20/05/24, 1:19 pm - ✌️Trio Tech Akshaya😇: Tel your experience!!🥳
+20/05/24, 3:18 pm - Ram: You are using Jira for timesheet?
+20/05/24, 5:06 pm - ✌️Trio Tech Akshaya😇: Yes Anna
+20/05/24, 5:06 pm - ✌️Trio Tech Akshaya😇: Y??
+20/05/24, 6:36 pm - Ram: Here also Jira only
+20/05/24, 6:36 pm - Ram: Timesheet adhula dhan poduviya
+20/05/24, 6:37 pm - ✌️Trio Tech Akshaya😇: Oh super anna yes
+20/05/24, 6:37 pm - ✌️Trio Tech Akshaya😇: Yes
+20/05/24, 6:37 pm - ✌️Trio Tech Akshaya😇: Jira oru toll
+20/05/24, 6:37 pm - ✌️Trio Tech Akshaya😇: Tool
+20/05/24, 6:37 pm - ✌️Trio Tech Akshaya😇: Timesheet Vera irrukum
+20/05/24, 6:37 pm - Ram: Easy ah full pannuradhu
+20/05/24, 6:41 pm - ✌️Trio Tech Akshaya😇: Uh?
+20/05/24, 6:41 pm - ✌️Trio Tech Akshaya😇: Purila
+20/05/24, 6:41 pm - ✌️Trio Tech Akshaya😇: Enadu?
+20/05/24, 6:42 pm - Ram: Jira la timesheet fill pannuradhu easy ah
+20/05/24, 6:43 pm - ✌️Trio Tech Akshaya😇: Jira oru ticketing tool anna adula timesheet fill pana mudiyadu
+20/05/24, 6:43 pm - ✌️Trio Tech Akshaya😇: That’s used for tickets to solve!
+20/05/24, 6:44 pm - ✌️Trio Tech Akshaya😇: Ena problem irruko anda jira tool la explain pani solirpaanaga <This message was edited>
+20/05/24, 6:44 pm - ✌️Trio Tech Akshaya😇: Timesheet ku vera irrukum nu nenaikara
+20/05/24, 6:44 pm - Ram: Apadiya
+20/05/24, 6:45 pm - Ram: But ana videos la pakkum podhu they have shown in jira only
+20/05/24, 7:25 pm - ✌️Trio Tech Akshaya😇: Oh therila anna apo
+20/05/24, 7:31 pm - Ram: Okay
+20/05/24, 7:32 pm - ✌️Trio Tech Akshaya😇: Anna’s
+20/05/24, 7:32 pm - ✌️Trio Tech Akshaya😇: Tomorrow enna plan?
+20/05/24, 7:33 pm - ✌️Trio Tech Akshaya😇: Connect without fail!
+20/05/24, 7:58 pm - Ram: IPO varaikum no idea
+20/05/24, 7:59 pm - Ram: They haven't said anything
+21/05/24, 11:51 am - ✌️Trio Tech Akshaya😇: Anna
+21/05/24, 11:51 am - ✌️Trio Tech Akshaya😇: Enna panra
+21/05/24, 11:52 am - ✌️Trio Tech Akshaya😇: Connect aalama??
+21/05/24, 11:52 am - ✌️Trio Tech Akshaya😇: Deloitte lerndu
+21/05/24, 11:52 am - ✌️Trio Tech Akshaya😇: Onnum varla anna
+21/05/24, 11:52 am - ✌️Trio Tech Akshaya😇: 😅
+21/05/24, 11:56 am - Ram: Hi
+21/05/24, 11:57 am - ✌️Trio Tech Akshaya😇: I tried reaching but no answer!!😅
+21/05/24, 12:00 pm - ✌️Trio Tech Akshaya😇: Anna
+21/05/24, 12:00 pm - ✌️Trio Tech Akshaya😇: Send the
+21/05/24, 12:00 pm - ✌️Trio Tech Akshaya😇: Link
+21/05/24, 12:00 pm - ✌️Trio Tech Akshaya😇: I will join
+21/05/24, 12:01 pm - ✌️Trio Tech Akshaya😇: Anna’s enakku nethikki discuss panaradha instance la
+21/05/24, 12:01 pm - ✌️Trio Tech Akshaya😇: Demo pannu
+21/05/24, 12:02 pm - Ram: 10 mins iru
+21/05/24, 12:07 pm - ✌️Trio Tech Akshaya😇: Annaaaaaaa
+21/05/24, 12:07 pm - ✌️Trio Tech Akshaya😇: Okay
+21/05/24, 12:07 pm - ✌️Trio Tech Akshaya😇: Enna oppeech illaya?
+21/05/24, 12:12 pm - Ram: Join pannu
+21/05/24, 12:13 pm - ✌️Trio Tech Akshaya😇: Anna
+21/05/24, 12:13 pm - ✌️Trio Tech Akshaya😇: Joined
+21/05/24, 12:13 pm - ✌️Trio Tech Akshaya😇: Accept pannu
+21/05/24, 3:16 pm - ✌️Trio Tech Akshaya😇: Anna oru doubt
+21/05/24, 3:34 pm - ✌️Trio Tech Akshaya😇: Anna busy?
+21/05/24, 5:27 pm - ✌️Trio Tech Akshaya😇: Anna
+21/05/24, 5:27 pm - ✌️Trio Tech Akshaya😇: Uh??
+21/05/24, 5:32 pm - Ram: I joined
+21/05/24, 5:33 pm - ✌️Trio Tech Akshaya😇 pinned a message
+24/05/24, 11:47 am - ✌️Trio Tech Akshaya😇: Hi anna
+24/05/24, 11:48 am - ✌️Trio Tech Akshaya😇: How was your call
+24/05/24, 11:48 am - ✌️Trio Tech Akshaya😇: Yesterday? Happen to tell about your timings?
+24/05/24, 1:02 pm - Ram: Not happened
+24/05/24, 1:04 pm - ✌️Trio Tech Akshaya😇: Y??
+24/05/24, 1:04 pm - ✌️Trio Tech Akshaya😇: Logged in?
+24/05/24, 1:22 pm - Ram: Cancelled at last moment
+24/05/24, 1:22 pm - ✌️Trio Tech Akshaya😇: Ensoyyyw
+24/05/24, 1:36 pm - ✌️Trio Tech Akshaya😇: null
+24/05/24, 1:48 pm - Ram: null
+24/05/24, 1:53 pm - Ram: null
+24/05/24, 2:10 pm - Ram: Joined
+24/05/24, 5:43 pm - ✌️Trio Tech Akshaya😇: Annaaa
+24/05/24, 5:43 pm - ✌️Trio Tech Akshaya😇: So sorry
+24/05/24, 5:43 pm - ✌️Trio Tech Akshaya😇: Anna UAT support
+24/05/24, 5:43 pm - ✌️Trio Tech Akshaya😇: Call pananga
+24/05/24, 5:43 pm - ✌️Trio Tech Akshaya😇: I was in that tension
+24/05/24, 5:46 pm - Ram: Ok
+24/05/24, 5:46 pm - ✌️Trio Tech Akshaya😇: Do you want me to join now?
+25/05/24, 11:44 am - Ram: What is the password for Tri tech
+25/05/24, 11:44 am - ✌️Trio Tech Akshaya😇: Triotech@123
+25/05/24, 12:20 pm - Ram: Not going
+29/05/24, 3:45 pm - Ram: null
+30/05/24, 1:00 pm - Ram: Hi Akshaya
+30/05/24, 2:55 pm - ✌️Trio Tech Akshaya😇: Hi Anna
+30/05/24, 2:55 pm - ✌️Trio Tech Akshaya😇: Ipodan
+30/05/24, 2:55 pm - ✌️Trio Tech Akshaya😇: Message
+30/05/24, 3:22 pm - Ram: Talent management la ena ena sub modules iruku
+30/05/24, 2:55 pm - ✌️Trio Tech Akshaya😇: Pathe
+30/05/24, 2:55 pm - ✌️Trio Tech Akshaya😇: Enna panra?
+30/05/24, 5:13 pm - Ram: null
+30/05/24, 5:26 pm - Ram: null
+30/05/24, 5:27 pm - Ram: null
+05/06/24, 11:47 am - Ram: Nee lam irukiya
+05/06/24, 1:20 pm - ✌️Trio Tech Akshaya😇: null
+05/06/24, 1:20 pm - ✌️Trio Tech Akshaya😇: Parraaaa
+05/06/24, 1:21 pm - ✌️Trio Tech Akshaya😇: Thalavair
+05/06/24, 1:21 pm - ✌️Trio Tech Akshaya😇: Pro pic kalakallal
+11/06/24, 6:05 pm - ✌️Trio Tech Akshaya😇: null
+11/06/24, 6:06 pm - ✌️Trio Tech Akshaya😇: Oi
+11/06/24, 6:06 pm - ✌️Trio Tech Akshaya😇: Anna
+11/06/24, 6:06 pm - ✌️Trio Tech Akshaya😇: Irrukiya
+11/06/24, 6:07 pm - ✌️Trio Tech Akshaya😇: Illaya?
+11/06/24, 6:38 pm - ✌️Trio Tech Akshaya😇: Hello Anna marandutiya?
+11/06/24, 6:38 pm - ✌️Trio Tech Akshaya😇: Phone eh kaanum
+11/06/24, 6:39 pm - ✌️Trio Tech Akshaya😇: Enga irruka??office??
+24/06/24, 12:31 pm - ✌️Trio Tech Akshaya😇: Hey Anna
+24/06/24, 12:31 pm - ✌️Trio Tech Akshaya😇: Phone edu <This message was edited>
+24/06/24, 12:31 pm - ✌️Trio Tech Akshaya😇: 🥲🙄
+25/06/24, 2:02 pm - ✌️Trio Tech Akshaya😇: Hey Anna
+25/06/24, 2:02 pm - ✌️Trio Tech Akshaya😇: Over uh panra phone panna Eduka maatengara <This message was edited>
+25/06/24, 2:03 pm - ✌️Trio Tech Akshaya😇: 🙄🙄🥲
+25/06/24, 4:16 pm - ✌️Trio Tech Akshaya😇: Annaaaa naa call panra enakku suggestion kudu
+26/06/24, 9:33 pm - Ram: Send your screenshot as well
+26/06/24, 9:33 pm - ✌️Trio Tech Akshaya😇: Sure Anna
+27/06/24, 11:24 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+27/06/24, 11:25 am - ✌️Trio Tech Akshaya😇: <Media omitted>
+27/06/24, 11:27 am - Ram: Pannurana ah ipo?
+27/06/24, 11:28 am - ✌️Trio Tech Akshaya😇: Illa
+27/06/24, 11:28 am - ✌️Trio Tech Akshaya😇: Panamata
+27/06/24, 11:28 am - Ram: Ask Ruchi also to talk to him
+27/06/24, 11:28 am - Ram: If she shouted it means he will do
+27/06/24, 11:28 am - ✌️Trio Tech Akshaya😇: You talk nah anna
+27/06/24, 11:28 am - Ram: He is speaking to some one else
+27/06/24, 11:29 am - ✌️Trio Tech Akshaya😇: Okay
+27/06/24, 11:29 am - ✌️Trio Tech Akshaya😇: I will call you give 2 mins
+27/06/24, 11:29 am - ✌️Trio Tech Akshaya😇: Call end ayidum
+27/06/24, 11:29 am - Ram: Ok
+27/06/24, 4:57 pm - Ram: Now video is enabled
+27/06/24, 5:00 pm - ✌️Trio Tech Akshaya😇: Great 👍 I will also check
+03/07/24, 5:54 pm - Ram: In a meeting
+03/07/24, 5:55 pm - ✌️Trio Tech Akshaya😇: Okayyy
+04/07/24, 10:09 am - ✌️Trio Tech Akshaya😇: Heyyy
+04/07/24, 10:10 am - ✌️Trio Tech Akshaya😇: Anna
+04/07/24, 10:10 am - ✌️Trio Tech Akshaya😇: Pathiya
+04/07/24, 10:10 am - ✌️Trio Tech Akshaya😇: Ippdi panra po anna
+04/07/24, 10:10 am - ✌️Trio Tech Akshaya😇: Enakku eduvume sola matra
+04/07/24, 10:49 am - Ram: Nan sonen la 8th anaiku Demo iruku nu, complete ah back to back meetings so adhu nala morning full ah I'm sleeping headache vera
+04/07/24, 10:49 am - Ram: Kandipa I will teach don't worry
+04/07/24, 2:11 pm - ✌️Trio Tech Akshaya😇: Annaaaa Deloitte varanu 😢😓🤞🤞
+04/07/24, 2:11 pm - ✌️Trio Tech Akshaya😇: Po Anna kavalaya irruku
+04/07/24, 3:42 pm - Ram: Wait soon all will be good
+04/07/24, 5:10 pm - ✌️Trio Tech Akshaya😇: 🥺🥺😣
+05/07/24, 4:45 pm - ✌️Trio Tech Akshaya😇: Hey Anna
+05/07/24, 4:46 pm - ✌️Trio Tech Akshaya😇: One thing
+05/07/24, 4:46 pm - ✌️Trio Tech Akshaya😇: Can I call Deloitte person now it’s evening ryt?
+05/07/24, 4:48 pm - Ram: Okay ipo try pannu
+05/07/24, 4:49 pm - ✌️Trio Tech Akshaya😇: Anna
+05/07/24, 4:49 pm - ✌️Trio Tech Akshaya😇: Not attending….
+05/07/24, 4:51 pm - ✌️Trio Tech Akshaya😇: Annaaa
+05/07/24, 4:51 pm - ✌️Trio Tech Akshaya😇: He called me back
+05/07/24, 4:58 pm - Ram: What he said
+05/07/24, 4:52 pm - ✌️Trio Tech Akshaya😇: My name is in the list and he told next Thursday 😓🤞🤞🤞🤞🤞
+05/07/24, 4:58 pm - Ram: Good
+05/07/24, 5:03 pm - ✌️Trio Tech Akshaya😇: A dhan sonna avan
+05/07/24, 5:03 pm - ✌️Trio Tech Akshaya😇: Ver onnum solala np60 days nu avane sonna
+05/07/24, 5:04 pm - ✌️Trio Tech Akshaya😇: Na Sattunu aama nu solta
+05/07/24, 5:06 pm - Ram: Okay let us wait
+15/07/24, 6:52 pm - Ram: I will call you tomorrow
+15/07/24, 6:52 pm - Ram: Since the session are not yet over
+15/07/24, 6:53 pm - Ram: Tmrw only getting over
+15/07/24, 6:53 pm - Ram: When you are calling I was in meeting
+15/07/24, 8:49 pm - ✌️Trio Tech Akshaya😇: Okay Anna
+18/07/24, 11:58 am - Ram: Physio la iruken
+18/07/24, 12:07 pm - ✌️Trio Tech Akshaya😇: Iyo
+18/07/24, 12:07 pm - ✌️Trio Tech Akshaya😇: Enna achu?
+18/07/24, 12:07 pm - ✌️Trio Tech Akshaya😇: Anna??
+18/07/24, 12:50 pm - Ram: Shoulder sprain aiyuruchu
+18/07/24, 5:49 pm - ✌️Trio Tech Akshaya😇: Uh avlo
+18/07/24, 5:50 pm - ✌️Trio Tech Akshaya😇: Velai panriya??😅😜
+18/07/24, 5:50 pm - ✌️Trio Tech Akshaya😇: Company kaga avlo ozhaikiraya?
+18/07/24, 10:05 pm - Ram: Aya
+23/07/24, 8:39 pm - ✌️Trio Tech Akshaya😇: Hi annaaa
+23/07/24, 8:39 pm - ✌️Trio Tech Akshaya😇: Epdi irruka?
+23/07/24, 9:01 pm - ✌️Trio Tech Akshaya😇: Annaaa
+23/07/24, 9:01 pm - ✌️Trio Tech Akshaya😇: Deloitte offer released!!😅
+23/07/24, 9:01 pm - ✌️Trio Tech Akshaya😇: But I have a doubt they
+24/07/24, 7:04 pm - Ram: Can't talk now in a meeting
+24/07/24, 7:55 pm - ✌️Trio Tech Akshaya😇: Now??
+24/07/24, 8:10 pm - ✌️Trio Tech Akshaya😇: Anaaaaaaa
+24/07/24, 8:10 pm - ✌️Trio Tech Akshaya😇: Evlo neram un meetingsssss
+24/07/24, 8:10 pm - ✌️Trio Tech Akshaya😇: ???🙆‍♀️🥲🥲
+25/07/24, 12:38 pm - ✌️Trio Tech Akshaya😇: Annnaaaa
+25/07/24, 3:40 pm - Ram: Solu
+26/07/24, 12:11 pm - ✌️Trio Tech Akshaya😇: Annaaaaaaa
+26/07/24, 12:11 pm - ✌️Trio Tech Akshaya😇: Irrukiya
+26/07/24, 12:12 pm - ✌️Trio Tech Akshaya😇: May I call you
+26/07/24, 4:50 pm - Ram: Hello Akshaya
+26/07/24, 4:51 pm - ✌️Trio Tech Akshaya😇: Ada ponaaaa
+26/07/24, 4:51 pm - ✌️Trio Tech Akshaya😇: 😓😓
+31/07/24, 11:27 am - Ram: Hello madam
+31/07/24, 11:27 am - Ram: Bgv got cleared?
+31/07/24, 11:59 am - ✌️Trio Tech Akshaya😇: Implementation project 
+Support 
+Or enhancement
+31/07/24, 12:00 pm - ✌️Trio Tech Akshaya😇: 2) legislation come timings
+31/07/24, 12:00 pm - ✌️Trio Tech Akshaya😇: 3) is project redwood enabled or responsive ui
+31/07/24, 12:01 pm - ✌️Trio Tech Akshaya😇: 4) How many functional people involved in this project ? Is their nay technical and data migration people in team
+31/07/24, 12:01 pm - ✌️Trio Tech Akshaya😇: This message was deleted
+31/07/24, 12:02 pm - ✌️Trio Tech Akshaya😇: 5) What are the modules I will be part of <This message was edited>
+31/07/24, 12:04 pm - ✌️Trio Tech Akshaya😇: General and uk
+31/07/24, 12:04 pm - ✌️Trio Tech Akshaya😇: Shifts
+31/07/24, 1:52 pm - ✌️Trio Tech Akshaya😇: Annaaa say
+31/07/24, 1:52 pm - ✌️Trio Tech Akshaya😇: All the best
+31/07/24, 1:52 pm - ✌️Trio Tech Akshaya😇: To meeee😅
+31/07/24, 1:52 pm - Ram: All the Best
+31/07/24, 1:52 pm - Ram: <Media omitted>
+31/07/24, 1:52 pm - ✌️Trio Tech Akshaya😇: Thankkk youuu annaaathe🥂🥂
+01/08/24, 7:08 pm - ✌️Trio Tech Akshaya😇: Annaaa
+01/08/24, 7:08 pm - ✌️Trio Tech Akshaya😇: Doubt
+01/08/24, 7:08 pm - ✌️Trio Tech Akshaya😇: Please call when you are free??
